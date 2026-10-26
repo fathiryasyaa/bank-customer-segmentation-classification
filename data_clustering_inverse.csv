@@ -1,0 +1,1946 @@
+TransactionAmount,TransactionType,Location,Channel,CustomerAge,CustomerOccupation,TransactionDuration,LoginAttempts,AccountBalance,AgeGroup,Target
+14.090000000000032,Debit,San Diego,ATM,70.0,Doctor,81.0,1.0,5112.21,Lansia,1
+376.24,Debit,Houston,ATM,68.0,Doctor,141.0,1.0,13758.91,Lansia,0
+126.29000000000002,Debit,Mesa,Online,19.0,Student,56.0,1.0,1122.3499999999995,Muda,1
+184.5,Debit,Raleigh,Online,26.0,Student,25.0,1.0,8569.06,Muda,1
+92.15,Debit,Oklahoma City,ATM,18.0,Student,172.0,1.0,781.6800000000003,Muda,1
+7.0800000000000125,Credit,Seattle,ATM,37.0,Doctor,139.0,1.0,13316.71,Dewasa,1
+171.42,Credit,Indianapolis,Branch,67.0,Retired,291.0,1.0,2796.24,Lansia,0
+106.23000000000002,Credit,Detroit,Branch,51.0,Engineer,86.0,1.0,9095.14,Dewasa,0
+815.96,Debit,Nashville,ATM,55.0,Doctor,120.0,1.0,1021.8799999999997,Dewasa,1
+17.779999999999973,Credit,Albuquerque,Online,52.0,Engineer,59.0,1.0,7599.52,Dewasa,0
+190.02,Debit,Memphis,Online,21.0,Student,173.0,1.0,1528.81,Muda,1
+494.52,Credit,Mesa,Branch,24.0,Student,111.0,1.0,1620.02,Muda,1
+781.76,Debit,Memphis,ATM,26.0,Student,123.0,1.0,189.6899999999996,Muda,1
+166.99,Debit,Louisville,Online,18.0,Student,134.0,1.0,299.9300000000003,Muda,0
+465.45,Debit,Denver,ATM,36.0,Engineer,129.0,1.0,3465.54,Dewasa,0
+555.8,Credit,Austin,Branch,19.0,Student,158.0,1.0,1131.2600000000007,Muda,0
+492.92999999999995,Debit,Columbus,Online,39.0,Engineer,234.0,1.0,5109.97,Dewasa,0
+18.680000000000035,Credit,Albuquerque,Branch,59.0,Retired,106.0,1.0,7948.37,Lansia,0
+71.48000000000002,Credit,Columbus,Online,18.0,Student,169.0,1.0,6568.59,Muda,0
+59.31999999999999,Debit,Los Angeles,Branch,71.0,Retired,38.0,1.0,5750.89,Lansia,0
+85.76999999999998,Debit,Las Vegas,Branch,38.0,Doctor,93.0,1.0,9146.19,Dewasa,0
+145.53999999999996,Debit,Raleigh,Online,21.0,Student,96.0,1.0,1930.96,Muda,1
+7.490000000000009,Credit,Houston,Online,65.0,Retired,276.0,1.0,3634.67,Lansia,0
+40.31999999999999,Debit,Milwaukee,Branch,37.0,Engineer,95.0,1.0,2686.52,Dewasa,1
+127.44999999999999,Debit,Las Vegas,Online,44.0,Doctor,197.0,1.0,1772.06,Dewasa,0
+56.170000000000016,Debit,Detroit,Branch,27.0,Student,283.0,1.0,1351.69,Muda,0
+28.310000000000002,Credit,Miami,Online,59.0,Doctor,20.0,1.0,8334.47,Lansia,1
+59.120000000000005,Debit,Baltimore,ATM,29.0,Doctor,257.0,1.0,9823.64,Muda,0
+877.81,Debit,Los Angeles,Online,21.999999999999996,Student,150.0,1.0,399.0,Muda,0
+255.26,Credit,San Francisco,Branch,45.0,Doctor,50.0,1.0,14815.869999999999,Dewasa,1
+124.75999999999999,Debit,Seattle,Branch,49.0,Engineer,45.0,1.0,5764.72,Dewasa,1
+78.13,Debit,Milwaukee,Branch,26.0,Student,145.0,1.0,900.6099999999997,Muda,1
+335.63,Debit,Oklahoma City,Online,55.0,Retired,216.0,1.0,1019.3899999999999,Dewasa,1
+328.47,Debit,San Antonio,ATM,63.0,Retired,119.0,1.0,4323.66,Lansia,1
+34.02000000000001,Debit,Philadelphia,Online,38.0,Doctor,19.0,1.0,14214.48,Dewasa,1
+241.42,Credit,Charlotte,Online,57.0,Doctor,116.0,1.0,13357.02,Lansia,0
+55.31999999999999,Debit,Tucson,ATM,19.0,Student,117.0,1.0,241.78999999999996,Muda,1
+304.31,Debit,Louisville,Branch,27.0,Student,33.0,1.0,868.6099999999997,Muda,0
+164.49,Debit,Baltimore,Branch,26.0,Student,75.0,1.0,1509.27,Muda,0
+510.24,Debit,Oklahoma City,Online,19.0,Student,105.0,1.0,781.6999999999998,Muda,1
+626.9,Debit,Denver,Online,26.0,Student,138.0,1.0,265.5100000000002,Muda,0
+425.34,Credit,Kansas City,Online,69.0,Retired,121.0,1.0,3907.54,Lansia,0
+85.43,Debit,Virginia Beach,Branch,67.0,Doctor,145.0,1.0,14904.899999999998,Lansia,1
+169.5,Debit,San Diego,Branch,28.0,Student,142.0,1.0,918.8800000000001,Muda,1
+104.63,Debit,Omaha,ATM,62.0,Retired,90.0,1.0,4477.78,Lansia,1
+316.95,Debit,Mesa,Branch,25.0,Student,83.0,1.0,1324.0299999999997,Muda,1
+60.53999999999999,Credit,Columbus,Branch,57.0,Retired,52.0,1.0,3534.93,Lansia,0
+292.56,Credit,Dallas,Branch,68.0,Retired,61.0,1.0,4638.37,Lansia,0
+386.52,Debit,Indianapolis,Branch,48.0,Engineer,28.0,1.0,5630.61,Dewasa,0
+112.07,Debit,Kansas City,Branch,23.0,Student,51.0,1.0,930.3000000000002,Muda,0
+349.64,Debit,Las Vegas,Online,48.0,Engineer,226.0,1.0,6651.62,Dewasa,0
+601.4,Credit,Philadelphia,Branch,56.0,Engineer,104.0,1.0,8458.29,Lansia,1
+5.769999999999982,Debit,Charlotte,Online,50.0,Doctor,124.0,1.0,13988.119999999999,Dewasa,0
+201.33,Credit,Nashville,Branch,42.0,Engineer,186.0,1.0,2585.07,Dewasa,1
+298.42,Debit,Indianapolis,Branch,56.0,Retired,225.0,1.0,3014.75,Lansia,0
+521.06,Debit,Albuquerque,Branch,25.0,Student,128.0,1.0,1951.42,Muda,0
+117.28,Credit,Austin,Online,60.0,Engineer,16.0,1.0,3665.77,Lansia,0
+133.55,Debit,Atlanta,ATM,44.0,Engineer,220.0,1.0,3846.28,Dewasa,0
+143.21000000000004,Debit,Dallas,Online,35.0,Engineer,135.0,1.0,6374.82,Dewasa,0
+24.769999999999982,Debit,Boston,ATM,62.0,Retired,55.0,1.0,5866.01,Lansia,0
+233.92,Credit,Jacksonville,Online,26.0,Student,280.0,1.0,6537.62,Muda,0
+91.53,Debit,Milwaukee,Branch,44.0,Doctor,69.0,1.0,14676.05,Dewasa,1
+120.29000000000002,Debit,Miami,Branch,19.0,Student,77.0,1.0,1362.3900000000003,Muda,1
+174.25,Debit,Seattle,Online,50.0,Doctor,67.0,1.0,10528.34,Dewasa,1
+183.71,Debit,Denver,ATM,38.0,Engineer,102.0,1.0,552.5199999999995,Dewasa,0
+259.91,Debit,Denver,Online,49.0,Doctor,170.0,1.0,7176.86,Dewasa,0
+154.71,Debit,San Diego,Online,34.0,Doctor,157.0,1.0,1523.7200000000003,Dewasa,1
+24.560000000000002,Debit,Mesa,Branch,64.0,Doctor,69.0,1.0,9869.93,Lansia,1
+9.609999999999985,Credit,San Diego,Online,58.0,Doctor,179.0,1.0,12883.91,Lansia,1
+392.96,Debit,Kansas City,Online,24.0,Student,100.0,1.0,791.6499999999996,Muda,0
+716.93,Credit,Milwaukee,Online,60.0,Retired,34.0,1.0,4064.02,Lansia,1
+230.66,Debit,Houston,Branch,21.0,Student,135.0,1.0,618.0500000000002,Muda,0
+644.17,Debit,San Antonio,ATM,29.0,Engineer,72.0,1.0,1143.52,Muda,1
+508.68,Credit,Mesa,Branch,51.0,Engineer,127.0,1.0,7708.41,Dewasa,1
+858.6300000000001,Credit,San Francisco,Branch,27.0,Student,185.0,1.0,1872.96,Muda,1
+25.360000000000014,Debit,Louisville,ATM,57.0,Engineer,78.0,1.0,201.03999999999996,Lansia,0
+147.62,Debit,Charlotte,Branch,71.0,Retired,133.0,1.0,2115.8,Lansia,0
+115.01999999999998,Debit,San Antonio,Branch,37.0,Doctor,175.0,1.0,7643.66,Dewasa,1
+383.37,Debit,Fort Worth,Branch,30.0,Engineer,24.0,1.0,8901.93,Muda,0
+196.16,Debit,Virginia Beach,Branch,27.0,Engineer,146.0,1.0,9418.86,Muda,1
+129.94,Debit,Las Vegas,ATM,32.0,Engineer,235.0,1.0,7954.92,Muda,0
+306.9,Debit,Colorado Springs,Online,46.0,Engineer,51.0,1.0,9418.08,Dewasa,0
+114.98000000000002,Debit,Seattle,Online,59.0,Retired,80.0,1.0,6144.68,Lansia,1
+756.5900000000001,Debit,Sacramento,Branch,27.0,Student,17.0,1.0,420.64999999999964,Muda,1
+503.76,Debit,Los Angeles,Online,21.999999999999996,Student,35.0,1.0,447.8199999999997,Muda,0
+143.03,Debit,San Antonio,ATM,63.0,Retired,147.0,1.0,7981.45,Lansia,1
+254.37,Credit,Dallas,Online,51.0,Engineer,174.0,1.0,8849.26,Dewasa,0
+213.76,Credit,Dallas,ATM,78.0,Retired,282.0,1.0,3528.72,Lansia,0
+327.86,Debit,Fresno,Online,40.0,Engineer,104.0,1.0,480.15999999999985,Dewasa,0
+2.5000000000000284,Debit,San Diego,Online,47.0,Doctor,107.0,1.0,12145.27,Dewasa,1
+300.08,Credit,Austin,Online,68.0,Doctor,47.0,1.0,13546.75,Lansia,0
+115.82999999999998,Debit,Fresno,Branch,39.0,Engineer,167.0,1.0,6481.04,Dewasa,0
+53.56999999999999,Debit,Houston,ATM,69.0,Retired,121.0,1.0,1651.33,Lansia,0
+63.34,Credit,Detroit,Online,46.0,Doctor,165.0,1.0,11174.94,Dewasa,0
+331.65,Debit,Portland,Online,41.0,Engineer,61.0,1.0,4172.57,Dewasa,1
+5.039999999999992,Debit,Washington,ATM,56.0,Retired,41.0,1.0,5558.36,Lansia,1
+214.54,Credit,Detroit,Online,70.0,Doctor,247.0,1.0,11151.53,Lansia,0
+598.81,Debit,Philadelphia,Branch,57.0,Doctor,158.0,1.0,1415.52,Lansia,1
+841.28,Debit,Tucson,Online,26.0,Student,80.0,1.0,1103.6400000000008,Muda,1
+38.150000000000006,Debit,Mesa,Online,26.0,Student,108.0,1.0,303.6800000000003,Muda,1
+124.72,Debit,Oklahoma City,Branch,33.0,Engineer,105.0,1.0,6309.8,Dewasa,1
+302.45,Credit,San Antonio,Branch,78.0,Retired,40.000000000000014,1.0,5133.61,Lansia,1
+208.04,Debit,Louisville,Online,47.0,Engineer,273.0,1.0,9344.98,Dewasa,0
+5.769999999999982,Credit,Los Angeles,Branch,23.0,Student,254.0,1.0,1117.9700000000003,Muda,0
+381.33,Debit,Albuquerque,ATM,56.0,Doctor,75.0,1.0,11835.35,Lansia,0
+16.159999999999997,Debit,Milwaukee,ATM,50.0,Doctor,124.0,1.0,14401.169999999998,Dewasa,1
+486.08,Debit,Oklahoma City,Online,18.0,Student,68.0,1.0,1748.69,Muda,1
+336.39,Debit,San Antonio,Branch,21.0,Student,17.999999999999986,1.0,1000.46,Muda,1
+234.57,Debit,Chicago,Online,23.0,Student,120.0,1.0,263.9800000000005,Muda,0
+6.000000000000028,Debit,Chicago,Online,30.0,Doctor,246.0,1.0,5442.76,Muda,0
+227.14,Debit,Charlotte,ATM,18.0,Student,294.0,1.0,341.9399999999996,Muda,0
+45.849999999999994,Debit,Los Angeles,ATM,20.0,Student,92.0,1.0,1659.15,Muda,0
+415.5,Debit,Memphis,ATM,66.0,Doctor,141.0,1.0,10113.66,Lansia,1
+265.76,Debit,Philadelphia,Online,54.0,Retired,92.0,1.0,4446.17,Dewasa,1
+69.4,Debit,Virginia Beach,Online,80.0,Retired,113.0,1.0,6452.77,Lansia,1
+332.93,Credit,Albuquerque,Branch,35.0,Engineer,293.0,1.0,2788.2,Dewasa,0
+267.9,Debit,San Antonio,Online,20.0,Student,160.0,1.0,596.1599999999999,Muda,1
+496.03,Debit,San Francisco,Branch,61.0,Doctor,265.0,1.0,12904.66,Lansia,1
+376.26,Debit,Tucson,ATM,37.0,Engineer,245.0,1.0,9062.4,Dewasa,1
+83.01999999999998,Credit,Seattle,Online,36.0,Engineer,171.0,1.0,9009.56,Dewasa,1
+93.25999999999999,Credit,New York,Online,20.0,Student,72.0,1.0,1152.1999999999994,Muda,1
+803.3700000000001,Credit,Memphis,Branch,68.0,Doctor,129.0,1.0,12168.37,Lansia,1
+35.75999999999996,Debit,Charlotte,Branch,23.0,Student,122.0,1.0,611.8599999999997,Muda,0
+28.53000000000003,Debit,Washington,Online,62.0,Doctor,99.0,1.0,8670.53,Lansia,1
+139.53000000000003,Credit,Louisville,Online,53.0,Doctor,177.0,1.0,10098.86,Dewasa,0
+307.57,Debit,Detroit,Branch,33.0,Doctor,285.0,1.0,5307.74,Dewasa,0
+60.650000000000006,Credit,Tucson,Branch,56.0,Retired,53.0,1.0,1047.2800000000002,Lansia,1
+74.86000000000001,Debit,Nashville,Branch,70.0,Doctor,125.0,1.0,6921.48,Lansia,1
+231.91,Debit,Memphis,ATM,34.0,Engineer,165.0,1.0,112.76000000000022,Dewasa,1
+126.20999999999998,Debit,Baltimore,Branch,75.0,Retired,268.0,1.0,5669.66,Lansia,0
+304.35,Debit,Houston,Branch,31.0,Engineer,36.0,1.0,4057.1,Muda,0
+281.85,Debit,Detroit,ATM,21.999999999999996,Student,109.0,1.0,1585.98,Muda,0
+777.8800000000001,Debit,Houston,Branch,31.0,Engineer,17.0,1.0,6825.55,Muda,0
+119.18,Debit,Los Angeles,Branch,56.0,Retired,96.0,1.0,5516.5,Lansia,0
+177.19,Debit,Chicago,Online,76.0,Retired,43.0,1.0,5343.3,Lansia,0
+260.88,Debit,Denver,Branch,21.999999999999996,Student,36.0,1.0,903.0500000000002,Muda,0
+169.47,Debit,Chicago,Online,24.0,Student,19.0,1.0,1806.1599999999999,Muda,0
+73.23000000000002,Debit,Portland,Branch,26.0,Student,14.0,1.0,787.7399999999998,Muda,1
+792.5700000000002,Debit,Baltimore,ATM,19.0,Student,164.0,1.0,770.3699999999999,Muda,0
+237.06,Debit,Phoenix,Online,71.0,Retired,46.0,1.0,1182.77,Lansia,1
+34.170000000000016,Credit,Philadelphia,Online,54.0,Engineer,54.0,1.0,726.5500000000002,Dewasa,1
+740.25,Debit,Philadelphia,Online,41.0,Doctor,123.0,1.0,14464.3,Dewasa,1
+453.54,Debit,Albuquerque,ATM,58.0,Doctor,82.0,1.0,12046.3,Lansia,0
+300.47,Debit,Jacksonville,Branch,73.0,Retired,100.0,1.0,7885.64,Lansia,0
+110.93,Credit,Virginia Beach,Branch,19.0,Student,201.0,1.0,1952.35,Muda,1
+201.69,Debit,Las Vegas,ATM,59.0,Doctor,299.0,1.0,7328.52,Lansia,0
+399.21,Debit,Portland,ATM,59.0,Engineer,109.0,1.0,3210.39,Lansia,1
+630.36,Debit,Mesa,ATM,62.0,Retired,52.0,1.0,1363.65,Lansia,1
+10.940000000000026,Credit,Philadelphia,ATM,60.0,Engineer,245.0,1.0,1241.9899999999998,Lansia,1
+215.9,Debit,Los Angeles,ATM,38.0,Doctor,235.0,1.0,7873.28,Dewasa,0
+444.89,Credit,Las Vegas,Branch,43.0,Doctor,101.0,1.0,10328.23,Dewasa,0
+280.57,Credit,Virginia Beach,Online,25.0,Student,24.0,1.0,293.2399999999998,Muda,1
+3.299999999999983,Credit,Los Angeles,Branch,50.0,Doctor,131.0,1.0,11385.37,Dewasa,0
+20.359999999999985,Debit,Tucson,Branch,62.0,Retired,75.0,1.0,2762.48,Lansia,1
+493.11,Debit,Colorado Springs,Branch,53.0,Retired,236.0,1.0,7432.99,Dewasa,0
+307.41,Debit,Los Angeles,ATM,19.0,Student,14.0,1.0,1057.0000000000005,Muda,0
+11.180000000000007,Debit,Atlanta,Online,43.0,Doctor,161.0,1.0,5956.89,Dewasa,0
+313.82,Debit,Tucson,Branch,59.0,Engineer,151.0,1.0,7261.59,Lansia,1
+288.04,Debit,Denver,ATM,68.0,Retired,63.0,1.0,1748.02,Lansia,0
+800.55,Debit,Oklahoma City,ATM,31.0,Engineer,108.0,1.0,9660.22,Muda,1
+485.54,Debit,Houston,ATM,46.0,Engineer,143.0,1.0,6371.51,Dewasa,0
+521.15,Debit,Kansas City,ATM,54.0,Doctor,214.0,1.0,9442.47,Dewasa,0
+304.93,Debit,Portland,ATM,65.0,Doctor,158.0,1.0,13531.219999999998,Lansia,1
+694.2,Debit,Milwaukee,ATM,61.0,Retired,72.0,1.0,1389.37,Lansia,1
+116.86000000000001,Debit,Louisville,ATM,55.0,Engineer,171.0,1.0,6706.56,Dewasa,0
+74.88,Debit,Atlanta,ATM,25.0,Student,202.0,1.0,420.6700000000001,Muda,0
+890.24,Credit,Las Vegas,Online,33.0,Engineer,161.0,1.0,5140.93,Dewasa,0
+361.27,Debit,Omaha,ATM,63.0,Doctor,180.0,1.0,7945.57,Lansia,1
+131.56,Debit,Charlotte,Branch,44.0,Doctor,42.0,1.0,5873.54,Dewasa,0
+485.51,Credit,Milwaukee,Online,76.0,Retired,37.0,1.0,3074.45,Lansia,1
+547.87,Debit,Columbus,ATM,64.0,Retired,131.0,1.0,6155.76,Lansia,0
+457.3,Debit,Virginia Beach,Online,28.0,Engineer,15.0,1.0,8318.29,Muda,1
+506.24,Debit,Chicago,ATM,58.0,Engineer,64.0,1.0,230.09000000000015,Lansia,0
+486.59,Debit,Indianapolis,Branch,57.0,Retired,119.0,1.0,2513.56,Lansia,0
+163.68,Debit,San Diego,Branch,41.0,Doctor,292.0,1.0,10090.05,Dewasa,1
+581.65,Debit,Boston,ATM,21.999999999999996,Student,176.0,1.0,480.1899999999996,Muda,0
+523.74,Debit,Oklahoma City,ATM,43.0,Doctor,159.0,1.0,13498.55,Dewasa,1
+91.48000000000002,Debit,Fort Worth,ATM,51.0,Doctor,141.0,1.0,14942.779999999999,Dewasa,0
+5.249999999999972,Debit,San Jose,ATM,39.0,Doctor,49.0,1.0,14143.32,Dewasa,1
+54.03,Credit,Milwaukee,ATM,56.0,Retired,161.0,1.0,6736.3,Lansia,1
+736.73,Debit,Memphis,Branch,48.0,Engineer,10.0,1.0,3313.07,Dewasa,1
+33.06,Credit,Fort Worth,Online,53.0,Retired,170.0,1.0,1540.87,Dewasa,0
+66.5,Credit,Louisville,Online,32.0,Engineer,144.0,1.0,6820.23,Muda,0
+588.54,Debit,Portland,Branch,32.0,Engineer,130.0,1.0,714.4499999999998,Muda,1
+173.5,Debit,Nashville,ATM,21.0,Student,282.0,1.0,1306.9099999999999,Muda,1
+78.32999999999998,Credit,Memphis,Online,56.0,Engineer,189.0,1.0,7255.33,Lansia,1
+40.66,Debit,Louisville,Branch,59.0,Retired,156.0,1.0,1153.8400000000006,Lansia,0
+97.22,Credit,Atlanta,Branch,77.0,Retired,55.0,1.0,6647.73,Lansia,0
+34.06999999999999,Debit,Philadelphia,Branch,21.999999999999996,Student,81.0,1.0,8709.77,Muda,1
+492.05999999999995,Debit,Fresno,Online,23.0,Student,74.0,1.0,857.8999999999996,Muda,0
+842.01,Credit,Virginia Beach,Online,53.0,Doctor,185.0,1.0,509.4499999999998,Dewasa,1
+73.55000000000001,Debit,Atlanta,ATM,51.0,Engineer,158.0,1.0,2812.06,Dewasa,0
+760.53,Debit,Phoenix,Online,57.0,Engineer,118.0,1.0,6179.91,Lansia,1
+371.69,Debit,San Francisco,Branch,67.0,Retired,143.0,1.0,3484.32,Lansia,1
+218.96,Debit,Seattle,ATM,18.0,Student,13.0,1.0,754.21,Muda,1
+227.39,Debit,Atlanta,Online,18.0,Student,65.0,1.0,751.0900000000001,Muda,0
+237.99,Credit,Kansas City,Branch,39.0,Doctor,86.0,1.0,8510.09,Dewasa,0
+341.15,Debit,San Jose,Online,18.0,Student,148.0,1.0,511.3699999999999,Muda,1
+434.58,Debit,Memphis,ATM,59.0,Doctor,215.0,1.0,12648.32,Lansia,1
+312.88,Credit,Portland,Branch,54.0,Engineer,44.0,1.0,233.21000000000004,Dewasa,1
+75.15,Debit,Boston,ATM,23.0,Student,154.0,1.0,1092.9200000000005,Muda,0
+23.30000000000001,Debit,Los Angeles,ATM,59.0,Engineer,161.0,1.0,6711.15,Lansia,0
+47.379999999999995,Credit,Seattle,Online,25.0,Student,61.0,1.0,459.3699999999999,Muda,1
+488.15,Debit,Louisville,Branch,43.0,Engineer,168.0,1.0,7071.09,Dewasa,0
+12.819999999999993,Debit,Fort Worth,ATM,44.0,Engineer,156.0,1.0,9045.19,Dewasa,0
+535.91,Debit,Las Vegas,Online,43.0,Engineer,22.0,1.0,9642.12,Dewasa,0
+270.72,Credit,Washington,Online,26.0,Engineer,53.0,1.0,6263.96,Muda,1
+97.98000000000002,Debit,Denver,Branch,72.0,Retired,17.999999999999986,1.0,7460.33,Lansia,0
+196.08,Debit,San Francisco,Online,61.0,Retired,98.0,1.0,4233.82,Lansia,1
+251.18,Debit,San Jose,ATM,42.0,Engineer,246.0,1.0,8303.9,Dewasa,1
+44.52000000000001,Debit,El Paso,Online,28.0,Student,205.0,1.0,314.27999999999975,Muda,0
+178.87,Debit,Baltimore,Online,35.0,Doctor,180.0,1.0,5241.23,Dewasa,0
+386.68,Debit,New York,Branch,46.0,Doctor,128.0,1.0,6863.06,Dewasa,1
+167.14,Debit,Denver,Online,76.0,Retired,20.0,1.0,3877.73,Lansia,0
+345.22,Debit,Fresno,Branch,69.0,Retired,253.0,1.0,4046.58,Lansia,0
+74.85,Debit,Raleigh,ATM,72.0,Retired,117.0,1.0,2409.73,Lansia,1
+671.73,Debit,Washington,Branch,58.0,Engineer,54.0,1.0,5211.88,Lansia,1
+255.04,Debit,Seattle,ATM,45.0,Engineer,152.0,1.0,6217.86,Dewasa,1
+45.77000000000001,Debit,Philadelphia,Online,25.0,Student,109.0,1.0,5978.12,Muda,1
+329.69,Credit,San Antonio,Online,26.0,Student,66.0,1.0,1671.6599999999999,Muda,1
+47.420000000000016,Debit,San Diego,ATM,64.0,Doctor,28.0,1.0,8253.52,Lansia,1
+35.99000000000001,Debit,Miami,Branch,63.0,Retired,129.0,1.0,4489.79,Lansia,1
+151.19,Credit,New York,Branch,37.0,Doctor,96.0,1.0,11903.82,Dewasa,1
+242.62,Credit,San Francisco,Online,21.999999999999996,Student,234.0,1.0,483.0199999999995,Muda,1
+48.72,Debit,Virginia Beach,Branch,21.0,Student,17.0,1.0,816.0799999999999,Muda,1
+43.46000000000001,Debit,Boston,ATM,25.0,Student,80.0,1.0,578.0600000000004,Muda,0
+443.79,Debit,Las Vegas,ATM,53.0,Retired,87.0,1.0,3133.85,Dewasa,0
+365.14,Debit,Dallas,Online,68.0,Retired,57.0,1.0,5894.09,Lansia,0
+757.41,Debit,Los Angeles,ATM,21.999999999999996,Student,37.0,1.0,9532.42,Muda,0
+20.539999999999992,Debit,Fort Worth,Branch,51.0,Engineer,72.0,1.0,5327.03,Dewasa,0
+475.36,Debit,Phoenix,ATM,34.0,Engineer,105.0,1.0,2000.6,Dewasa,1
+34.74000000000001,Debit,San Francisco,ATM,56.0,Retired,24.0,1.0,6827.57,Lansia,1
+211.18,Debit,Washington,ATM,73.0,Retired,90.0,1.0,4069.17,Lansia,1
+211.36,Credit,Fort Worth,Branch,51.0,Engineer,286.0,1.0,7943.47,Dewasa,0
+744.41,Credit,Houston,Online,39.0,Engineer,107.0,1.0,8842.47,Dewasa,0
+61.43000000000001,Debit,Phoenix,Online,24.0,Student,170.0,1.0,1882.77,Muda,1
+167.44,Debit,Mesa,Branch,37.0,Doctor,82.0,1.0,12526.71,Dewasa,1
+361.46,Debit,Nashville,Online,21.0,Student,83.0,1.0,4737.84,Muda,1
+378.85,Debit,Virginia Beach,Branch,78.0,Retired,126.0,1.0,2300.53,Lansia,1
+241.11,Debit,Columbus,Branch,30.0,Doctor,55.0,1.0,12385.05,Muda,0
+131.93,Credit,Fort Worth,Branch,31.0,Engineer,13.0,1.0,4547.06,Muda,0
+485.54,Debit,Louisville,Online,19.0,Student,148.0,1.0,1533.3199999999997,Muda,0
+321.15,Debit,Los Angeles,Branch,46.0,Doctor,179.0,1.0,7005.05,Dewasa,0
+711.3,Debit,San Jose,Branch,21.0,Student,51.0,1.0,955.3999999999996,Muda,1
+12.22999999999999,Debit,Houston,ATM,42.0,Engineer,139.0,1.0,7844.88,Dewasa,0
+350.94,Debit,Colorado Springs,ATM,20.0,Student,64.0,1.0,221.5600000000004,Muda,0
+301.85,Debit,Columbus,Online,54.0,Engineer,25.0,1.0,6586.19,Dewasa,0
+29.340000000000003,Debit,Louisville,Online,65.0,Retired,30.0,1.0,3944.82,Lansia,0
+231.71,Debit,Raleigh,Branch,27.0,Student,148.0,1.0,1127.9799999999996,Muda,1
+179.43,Debit,Oklahoma City,ATM,58.0,Retired,244.0,1.0,2626.63,Lansia,1
+36.71000000000001,Debit,Jacksonville,Branch,48.0,Doctor,55.0,1.0,6459.38,Dewasa,0
+138.12,Credit,Los Angeles,Branch,53.0,Doctor,281.0,1.0,1649.69,Dewasa,0
+233.24,Debit,Louisville,ATM,33.0,Engineer,72.0,1.0,6939.23,Dewasa,0
+436.64,Debit,Los Angeles,Branch,31.0,Doctor,111.0,1.0,14365.18,Muda,0
+870.4300000000001,Debit,Los Angeles,Branch,29.0,Doctor,55.0,1.0,10115.18,Muda,0
+354.4,Debit,Chicago,ATM,74.0,Retired,128.0,1.0,7358.65,Lansia,0
+22.629999999999995,Debit,Kansas City,Online,53.0,Engineer,112.0,1.0,4438.03,Dewasa,0
+182.19,Debit,Mesa,Branch,26.0,Student,53.0,1.0,1176.0999999999995,Muda,1
+126.81,Debit,Philadelphia,Branch,26.0,Engineer,290.0,1.0,5427.98,Muda,1
+288.17,Debit,Virginia Beach,Online,37.0,Engineer,50.0,1.0,3653.11,Dewasa,1
+118.76999999999998,Debit,Atlanta,Branch,55.0,Engineer,123.0,1.0,2104.82,Dewasa,0
+651.82,Debit,Indianapolis,ATM,21.0,Student,166.0,1.0,1802.77,Muda,0
+66.65,Debit,Detroit,ATM,37.0,Engineer,33.0,1.0,3559.96,Dewasa,0
+98.53,Debit,Denver,Branch,69.0,Retired,166.0,1.0,3564.8,Lansia,0
+138.95,Debit,Washington,Online,71.0,Retired,30.0,1.0,6752.92,Lansia,1
+33.890000000000015,Debit,Nashville,Branch,26.0,Student,177.0,1.0,1444.75,Muda,1
+23.710000000000008,Debit,Atlanta,Branch,58.0,Doctor,164.0,1.0,10788.89,Lansia,0
+26.06000000000003,Debit,San Diego,ATM,65.0,Doctor,283.0,1.0,12893.63,Lansia,1
+17.069999999999993,Debit,Los Angeles,Branch,27.0,Engineer,44.0,1.0,2798.15,Muda,0
+703.8899999999999,Debit,San Antonio,Online,46.0,Engineer,62.0,1.0,3583.67,Dewasa,1
+26.549999999999983,Debit,Houston,ATM,77.0,Retired,228.0,1.0,3085.38,Lansia,0
+147.4,Debit,San Jose,Branch,42.0,Engineer,259.0,1.0,6797.71,Dewasa,1
+202.11,Debit,Memphis,ATM,27.0,Student,17.999999999999986,1.0,746.4700000000003,Muda,1
+308.42,Debit,Nashville,Branch,75.0,Retired,39.0,1.0,5427.81,Lansia,1
+11.180000000000007,Debit,Miami,ATM,53.0,Engineer,144.0,1.0,7467.3,Dewasa,1
+294.15,Debit,Fresno,Online,38.0,Engineer,136.0,1.0,6362.16,Dewasa,0
+139.45,Debit,Boston,Online,27.0,Student,31.0,1.0,1305.7600000000002,Muda,0
+432.63,Debit,Colorado Springs,ATM,29.0,Doctor,137.0,1.0,13648.36,Muda,0
+131.43,Debit,Charlotte,Online,43.0,Doctor,65.0,1.0,1337.5,Dewasa,0
+516.72,Debit,Mesa,ATM,42.0,Engineer,128.0,1.0,2015.69,Dewasa,1
+374.5,Credit,San Francisco,Branch,26.0,Student,178.0,1.0,1671.5100000000002,Muda,1
+166.13,Debit,Omaha,ATM,68.0,Doctor,227.0,1.0,11822.53,Lansia,1
+626.9,Debit,Chicago,ATM,23.0,Student,146.0,1.0,587.1099999999997,Muda,0
+466.85,Debit,Austin,Branch,56.0,Retired,165.0,1.0,5422.53,Lansia,0
+788.8400000000001,Debit,Phoenix,Online,58.0,Retired,231.0,1.0,1913.73,Lansia,1
+525.28,Debit,Colorado Springs,ATM,69.0,Retired,134.0,1.0,4693.6,Lansia,0
+632.69,Debit,Denver,ATM,80.0,Retired,76.0,1.0,4363.74,Lansia,0
+124.35,Debit,Oklahoma City,ATM,72.0,Retired,90.0,1.0,3319.76,Lansia,1
+43.849999999999994,Debit,Fresno,ATM,62.0,Retired,122.0,1.0,4356.98,Lansia,0
+283.81,Debit,San Diego,Branch,28.0,Student,29.000000000000014,1.0,1519.35,Muda,1
+168.53,Debit,San Francisco,ATM,71.0,Retired,112.0,1.0,5962.58,Lansia,1
+218.59,Credit,Denver,Branch,40.0,Engineer,123.0,1.0,6699.23,Dewasa,0
+132.84000000000003,Debit,Oklahoma City,ATM,21.0,Student,143.0,1.0,822.7300000000005,Muda,1
+157.37,Credit,Dallas,Branch,42.0,Doctor,289.0,1.0,13964.309999999998,Dewasa,0
+144.76999999999998,Debit,Albuquerque,Online,20.0,Student,159.0,1.0,867.3199999999997,Muda,0
+643.22,Debit,Atlanta,ATM,64.0,Doctor,93.0,1.0,1035.8599999999992,Lansia,0
+208.07,Debit,Oklahoma City,Online,32.0,Doctor,36.0,1.0,8478.9,Muda,1
+295.5,Debit,Mesa,ATM,59.0,Retired,36.0,1.0,6280.66,Lansia,1
+30.22999999999999,Debit,Austin,ATM,44.0,Doctor,99.0,1.0,481.1300000000001,Dewasa,0
+180.24,Debit,Phoenix,Branch,58.0,Engineer,144.0,1.0,8431.23,Lansia,1
+13.710000000000036,Credit,Denver,Online,38.0,Engineer,148.0,1.0,8342.79,Dewasa,0
+96.54000000000002,Debit,New York,Branch,58.0,Retired,95.0,1.0,7182.22,Lansia,1
+101.04000000000002,Debit,San Antonio,ATM,27.0,Student,160.0,1.0,1695.5699999999997,Muda,1
+39.66,Debit,Virginia Beach,Branch,52.0,Engineer,169.0,1.0,8497.34,Dewasa,1
+99.36000000000001,Debit,Seattle,ATM,40.0,Doctor,46.0,1.0,1272.12,Dewasa,1
+123.85,Debit,Las Vegas,Online,56.0,Engineer,244.0,1.0,3959.62,Lansia,0
+426.93,Debit,Omaha,ATM,19.0,Student,248.0,1.0,476.1899999999996,Muda,1
+133.73,Credit,San Jose,Online,25.0,Student,123.0,1.0,1872.2200000000003,Muda,1
+222.39,Debit,Virginia Beach,Online,49.0,Engineer,73.0,1.0,3117.3900000000003,Dewasa,1
+215.94,Credit,Virginia Beach,Online,21.999999999999996,Student,140.0,1.0,1841.69,Muda,1
+131.46,Debit,Charlotte,Branch,67.0,Retired,258.0,1.0,6642.33,Lansia,0
+202.86,Credit,Memphis,Branch,61.0,Doctor,149.0,1.0,7642.25,Lansia,1
+268.39,Debit,Miami,ATM,26.0,Student,171.0,1.0,136.73999999999978,Muda,1
+353.82,Debit,Milwaukee,ATM,42.0,Doctor,143.0,1.0,705.75,Dewasa,1
+364.42,Debit,Colorado Springs,ATM,51.0,Engineer,146.0,1.0,8119.73,Dewasa,0
+195.12,Debit,Louisville,ATM,46.0,Doctor,144.0,1.0,6101.15,Dewasa,0
+230.61,Debit,Raleigh,Branch,80.0,Retired,204.0,1.0,2561.42,Lansia,1
+739.28,Credit,Tucson,Branch,58.0,Doctor,47.0,1.0,11905.64,Lansia,1
+390.35,Credit,Omaha,ATM,64.0,Doctor,61.0,1.0,7095.88,Lansia,1
+242.03,Debit,Dallas,Online,58.0,Engineer,124.0,1.0,4382.73,Lansia,0
+242.39,Credit,San Antonio,ATM,18.0,Student,271.0,1.0,1328.73,Muda,1
+135.02999999999997,Debit,San Francisco,ATM,23.0,Student,180.0,1.0,1278.0,Muda,1
+193.54,Debit,Oklahoma City,Branch,80.0,Retired,267.00000000000006,1.0,2929.51,Lansia,1
+775.23,Credit,Albuquerque,Online,59.0,Doctor,38.0,1.0,5977.59,Lansia,0
+266.57,Debit,El Paso,ATM,72.0,Retired,100.0,1.0,7676.92,Lansia,0
+153.4,Debit,Mesa,ATM,45.0,Engineer,144.0,1.0,4657.7,Dewasa,1
+5.120000000000033,Debit,New York,Branch,34.0,Engineer,90.0,1.0,3293.01,Dewasa,1
+119.11000000000001,Debit,Detroit,ATM,57.0,Engineer,131.0,1.0,7998.25,Lansia,0
+119.72,Debit,Tucson,Branch,30.0,Engineer,123.0,1.0,3435.34,Muda,1
+107.4,Debit,Virginia Beach,Online,58.0,Doctor,32.0,1.0,344.0699999999997,Lansia,1
+115.92000000000002,Debit,Raleigh,ATM,53.0,Retired,57.0,1.0,3897.17,Dewasa,1
+438.04,Debit,Philadelphia,ATM,67.0,Retired,247.0,1.0,5358.95,Lansia,1
+677.29,Debit,Houston,Online,27.0,Engineer,287.0,1.0,627.79,Muda,0
+296.0,Debit,Las Vegas,Branch,35.0,Doctor,248.0,1.0,7418.82,Dewasa,0
+299.09,Credit,Boston,Branch,36.0,Engineer,84.0,1.0,5615.26,Dewasa,0
+461.52,Credit,Denver,Branch,24.0,Student,44.0,1.0,1995.1800000000003,Muda,0
+100.51999999999998,Debit,Las Vegas,ATM,50.0,Engineer,110.0,1.0,453.3900000000003,Dewasa,0
+85.35,Debit,Washington,ATM,66.0,Retired,166.0,1.0,2173.76,Lansia,1
+79.75999999999999,Debit,Raleigh,Branch,39.0,Engineer,170.0,1.0,6452.14,Dewasa,1
+778.49,Credit,Omaha,Online,75.0,Retired,107.0,1.0,7713.67,Lansia,1
+386.38,Debit,Phoenix,Online,42.0,Engineer,135.0,1.0,5528.36,Dewasa,1
+14.289999999999964,Debit,Los Angeles,ATM,34.0,Engineer,150.0,1.0,7016.99,Dewasa,0
+232.79,Credit,Indianapolis,Branch,55.0,Retired,145.0,1.0,2661.3,Dewasa,0
+293.97,Debit,Phoenix,Branch,68.0,Retired,153.0,1.0,7371.85,Lansia,1
+136.32,Debit,Miami,Online,19.0,Student,113.0,1.0,264.8299999999999,Muda,1
+251.06,Debit,Colorado Springs,Online,36.0,Doctor,34.0,1.0,10001.66,Dewasa,0
+50.170000000000016,Credit,Sacramento,ATM,77.0,Retired,35.0,1.0,7752.14,Lansia,1
+21.400000000000006,Debit,Fresno,Branch,34.0,Engineer,258.0,1.0,9594.11,Dewasa,0
+73.28,Debit,Boston,Branch,21.0,Student,21.0,1.0,1329.4099999999999,Muda,0
+70.23000000000002,Debit,Memphis,ATM,38.0,Doctor,260.0,1.0,11624.93,Dewasa,1
+689.29,Debit,El Paso,ATM,21.999999999999996,Student,100.0,1.0,168.84000000000015,Muda,0
+745.03,Debit,Fort Worth,Online,28.0,Student,231.0,1.0,160.5699999999997,Muda,0
+54.610000000000014,Debit,Milwaukee,ATM,58.0,Engineer,160.0,1.0,7135.64,Lansia,1
+54.05000000000001,Debit,Louisville,Branch,27.0,Student,146.0,1.0,469.1400000000003,Muda,0
+107.47,Debit,Austin,Online,67.0,Retired,144.0,1.0,7517.5,Lansia,0
+219.63,Debit,Charlotte,ATM,48.0,Doctor,44.0,1.0,8013.63,Dewasa,0
+93.51999999999998,Debit,Philadelphia,Online,51.0,Engineer,97.0,1.0,2791.2,Dewasa,1
+275.92,Credit,Nashville,Branch,62.0,Retired,107.0,1.0,1777.38,Lansia,1
+376.79,Debit,Milwaukee,Branch,68.0,Retired,265.0,1.0,7749.14,Lansia,1
+697.32,Debit,Atlanta,Online,68.0,Retired,91.0,1.0,2016.02,Lansia,0
+442.74,Debit,San Diego,Branch,23.0,Student,136.0,1.0,1790.27,Muda,1
+623.9,Debit,San Jose,ATM,27.0,Student,249.0,1.0,711.4700000000003,Muda,1
+63.41,Debit,Fort Worth,ATM,26.0,Student,36.0,1.0,1546.2200000000003,Muda,0
+346.85,Debit,Kansas City,ATM,44.0,Doctor,88.0,1.0,7208.15,Dewasa,0
+7.5,Debit,Dallas,Online,63.0,Retired,36.0,1.0,6485.78,Lansia,0
+206.46,Debit,Virginia Beach,ATM,65.0,Retired,279.0,1.0,3984.38,Lansia,1
+423.11,Debit,Columbus,ATM,60.0,Engineer,47.0,1.0,412.77999999999975,Lansia,0
+35.84,Credit,Colorado Springs,Online,54.0,Retired,172.0,1.0,4795.65,Dewasa,0
+88.6,Credit,Raleigh,Branch,28.0,Student,105.0,1.0,246.5699999999997,Muda,1
+22.460000000000008,Debit,New York,Online,54.0,Retired,78.0,1.0,6631.5,Dewasa,1
+334.89,Debit,Fort Worth,Online,21.0,Student,260.0,1.0,1661.6800000000003,Muda,0
+319.27,Credit,Omaha,Online,54.0,Retired,59.0,1.0,5504.01,Dewasa,1
+144.3,Debit,Oklahoma City,ATM,18.0,Student,88.0,1.0,312.1899999999996,Muda,1
+348.7,Credit,Fresno,Branch,69.0,Retired,149.0,1.0,2445.58,Lansia,0
+366.21,Debit,Oklahoma City,ATM,62.0,Doctor,181.0,1.0,10862.99,Lansia,1
+99.11000000000001,Debit,Philadelphia,Online,55.0,Retired,12.0,1.0,5414.87,Dewasa,1
+539.35,Debit,Milwaukee,ATM,55.0,Retired,127.0,1.0,3919.44,Dewasa,1
+188.99,Debit,Oklahoma City,Branch,58.0,Engineer,92.0,1.0,7315.34,Lansia,1
+710.1400000000001,Debit,El Paso,ATM,26.0,Student,227.0,1.0,465.6300000000001,Muda,0
+308.68,Debit,Milwaukee,Online,53.0,Doctor,170.0,1.0,9992.36,Dewasa,1
+166.68,Debit,Mesa,ATM,57.0,Retired,139.0,1.0,5141.19,Lansia,1
+66.57999999999998,Debit,Raleigh,Branch,23.0,Student,79.0,1.0,1636.3199999999997,Muda,1
+223.43,Debit,Dallas,Branch,77.0,Retired,178.0,1.0,7932.41,Lansia,0
+659.95,Debit,Detroit,Online,60.0,Engineer,114.0,1.0,3927.69,Lansia,0
+634.86,Debit,Chicago,ATM,27.0,Student,45.0,1.0,588.5,Muda,0
+286.5,Credit,Boston,Branch,30.0,Engineer,60.0,1.0,8517.95,Muda,0
+322.96,Credit,Philadelphia,Branch,76.0,Retired,168.0,1.0,2401.59,Lansia,1
+654.48,Debit,Columbus,Branch,19.0,Student,114.0,1.0,6776.41,Muda,0
+157.97,Debit,Philadelphia,Branch,48.0,Doctor,140.0,1.0,5529.92,Dewasa,1
+254.77,Debit,Denver,Branch,57.0,Engineer,57.0,1.0,5994.87,Lansia,0
+795.96,Debit,Raleigh,Online,65.0,Retired,119.0,1.0,5468.58,Lansia,1
+149.25,Debit,Omaha,ATM,39.0,Engineer,142.0,1.0,5677.52,Dewasa,1
+68.19,Credit,Fresno,Online,40.0,Doctor,189.0,1.0,9895.1,Dewasa,0
+37.57000000000002,Debit,El Paso,ATM,57.0,Retired,42.0,1.0,7739.54,Lansia,0
+448.33,Debit,Atlanta,ATM,25.0,Student,161.0,1.0,922.1899999999996,Muda,0
+8.650000000000006,Debit,Las Vegas,Online,48.0,Doctor,273.0,1.0,10778.35,Dewasa,0
+539.81,Debit,San Francisco,Online,46.0,Engineer,177.0,1.0,2051.25,Dewasa,1
+363.53,Debit,Kansas City,ATM,63.0,Retired,142.0,1.0,1038.9099999999999,Lansia,0
+64.9,Credit,Detroit,Branch,51.0,Retired,72.0,1.0,6854.61,Dewasa,0
+358.18,Debit,Boston,ATM,18.0,Student,157.0,1.0,619.8599999999997,Muda,0
+167.2,Debit,San Antonio,Branch,30.0,Doctor,84.0,1.0,11320.83,Muda,1
+121.91,Debit,Chicago,Branch,60.0,Doctor,133.0,1.0,14510.8,Lansia,0
+137.57,Debit,Louisville,Online,54.0,Engineer,70.0,1.0,5103.67,Dewasa,0
+534.62,Debit,Oklahoma City,Online,55.0,Doctor,45.0,1.0,13793.529999999999,Dewasa,1
+463.92,Debit,Mesa,Online,50.0,Engineer,199.0,1.0,2403.39,Dewasa,1
+320.14,Debit,Milwaukee,Online,60.0,Retired,96.0,1.0,3075.9700000000003,Lansia,1
+214.93,Debit,Albuquerque,Online,28.0,Student,52.0,1.0,7835.4,Muda,0
+660.02,Debit,Nashville,Branch,20.0,Student,84.0,1.0,414.4300000000003,Muda,1
+345.81,Debit,Raleigh,Branch,40.0,Engineer,135.0,1.0,6116.8,Dewasa,1
+143.54000000000002,Debit,Philadelphia,ATM,71.0,Retired,80.0,1.0,6067.62,Lansia,1
+541.79,Debit,Mesa,ATM,21.999999999999996,Student,125.0,1.0,1454.08,Muda,1
+40.56999999999999,Debit,Columbus,Branch,26.0,Student,63.0,1.0,1476.9099999999999,Muda,0
+498.67,Debit,Miami,Online,28.0,Student,244.0,1.0,1719.9700000000003,Muda,1
+227.22,Debit,El Paso,ATM,53.0,Doctor,220.0,1.0,832.8199999999997,Dewasa,0
+59.44,Debit,Chicago,Online,35.0,Engineer,176.0,1.0,5472.03,Dewasa,0
+230.46,Debit,Mesa,Online,19.0,Student,179.0,1.0,162.52999999999975,Muda,1
+65.09,Credit,Seattle,Online,44.0,Engineer,159.0,1.0,9370.9,Dewasa,1
+457.09,Credit,Nashville,Online,55.0,Engineer,63.0,1.0,8570.82,Dewasa,1
+552.02,Credit,Chicago,ATM,44.0,Engineer,100.0,1.0,522.0799999999999,Dewasa,0
+377.12,Debit,Houston,ATM,34.0,Engineer,61.0,1.0,836.6700000000001,Dewasa,0
+204.56,Credit,San Diego,Branch,18.0,Student,179.0,1.0,364.72000000000025,Muda,1
+420.28,Debit,Washington,Branch,35.0,Doctor,144.0,1.0,8557.32,Dewasa,1
+124.59,Debit,Charlotte,Branch,27.0,Student,171.0,1.0,129.28999999999996,Muda,0
+73.88,Debit,Charlotte,Online,39.0,Doctor,34.0,1.0,6474.41,Dewasa,0
+245.93,Debit,Fresno,Branch,54.0,Engineer,172.0,1.0,7986.63,Dewasa,0
+622.41,Debit,Indianapolis,ATM,64.0,Doctor,125.0,1.0,7322.01,Lansia,0
+43.72999999999999,Debit,Omaha,ATM,34.0,Doctor,145.0,1.0,9929.43,Dewasa,1
+2.030000000000001,Credit,Detroit,ATM,33.0,Engineer,28.0,1.0,3012.31,Dewasa,0
+770.6500000000001,Debit,Jacksonville,Online,31.0,Doctor,137.0,1.0,7198.8,Muda,0
+260.31,Debit,Austin,Branch,63.0,Doctor,113.0,1.0,10980.38,Lansia,0
+356.1,Credit,Fort Worth,Branch,26.0,Student,187.0,1.0,868.3500000000004,Muda,0
+27.069999999999993,Credit,Virginia Beach,Branch,80.0,Retired,39.0,1.0,3773.29,Lansia,1
+119.88999999999999,Debit,Tucson,ATM,67.0,Doctor,60.0,1.0,6697.77,Lansia,1
+106.38999999999999,Debit,Virginia Beach,Online,37.0,Doctor,281.0,1.0,9410.99,Dewasa,1
+12.04000000000002,Debit,Fort Worth,Online,37.0,Engineer,58.00000000000001,1.0,6213.32,Dewasa,0
+29.379999999999995,Credit,Baltimore,Branch,28.0,Student,63.0,1.0,1663.31,Muda,0
+319.85,Debit,Denver,ATM,60.0,Doctor,148.0,1.0,711.6599999999999,Lansia,0
+350.14,Credit,Los Angeles,Online,75.0,Retired,38.0,1.0,2403.25,Lansia,0
+163.94,Credit,Virginia Beach,Branch,52.0,Retired,73.0,1.0,5957.37,Dewasa,1
+170.53,Debit,Oklahoma City,Branch,24.0,Student,58.00000000000001,1.0,801.0100000000002,Muda,1
+41.49000000000001,Debit,Albuquerque,Online,24.0,Student,13.0,1.0,928.3299999999999,Muda,0
+121.43,Credit,Sacramento,Branch,52.0,Engineer,243.0,1.0,7365.28,Dewasa,1
+350.46,Debit,Nashville,Branch,51.0,Retired,165.0,1.0,5839.38,Dewasa,1
+220.41,Credit,El Paso,Online,26.0,Engineer,155.0,1.0,5116.98,Muda,0
+33.460000000000036,Debit,Seattle,ATM,72.0,Retired,111.0,1.0,3641.07,Lansia,1
+104.79000000000002,Debit,Denver,ATM,70.0,Doctor,223.0,1.0,1352.19,Lansia,0
+246.27,Debit,Fresno,Online,29.0,Doctor,141.0,1.0,7299.86,Muda,0
+48.849999999999994,Debit,Dallas,ATM,19.0,Student,176.0,1.0,1503.56,Muda,0
+332.0,Debit,Charlotte,ATM,69.0,Retired,17.0,1.0,5943.13,Lansia,0
+118.1,Debit,Memphis,Online,54.0,Engineer,167.0,1.0,895.6599999999999,Dewasa,1
+84.59,Credit,Las Vegas,Branch,67.0,Doctor,10.0,1.0,5669.1,Lansia,0
+295.64,Debit,Jacksonville,Online,21.0,Student,82.0,1.0,1061.96,Muda,0
+514.33,Debit,Philadelphia,Branch,25.0,Student,160.0,1.0,1592.94,Muda,1
+94.59,Debit,Washington,Online,39.0,Doctor,34.0,1.0,6171.89,Dewasa,1
+80.43,Debit,Columbus,Branch,59.0,Retired,157.0,1.0,5987.67,Lansia,0
+54.25,Debit,Virginia Beach,Online,68.0,Doctor,37.0,1.0,14783.329999999998,Lansia,1
+518.85,Debit,Kansas City,Online,21.999999999999996,Student,82.0,1.0,1806.0,Muda,0
+10.650000000000006,Debit,Louisville,Online,54.0,Doctor,161.0,1.0,13240.720000000001,Dewasa,0
+107.03,Debit,Miami,Branch,27.0,Student,73.0,1.0,1408.0699999999997,Muda,1
+346.11,Debit,Dallas,Branch,41.0,Engineer,213.0,1.0,9551.64,Dewasa,0
+138.06,Debit,Charlotte,Branch,44.0,Engineer,159.0,1.0,1070.4699999999998,Dewasa,0
+158.02,Debit,New York,ATM,49.0,Engineer,120.0,1.0,9374.24,Dewasa,1
+830.01,Credit,Chicago,Online,66.0,Retired,96.0,1.0,4253.18,Lansia,0
+110.49000000000001,Debit,Raleigh,Online,57.0,Doctor,48.0,1.0,10483.93,Lansia,1
+329.4,Debit,Denver,Online,34.0,Doctor,68.0,1.0,9588.07,Dewasa,0
+635.4,Debit,Denver,ATM,47.0,Doctor,106.0,1.0,1238.1099999999997,Dewasa,0
+769.97,Debit,San Diego,Branch,21.999999999999996,Student,23.0,1.0,1244.9300000000003,Muda,1
+175.07,Debit,Colorado Springs,Branch,26.0,Student,169.0,1.0,1040.2499999999995,Muda,0
+7.310000000000002,Debit,Las Vegas,Branch,78.0,Retired,282.0,1.0,5757.67,Lansia,0
+56.120000000000005,Debit,El Paso,ATM,30.0,Doctor,102.0,1.0,8839.67,Muda,0
+424.7,Credit,Miami,Online,56.0,Retired,178.0,1.0,6239.89,Lansia,1
+35.72999999999999,Debit,Miami,Branch,65.0,Doctor,87.0,1.0,9073.17,Lansia,1
+3.4399999999999977,Debit,Fort Worth,ATM,78.0,Retired,108.0,1.0,7561.33,Lansia,0
+139.03,Credit,Los Angeles,Online,50.0,Engineer,81.0,1.0,2276.57,Dewasa,0
+254.92,Credit,San Antonio,ATM,28.0,Engineer,169.0,1.0,2791.12,Muda,1
+115.11000000000001,Debit,Albuquerque,Online,28.0,Engineer,139.0,1.0,9808.97,Muda,0
+171.11,Debit,San Francisco,ATM,57.0,Retired,171.0,1.0,6324.09,Lansia,1
+408.46,Debit,Raleigh,Branch,64.0,Retired,28.0,1.0,3140.79,Lansia,1
+342.17,Credit,New York,Branch,21.0,Student,247.0,1.0,461.8299999999999,Muda,1
+580.71,Debit,Philadelphia,ATM,53.0,Engineer,95.0,1.0,5670.0,Dewasa,1
+821.54,Credit,Atlanta,Branch,79.0,Retired,36.0,1.0,4040.32,Lansia,0
+253.47,Debit,Atlanta,Branch,20.0,Student,238.0,1.0,220.51000000000022,Muda,0
+22.810000000000002,Debit,New York,Online,62.0,Retired,75.0,1.0,3634.76,Lansia,1
+266.57,Credit,Boston,Online,39.0,Engineer,96.0,1.0,7180.48,Dewasa,0
+374.61,Credit,Mesa,Online,75.0,Retired,37.0,1.0,1389.71,Lansia,1
+339.35,Credit,Boston,ATM,78.0,Retired,70.0,1.0,5002.7,Lansia,0
+810.3600000000001,Debit,Columbus,ATM,20.0,Student,67.0,1.0,9239.12,Muda,0
+9.830000000000041,Debit,Memphis,ATM,24.0,Student,86.0,1.0,666.4200000000001,Muda,1
+135.57,Credit,Boston,Branch,51.0,Doctor,116.0,1.0,11351.64,Dewasa,0
+340.05,Debit,Detroit,ATM,43.0,Engineer,37.0,1.0,7234.15,Dewasa,0
+283.45,Debit,Colorado Springs,Branch,27.0,Engineer,127.0,1.0,2049.51,Muda,0
+100.99000000000001,Debit,New York,ATM,68.0,Doctor,114.0,1.0,8865.27,Lansia,1
+90.88,Debit,Albuquerque,Branch,18.0,Student,176.0,1.0,3908.47,Muda,0
+655.15,Debit,Seattle,ATM,26.0,Engineer,264.0,1.0,5587.44,Muda,1
+320.55,Debit,Milwaukee,Online,50.0,Engineer,118.0,1.0,438.75,Dewasa,1
+41.50999999999999,Debit,Phoenix,Online,28.0,Student,48.0,1.0,609.6000000000004,Muda,1
+71.53,Credit,Jacksonville,Branch,68.0,Retired,39.0,1.0,2393.73,Lansia,0
+467.13,Credit,Kansas City,Branch,54.0,Retired,45.0,1.0,3914.84,Dewasa,0
+235.4,Debit,Detroit,Branch,28.0,Student,70.0,1.0,818.3599999999997,Muda,0
+159.32,Debit,Seattle,Branch,18.0,Student,100.0,1.0,304.4399999999996,Muda,1
+50.829999999999984,Credit,Philadelphia,Online,30.0,Doctor,48.0,1.0,9553.42,Muda,1
+56.889999999999986,Credit,Houston,Branch,59.0,Engineer,56.0,1.0,3034.67,Lansia,0
+20.22,Debit,Jacksonville,ATM,43.0,Engineer,138.0,1.0,5515.32,Dewasa,0
+50.400000000000006,Debit,San Antonio,Branch,36.0,Doctor,84.0,1.0,1677.0100000000002,Dewasa,1
+73.88,Debit,Los Angeles,Branch,53.0,Retired,131.0,1.0,4055.55,Dewasa,0
+119.61000000000001,Debit,San Diego,ATM,33.0,Doctor,53.0,1.0,9899.94,Dewasa,1
+116.57999999999998,Debit,Raleigh,Branch,43.0,Engineer,247.0,1.0,2620.74,Dewasa,1
+156.26,Credit,Virginia Beach,Branch,46.0,Engineer,160.0,1.0,7854.1,Dewasa,1
+427.0,Credit,Oklahoma City,Branch,49.0,Engineer,163.0,1.0,8253.65,Dewasa,1
+67.57,Debit,Charlotte,Branch,37.0,Engineer,107.0,1.0,2766.12,Dewasa,0
+326.29,Debit,Denver,Online,56.0,Engineer,179.0,1.0,8171.26,Lansia,0
+158.56,Debit,Sacramento,ATM,33.0,Doctor,100.0,1.0,5401.21,Dewasa,1
+56.02000000000001,Debit,Memphis,Online,27.0,Student,142.0,1.0,3548.02,Muda,1
+245.67,Credit,Portland,Branch,24.0,Student,107.0,1.0,752.25,Muda,1
+114.35,Credit,El Paso,Branch,41.0,Engineer,21.0,1.0,469.1199999999999,Dewasa,0
+504.63,Debit,Portland,Online,60.0,Engineer,168.0,1.0,3806.16,Lansia,1
+820.1500000000001,Debit,Kansas City,Branch,47.0,Doctor,181.0,1.0,8802.97,Dewasa,0
+8.370000000000005,Debit,Colorado Springs,ATM,63.0,Retired,135.0,1.0,1106.3400000000001,Lansia,0
+197.49,Credit,Fresno,Online,53.0,Retired,30.0,1.0,5005.33,Dewasa,0
+637.97,Debit,New York,Branch,58.0,Retired,90.0,1.0,7949.03,Lansia,1
+13.519999999999982,Debit,Seattle,ATM,26.0,Student,65.0,1.0,259.7699999999995,Muda,1
+432.1,Debit,San Francisco,ATM,49.0,Engineer,240.0,1.0,2114.3,Dewasa,1
+642.68,Debit,Fresno,Branch,50.0,Doctor,94.0,1.0,8461.46,Dewasa,0
+78.44,Credit,San Jose,Online,52.0,Retired,292.0,1.0,6870.84,Dewasa,1
+139.72000000000003,Debit,Memphis,Branch,49.0,Engineer,201.0,1.0,5058.83,Dewasa,1
+499.99,Debit,San Jose,Branch,31.0,Engineer,296.0,1.0,8885.0,Muda,1
+10.070000000000022,Debit,Albuquerque,Online,24.0,Student,49.0,1.0,530.8100000000004,Muda,0
+120.62,Debit,Raleigh,ATM,23.0,Student,85.0,1.0,9379.53,Muda,1
+578.49,Debit,Nashville,Branch,59.0,Retired,180.0,1.0,6475.13,Lansia,1
+280.92,Debit,Phoenix,Online,41.0,Doctor,168.0,1.0,5298.85,Dewasa,1
+42.420000000000016,Debit,Sacramento,Online,21.0,Student,102.0,1.0,490.5699999999997,Muda,1
+77.03,Debit,Fresno,ATM,67.0,Doctor,259.0,1.0,11310.27,Lansia,0
+22.590000000000003,Debit,Seattle,ATM,62.0,Retired,45.0,1.0,3988.75,Lansia,1
+568.76,Debit,Baltimore,ATM,51.0,Retired,155.0,1.0,7484.32,Dewasa,0
+105.94,Debit,Oklahoma City,Branch,51.0,Engineer,207.0,1.0,5963.1,Dewasa,1
+350.15,Credit,Fresno,ATM,21.0,Student,195.0,1.0,296.47000000000025,Muda,0
+183.67,Debit,San Diego,Online,19.0,Student,238.0,1.0,910.2600000000002,Muda,1
+278.27,Debit,Tucson,Branch,29.0,Doctor,123.0,1.0,6684.34,Muda,1
+470.3,Debit,Austin,ATM,40.0,Doctor,88.0,1.0,8524.09,Dewasa,0
+261.69,Debit,Philadelphia,ATM,53.0,Retired,84.0,1.0,5126.65,Dewasa,1
+365.04,Debit,Virginia Beach,Branch,21.999999999999996,Student,94.0,1.0,873.8900000000003,Muda,1
+211.1,Debit,Miami,Branch,57.0,Retired,136.0,1.0,7059.77,Lansia,1
+21.49000000000001,Debit,Denver,ATM,58.0,Doctor,240.0,1.0,11991.24,Lansia,0
+63.579999999999984,Debit,Columbus,ATM,18.0,Student,199.0,1.0,8086.04,Muda,0
+321.86,Debit,San Antonio,ATM,63.0,Doctor,167.0,1.0,12626.49,Lansia,1
+642.54,Debit,Milwaukee,Branch,44.0,Engineer,28.0,1.0,3143.17,Dewasa,1
+313.65,Credit,Chicago,Branch,55.0,Retired,173.0,1.0,1886.3599999999997,Dewasa,0
+99.75999999999999,Debit,Sacramento,Branch,26.0,Student,131.0,1.0,416.8900000000003,Muda,1
+115.32,Debit,Denver,Branch,53.0,Retired,113.0,1.0,5929.08,Dewasa,0
+33.61000000000004,Debit,Milwaukee,Online,23.0,Student,72.0,1.0,479.0799999999999,Muda,1
+498.59,Credit,Oklahoma City,Online,33.0,Doctor,32.0,1.0,5862.99,Dewasa,1
+98.81,Debit,San Francisco,Branch,27.0,Student,91.0,1.0,797.1000000000004,Muda,1
+1.8700000000000045,Debit,Washington,ATM,65.0,Retired,147.0,1.0,7287.94,Lansia,1
+78.92000000000002,Credit,Jacksonville,Online,59.0,Engineer,95.0,1.0,5624.86,Lansia,0
+194.29,Credit,Seattle,Branch,39.0,Engineer,10.0,1.0,2988.41,Dewasa,1
+105.53,Debit,Colorado Springs,Online,24.0,Student,88.0,1.0,1433.6599999999999,Muda,0
+737.3399999999999,Debit,Miami,Online,30.0,Doctor,34.0,1.0,7336.56,Muda,1
+237.86,Debit,Philadelphia,ATM,18.0,Student,210.0,1.0,475.6300000000001,Muda,1
+409.61,Debit,Kansas City,Branch,65.0,Doctor,89.0,1.0,11698.15,Lansia,0
+75.53,Credit,Fresno,Online,21.0,Student,157.0,1.0,1034.3499999999995,Muda,0
+72.75,Debit,Phoenix,ATM,64.0,Doctor,15.0,1.0,12042.79,Lansia,1
+39.110000000000014,Debit,Columbus,Online,26.0,Student,143.0,1.0,518.54,Muda,0
+729.3799999999999,Debit,Los Angeles,ATM,68.0,Doctor,90.0,1.0,9127.65,Lansia,0
+137.49,Debit,Fort Worth,ATM,34.0,Engineer,50.0,1.0,4471.05,Dewasa,0
+504.71,Debit,Detroit,Online,29.0,Engineer,61.0,1.0,6214.54,Muda,0
+371.47,Credit,Milwaukee,Branch,24.0,Student,58.00000000000001,1.0,1187.0399999999995,Muda,1
+430.35,Debit,Charlotte,Online,36.0,Doctor,205.0,1.0,354.89999999999964,Dewasa,0
+230.32,Debit,Las Vegas,Branch,35.0,Engineer,56.0,1.0,791.46,Dewasa,0
+121.70999999999998,Debit,Chicago,ATM,52.0,Retired,140.0,1.0,5878.89,Dewasa,0
+98.87,Debit,Detroit,Online,20.0,Student,179.0,1.0,533.1999999999998,Muda,0
+117.55000000000001,Debit,Fresno,ATM,24.0,Student,35.0,1.0,897.9399999999996,Muda,0
+244.64,Debit,Tucson,Branch,30.0,Doctor,103.0,1.0,9159.56,Muda,1
+321.93,Debit,Nashville,ATM,45.0,Engineer,12.0,1.0,4392.73,Dewasa,1
+346.65,Debit,Washington,Online,30.0,Engineer,60.0,1.0,6356.96,Muda,1
+388.65,Debit,Oklahoma City,ATM,76.0,Retired,43.0,1.0,7896.85,Lansia,1
+29.21999999999997,Debit,San Antonio,ATM,24.0,Student,151.0,1.0,1649.4300000000003,Muda,1
+46.75,Debit,Colorado Springs,Branch,67.0,Retired,150.0,1.0,2840.43,Lansia,0
+348.64,Debit,San Jose,Online,57.0,Retired,128.0,1.0,3274.96,Lansia,1
+319.17,Debit,Tucson,Online,73.0,Retired,81.0,1.0,6501.56,Lansia,1
+73.94999999999999,Debit,Kansas City,ATM,26.0,Student,76.0,1.0,363.9200000000001,Muda,0
+389.63,Debit,Mesa,Online,27.0,Engineer,99.0,1.0,9748.48,Muda,1
+217.61,Debit,Chicago,ATM,19.0,Student,45.0,1.0,1404.5299999999997,Muda,0
+199.84,Debit,Dallas,ATM,21.0,Student,150.0,1.0,706.4399999999996,Muda,0
+56.349999999999994,Debit,Charlotte,ATM,44.0,Doctor,75.0,1.0,5095.73,Dewasa,0
+248.95,Credit,San Francisco,Branch,65.0,Retired,29.000000000000014,1.0,3059.79,Lansia,1
+142.58000000000004,Debit,San Antonio,ATM,33.0,Engineer,145.0,1.0,7844.23,Dewasa,1
+333.78,Debit,San Diego,ATM,60.0,Retired,98.0,1.0,6810.94,Lansia,1
+332.59,Debit,San Antonio,Online,55.0,Retired,143.0,1.0,1457.0699999999997,Dewasa,1
+236.81,Debit,Oklahoma City,Branch,21.999999999999996,Student,15.0,1.0,813.6800000000003,Muda,1
+417.8,Credit,Philadelphia,Branch,27.0,Student,130.0,1.0,1518.8199999999997,Muda,1
+319.27,Debit,San Antonio,ATM,50.0,Doctor,150.0,1.0,10269.78,Dewasa,1
+820.6200000000001,Credit,Fresno,Branch,61.0,Doctor,158.0,1.0,6024.8,Lansia,0
+474.77,Credit,Indianapolis,Online,56.0,Engineer,50.0,1.0,2158.59,Lansia,0
+542.72,Credit,Indianapolis,Branch,43.0,Doctor,92.0,1.0,6011.8,Dewasa,0
+79.80000000000001,Debit,Fort Worth,ATM,73.0,Retired,76.0,1.0,6372.58,Lansia,0
+46.24000000000001,Debit,San Diego,Branch,57.0,Engineer,52.0,1.0,2569.56,Lansia,1
+327.8,Debit,San Francisco,ATM,61.0,Doctor,54.0,1.0,10585.48,Lansia,1
+445.79,Debit,Las Vegas,ATM,52.0,Doctor,161.0,1.0,717.9899999999998,Dewasa,0
+55.889999999999986,Debit,Fresno,Online,72.0,Retired,150.0,1.0,3689.65,Lansia,0
+158.41,Debit,Sacramento,Branch,28.0,Student,16.0,1.0,1512.1599999999999,Muda,1
+101.19,Credit,Denver,Online,64.0,Doctor,75.0,1.0,14389.45,Lansia,0
+61.97,Debit,Phoenix,ATM,74.0,Retired,95.0,1.0,7014.69,Lansia,1
+27.210000000000008,Debit,San Jose,ATM,79.0,Retired,102.0,1.0,3520.61,Lansia,1
+173.74,Debit,Houston,Online,80.0,Retired,64.0,1.0,4913.42,Lansia,0
+176.11,Debit,San Jose,Branch,38.0,Engineer,105.0,1.0,9155.35,Dewasa,1
+88.4,Debit,Fort Worth,Online,46.0,Engineer,174.0,1.0,2567.53,Dewasa,0
+567.92,Debit,Columbus,Online,53.0,Retired,14.0,1.0,3779.47,Dewasa,0
+138.11,Credit,Phoenix,Online,68.0,Retired,104.0,1.0,4177.65,Lansia,1
+456.93,Credit,Virginia Beach,Branch,28.0,Engineer,193.0,1.0,7284.76,Muda,1
+101.42000000000002,Debit,Atlanta,Online,66.0,Retired,146.0,1.0,6530.59,Lansia,0
+300.61,Debit,El Paso,Online,44.0,Doctor,51.0,1.0,7895.54,Dewasa,0
+265.94,Debit,Boston,Online,54.0,Engineer,132.0,1.0,6781.3,Dewasa,0
+345.54,Debit,San Diego,Online,29.0,Engineer,50.0,1.0,2091.78,Muda,1
+411.52,Debit,Los Angeles,ATM,41.0,Doctor,88.0,1.0,11108.39,Dewasa,0
+111.20999999999998,Debit,Portland,Branch,35.0,Doctor,111.0,1.0,9088.36,Dewasa,1
+316.37,Debit,Colorado Springs,ATM,53.0,Engineer,86.0,1.0,4671.69,Dewasa,0
+260.63,Debit,Fort Worth,Branch,37.0,Engineer,142.0,1.0,7534.73,Dewasa,0
+92.36000000000001,Debit,Dallas,ATM,29.0,Engineer,144.0,1.0,6353.14,Muda,0
+262.06,Debit,Oklahoma City,Branch,63.0,Doctor,118.0,1.0,13587.52,Lansia,1
+64.5,Debit,Denver,ATM,74.0,Retired,230.0,1.0,1351.2399999999998,Lansia,0
+175.94,Debit,Indianapolis,ATM,57.0,Retired,89.0,1.0,3728.04,Lansia,0
+199.47,Debit,Detroit,Online,57.0,Doctor,142.0,1.0,6067.44,Lansia,0
+51.06999999999999,Debit,Dallas,Branch,63.0,Retired,133.0,1.0,4292.16,Lansia,0
+435.86,Debit,Jacksonville,ATM,56.0,Retired,134.0,1.0,3801.82,Lansia,0
+74.73000000000002,Credit,Jacksonville,Branch,64.0,Retired,162.0,1.0,6353.22,Lansia,0
+182.79,Credit,Louisville,Online,23.0,Student,14.0,1.0,1251.85,Muda,0
+628.36,Debit,Austin,Online,44.0,Doctor,108.0,1.0,11869.71,Dewasa,0
+268.39,Debit,San Antonio,Online,29.0,Doctor,177.0,1.0,9409.43,Muda,1
+560.15,Credit,Memphis,Online,50.0,Engineer,92.0,1.0,817.8299999999999,Dewasa,1
+132.36,Debit,Colorado Springs,Branch,28.0,Student,160.0,1.0,319.64999999999964,Muda,0
+24.769999999999982,Credit,Nashville,Online,40.0,Engineer,17.0,1.0,478.2300000000005,Dewasa,1
+80.24000000000001,Credit,New York,Branch,53.0,Doctor,58.00000000000001,1.0,8012.81,Dewasa,1
+8.650000000000006,Debit,Mesa,ATM,68.0,Retired,198.0,1.0,4201.22,Lansia,1
+178.91,Debit,Omaha,ATM,18.0,Student,19.0,1.0,8870.89,Muda,1
+115.22,Debit,San Francisco,Branch,27.0,Engineer,108.0,1.0,906.1999999999998,Muda,1
+161.63,Debit,San Jose,Online,46.0,Doctor,276.0,1.0,9286.37,Dewasa,1
+542.75,Credit,Nashville,Branch,70.0,Retired,63.0,1.0,2224.08,Lansia,1
+317.47,Credit,Sacramento,Online,67.0,Doctor,16.0,1.0,14639.279999999999,Lansia,1
+280.99,Debit,Houston,Branch,45.0,Engineer,29.000000000000014,1.0,9733.59,Dewasa,0
+24.189999999999998,Debit,San Diego,ATM,29.0,Engineer,28.0,1.0,2756.2,Muda,1
+372.41,Debit,San Diego,ATM,55.0,Retired,143.0,1.0,3233.87,Dewasa,1
+247.17,Credit,Chicago,Branch,65.0,Retired,149.0,1.0,2611.64,Lansia,0
+48.78,Credit,Kansas City,Branch,18.0,Student,136.0,1.0,552.0600000000004,Muda,0
+4.150000000000006,Credit,Omaha,Branch,60.0,Retired,119.0,1.0,6017.36,Lansia,1
+60.99000000000001,Debit,Oklahoma City,Branch,34.0,Engineer,58.00000000000001,1.0,7281.46,Dewasa,1
+408.19,Debit,Mesa,Branch,26.0,Engineer,241.0,1.0,6847.47,Muda,1
+524.6,Debit,El Paso,Branch,58.0,Doctor,76.0,1.0,13017.7,Lansia,0
+108.95999999999998,Debit,Milwaukee,ATM,26.0,Student,247.0,1.0,7597.66,Muda,1
+70.03,Debit,Nashville,Branch,63.0,Retired,49.0,1.0,7330.31,Lansia,1
+324.04,Debit,Virginia Beach,ATM,54.0,Retired,30.0,1.0,2248.06,Dewasa,1
+39.69,Debit,Austin,Online,70.0,Retired,163.0,1.0,3524.68,Lansia,0
+81.26999999999998,Credit,Seattle,Online,21.999999999999996,Student,68.0,1.0,1814.48,Muda,1
+193.82,Debit,Kansas City,Branch,37.0,Engineer,176.0,1.0,3886.77,Dewasa,0
+474.05,Debit,San Jose,ATM,57.0,Retired,214.0,1.0,1484.31,Lansia,1
+637.75,Debit,Dallas,Branch,79.0,Retired,152.0,1.0,4202.92,Lansia,0
+153.59,Credit,Portland,Branch,66.0,Retired,174.0,1.0,4813.12,Lansia,1
+186.6,Debit,Tucson,Branch,18.0,Student,139.0,1.0,9716.68,Muda,1
+644.08,Debit,Atlanta,Online,24.0,Student,55.0,1.0,1980.62,Muda,0
+305.0,Debit,Phoenix,ATM,21.999999999999996,Student,222.0,1.0,944.8299999999999,Muda,1
+233.1,Credit,Nashville,Branch,42.0,Doctor,37.0,1.0,7469.2,Dewasa,1
+793.1300000000001,Debit,Memphis,Online,68.0,Doctor,76.0,1.0,13389.16,Lansia,1
+224.19,Debit,Houston,ATM,52.0,Doctor,93.0,1.0,8475.47,Dewasa,0
+214.83,Credit,Tucson,ATM,23.0,Student,63.0,1.0,991.6899999999996,Muda,1
+163.46,Credit,Baltimore,Branch,63.0,Retired,111.0,1.0,6953.8,Lansia,0
+194.99,Debit,Jacksonville,Branch,34.0,Engineer,91.0,1.0,1370.0299999999997,Dewasa,0
+227.5,Debit,Sacramento,Online,34.0,Doctor,277.0,1.0,11505.35,Dewasa,1
+259.9,Debit,Oklahoma City,Online,26.0,Student,100.0,1.0,914.2799999999997,Muda,1
+59.50999999999999,Credit,Dallas,Online,36.0,Doctor,55.0,1.0,9955.88,Dewasa,0
+112.94,Credit,San Antonio,Online,73.0,Retired,31.0,1.0,3807.84,Lansia,1
+11.81000000000003,Debit,Phoenix,ATM,21.0,Student,131.0,1.0,320.25,Muda,1
+329.14,Debit,Sacramento,Branch,55.0,Doctor,14.0,1.0,12033.92,Dewasa,1
+154.24,Debit,Mesa,ATM,61.0,Retired,82.0,1.0,6109.55,Lansia,1
+233.44,Debit,Chicago,Online,20.0,Student,297.0,1.0,1691.88,Muda,0
+98.70999999999998,Debit,Fort Worth,ATM,32.0,Doctor,117.0,1.0,10095.23,Muda,0
+87.38,Debit,Atlanta,Branch,21.0,Student,252.0,1.0,1504.9899999999998,Muda,0
+83.38999999999999,Debit,Omaha,Branch,32.0,Doctor,158.0,1.0,13182.11,Muda,1
+267.55,Debit,Charlotte,Online,46.0,Engineer,40.000000000000014,1.0,4330.04,Dewasa,0
+870.05,Debit,El Paso,ATM,29.0,Doctor,39.0,1.0,905.25,Muda,0
+164.51,Debit,Louisville,Branch,78.0,Retired,110.0,1.0,3553.69,Lansia,0
+758.12,Debit,San Francisco,ATM,69.0,Retired,90.0,1.0,6164.65,Lansia,1
+103.75999999999999,Debit,Kansas City,Online,28.0,Engineer,188.0,1.0,9626.14,Muda,0
+583.92,Debit,Kansas City,Online,55.0,Engineer,139.0,1.0,6364.14,Dewasa,0
+204.06,Debit,Washington,Online,77.0,Retired,159.0,1.0,4351.83,Lansia,1
+53.50999999999999,Debit,New York,Online,56.0,Retired,165.0,1.0,5773.5,Lansia,1
+120.17000000000002,Debit,Portland,ATM,49.0,Doctor,105.0,1.0,5403.79,Dewasa,1
+220.8,Debit,Indianapolis,Online,31.0,Engineer,28.0,1.0,8135.31,Muda,0
+119.00999999999999,Debit,Philadelphia,ATM,45.0,Doctor,87.0,1.0,9798.26,Dewasa,1
+183.32,Debit,Raleigh,ATM,21.0,Student,74.0,1.0,137.42000000000007,Muda,1
+858.8800000000001,Debit,Jacksonville,Online,60.0,Engineer,227.0,1.0,7015.46,Lansia,0
+11.460000000000008,Credit,San Francisco,Online,41.0,Engineer,128.0,1.0,2356.71,Dewasa,1
+61.370000000000005,Debit,Columbus,Branch,75.0,Retired,164.0,1.0,4294.44,Lansia,0
+103.07999999999998,Credit,Milwaukee,Branch,49.0,Engineer,150.0,1.0,9251.38,Dewasa,1
+425.18,Credit,Colorado Springs,Online,26.0,Engineer,172.0,1.0,9880.71,Muda,0
+60.96000000000001,Debit,Colorado Springs,ATM,52.0,Retired,238.0,1.0,6189.24,Dewasa,0
+64.20999999999998,Debit,Omaha,ATM,51.0,Doctor,37.0,1.0,12540.18,Dewasa,1
+523.02,Debit,Jacksonville,Online,53.0,Retired,83.0,1.0,4586.11,Dewasa,0
+50.25999999999999,Debit,Las Vegas,Branch,65.0,Retired,164.0,1.0,1519.38,Lansia,0
+110.07999999999998,Debit,Detroit,Branch,19.0,Student,95.0,1.0,1447.2600000000002,Muda,0
+54.47,Credit,Philadelphia,Branch,23.0,Student,34.0,1.0,1131.42,Muda,1
+79.75999999999999,Debit,Kansas City,Online,68.0,Doctor,115.0,1.0,10278.75,Lansia,0
+16.79000000000002,Credit,Detroit,Online,30.0,Doctor,146.0,1.0,535.1499999999996,Muda,0
+68.62,Debit,Omaha,Branch,29.0,Doctor,157.0,1.0,13891.469999999998,Muda,1
+643.38,Credit,Detroit,Online,18.0,Student,105.0,1.0,1046.7399999999998,Muda,0
+328.34,Credit,San Diego,Online,42.0,Engineer,31.0,1.0,2840.45,Dewasa,1
+72.68,Debit,Seattle,Online,69.0,Retired,44.0,1.0,6216.77,Lansia,1
+354.76,Debit,Detroit,Branch,51.0,Doctor,279.0,1.0,10141.92,Dewasa,0
+793.8800000000001,Credit,Los Angeles,ATM,21.999999999999996,Student,252.0,1.0,1404.06,Muda,0
+29.21999999999997,Debit,Detroit,ATM,27.0,Engineer,69.0,1.0,7795.79,Muda,0
+366.43,Credit,Portland,Online,21.0,Student,92.0,1.0,1560.4499999999998,Muda,1
+233.74,Debit,Boston,Online,72.0,Retired,142.0,1.0,4749.54,Lansia,0
+471.84,Debit,Raleigh,ATM,18.0,Student,138.0,1.0,1044.3300000000004,Muda,1
+213.4,Credit,Fort Worth,Branch,73.0,Retired,100.0,1.0,2012.2399999999998,Lansia,0
+254.21,Debit,Phoenix,ATM,48.0,Engineer,46.0,1.0,2487.2,Dewasa,1
+577.73,Debit,San Jose,ATM,37.0,Doctor,63.0,1.0,14977.989999999998,Dewasa,1
+170.26,Debit,Chicago,ATM,27.0,Student,265.0,1.0,1969.48,Muda,0
+330.61,Credit,Nashville,Branch,64.0,Retired,113.0,1.0,2525.25,Lansia,1
+132.33,Credit,Phoenix,ATM,35.0,Engineer,47.0,1.0,7457.94,Dewasa,1
+74.04000000000002,Debit,Memphis,Online,18.0,Student,66.0,1.0,1690.23,Muda,1
+197.18,Debit,Tucson,Online,28.0,Engineer,135.0,1.0,3114.92,Muda,1
+697.8199999999999,Debit,New York,Online,44.0,Engineer,153.0,1.0,6824.0,Dewasa,1
+148.0,Debit,Tucson,Branch,20.0,Student,35.0,1.0,1488.65,Muda,1
+22.26000000000002,Debit,San Antonio,Branch,19.0,Student,56.0,1.0,5583.88,Muda,1
+0.8600000000000421,Debit,Colorado Springs,ATM,25.0,Student,139.0,1.0,1357.2200000000003,Muda,0
+757.0999999999999,Debit,Atlanta,Branch,65.0,Doctor,203.0,1.0,10553.23,Lansia,0
+38.81,Credit,Virginia Beach,Online,25.0,Student,145.0,1.0,1619.6,Muda,1
+32.46000000000001,Debit,Charlotte,Online,31.0,Doctor,10.0,1.0,8656.18,Muda,0
+20.639999999999958,Debit,Charlotte,Branch,21.999999999999996,Student,59.0,1.0,949.3800000000001,Muda,0
+662.11,Debit,Atlanta,Branch,23.0,Student,219.0,1.0,1996.38,Muda,0
+35.05000000000001,Debit,Boston,Branch,30.0,Doctor,105.0,1.0,14330.469999999998,Muda,0
+214.73,Credit,Los Angeles,ATM,46.0,Doctor,26.0,1.0,5368.42,Dewasa,0
+25.380000000000024,Debit,Louisville,Branch,57.0,Engineer,66.0,1.0,8616.05,Lansia,0
+617.66,Debit,Memphis,ATM,41.0,Engineer,40.000000000000014,1.0,5906.58,Dewasa,1
+446.39,Debit,Houston,ATM,63.0,Retired,77.0,1.0,7863.6,Lansia,0
+377.92,Debit,Raleigh,Branch,33.0,Engineer,204.0,1.0,2254.71,Dewasa,1
+11.039999999999992,Debit,Phoenix,Online,30.0,Engineer,43.0,1.0,6983.04,Muda,1
+275.46,Debit,Fort Worth,ATM,36.0,Doctor,67.0,1.0,9697.75,Dewasa,0
+179.76,Debit,Philadelphia,Online,78.0,Retired,81.0,1.0,5909.52,Lansia,1
+32.34,Debit,Kansas City,Branch,44.0,Doctor,45.0,1.0,7847.62,Dewasa,0
+273.92,Debit,Portland,Branch,79.0,Retired,109.0,1.0,4543.56,Lansia,1
+388.98,Debit,Fresno,ATM,23.0,Student,155.0,1.0,1819.9099999999999,Muda,0
+492.8399999999999,Debit,Indianapolis,ATM,25.0,Student,38.0,1.0,577.6700000000001,Muda,0
+148.85,Debit,Mesa,ATM,57.0,Doctor,25.0,1.0,7802.36,Lansia,1
+185.99,Credit,Fresno,Branch,41.0,Engineer,53.0,1.0,402.4499999999998,Dewasa,0
+322.48,Debit,Jacksonville,ATM,27.0,Student,57.0,1.0,1238.4300000000003,Muda,0
+20.27000000000001,Debit,Miami,Branch,18.0,Student,22.0,1.0,796.3500000000004,Muda,1
+104.23000000000002,Credit,Louisville,Online,63.0,Retired,108.0,1.0,5009.29,Lansia,0
+55.860000000000014,Debit,Seattle,Online,39.0,Engineer,68.0,1.0,5346.46,Dewasa,1
+95.55000000000001,Debit,Louisville,Branch,33.0,Engineer,51.0,1.0,2434.74,Dewasa,0
+477.07,Debit,Columbus,Online,27.0,Engineer,278.0,1.0,6568.07,Muda,0
+21.409999999999997,Debit,Louisville,Online,57.0,Doctor,99.0,1.0,658.9099999999999,Lansia,0
+278.28,Debit,Jacksonville,Branch,28.0,Student,26.0,1.0,1346.88,Muda,0
+215.39,Debit,Detroit,ATM,27.0,Student,216.0,1.0,1582.5500000000002,Muda,0
+194.37,Debit,Milwaukee,ATM,66.0,Doctor,161.0,1.0,14395.879999999997,Lansia,1
+19.590000000000003,Debit,Charlotte,Branch,64.0,Retired,122.0,1.0,1061.69,Lansia,0
+81.35,Debit,Houston,Online,41.0,Engineer,103.0,1.0,7192.45,Dewasa,0
+314.54,Credit,Virginia Beach,Branch,58.0,Engineer,228.0,1.0,9923.45,Lansia,1
+466.64,Debit,Las Vegas,ATM,58.0,Doctor,11.0,1.0,10915.11,Lansia,0
+472.48,Debit,New York,Branch,55.0,Engineer,87.0,1.0,7128.82,Dewasa,1
+67.15,Debit,Indianapolis,Online,59.0,Doctor,14.0,1.0,9028.49,Lansia,0
+102.67000000000002,Debit,Albuquerque,Branch,79.0,Retired,119.0,1.0,4656.94,Lansia,0
+453.49,Debit,Seattle,Branch,66.0,Doctor,147.0,1.0,6366.43,Lansia,1
+267.17,Debit,Seattle,ATM,26.0,Student,170.0,1.0,1382.62,Muda,1
+111.25999999999999,Debit,Boston,ATM,66.0,Doctor,43.0,1.0,14350.11,Lansia,0
+121.17000000000002,Debit,Phoenix,ATM,68.0,Doctor,158.0,1.0,12990.77,Lansia,1
+213.28,Debit,Mesa,Branch,51.0,Retired,94.0,1.0,4835.91,Dewasa,1
+187.88,Debit,Nashville,ATM,60.0,Engineer,180.0,1.0,2154.58,Lansia,1
+471.88,Credit,San Jose,Online,34.0,Doctor,141.0,1.0,14833.34,Dewasa,1
+83.79000000000002,Debit,Nashville,ATM,57.0,Engineer,47.0,1.0,5061.3,Lansia,1
+99.16,Debit,San Francisco,Online,79.0,Retired,202.0,1.0,2607.58,Lansia,1
+839.3300000000002,Credit,Louisville,Branch,60.0,Doctor,86.0,1.0,11538.97,Lansia,0
+4.240000000000009,Debit,San Diego,Online,38.0,Engineer,38.0,1.0,7822.73,Dewasa,1
+50.28999999999999,Credit,Raleigh,Online,58.0,Doctor,64.0,1.0,7604.9,Lansia,1
+135.84999999999997,Debit,Fresno,Online,57.0,Retired,269.0,1.0,1480.3900000000003,Lansia,0
+368.53,Debit,Raleigh,Branch,68.0,Doctor,34.0,1.0,13696.309999999998,Lansia,1
+17.94999999999999,Credit,Sacramento,Branch,64.0,Doctor,135.0,1.0,12344.9,Lansia,1
+127.80000000000001,Credit,Virginia Beach,Branch,31.0,Engineer,47.0,1.0,8630.99,Muda,1
+16.72999999999999,Debit,Houston,Online,45.0,Engineer,48.0,1.0,2202.62,Dewasa,0
+317.12,Debit,Fort Worth,Branch,44.0,Doctor,80.0,1.0,14409.739999999998,Dewasa,0
+476.63,Debit,Charlotte,ATM,79.0,Retired,115.0,1.0,4894.25,Lansia,0
+156.58,Debit,Portland,Branch,24.0,Student,160.0,1.0,8981.61,Muda,1
+55.120000000000005,Credit,Houston,Online,34.0,Engineer,261.0,1.0,3791.99,Dewasa,0
+15.740000000000009,Debit,Denver,Branch,27.0,Student,38.0,1.0,690.1599999999999,Muda,0
+297.15,Debit,Phoenix,Online,76.0,Retired,178.0,1.0,5449.37,Lansia,1
+647.85,Debit,Omaha,Branch,36.0,Doctor,121.0,1.0,13779.969999999998,Dewasa,1
+75.04000000000002,Debit,El Paso,ATM,49.0,Engineer,178.0,1.0,9648.6,Dewasa,0
+273.92,Debit,Virginia Beach,Online,28.0,Student,35.0,1.0,1029.15,Muda,1
+215.8,Credit,Jacksonville,Branch,51.0,Retired,66.0,1.0,3656.62,Dewasa,0
+420.6,Debit,Louisville,Branch,26.0,Student,55.0,1.0,1778.75,Muda,0
+688.36,Credit,Memphis,Branch,23.0,Student,22.0,1.0,5191.13,Muda,1
+285.18,Credit,Sacramento,Branch,55.0,Doctor,150.0,1.0,14847.969999999998,Dewasa,1
+213.55,Debit,Boston,ATM,63.0,Doctor,15.0,1.0,5238.37,Lansia,0
+463.11,Credit,Las Vegas,Branch,51.0,Doctor,159.0,1.0,10238.82,Dewasa,0
+309.56,Debit,Charlotte,Online,58.0,Doctor,147.0,1.0,972.04,Lansia,0
+377.08,Credit,Mesa,Branch,26.0,Student,71.0,1.0,6430.86,Muda,1
+77.25,Debit,Virginia Beach,Branch,68.0,Doctor,157.0,1.0,14077.969999999998,Lansia,1
+146.92,Debit,Portland,ATM,64.0,Retired,272.0,1.0,3990.6,Lansia,1
+126.6,Debit,San Antonio,Branch,21.999999999999996,Student,146.0,1.0,961.6499999999996,Muda,1
+101.34,Debit,Boston,ATM,24.0,Student,46.0,1.0,703.2600000000002,Muda,0
+184.97,Debit,Denver,Branch,58.0,Doctor,268.0,1.0,1156.67,Lansia,0
+451.15,Debit,Colorado Springs,ATM,46.0,Engineer,175.0,1.0,1356.4700000000003,Dewasa,0
+516.47,Credit,Charlotte,ATM,25.0,Student,94.0,1.0,1305.06,Muda,0
+880.04,Debit,Sacramento,ATM,25.0,Student,29.000000000000014,1.0,261.97000000000025,Muda,1
+66.69,Credit,San Antonio,Branch,25.0,Student,140.0,1.0,1210.33,Muda,1
+95.75,Debit,Los Angeles,Branch,31.0,Engineer,169.0,1.0,337.6199999999999,Muda,0
+98.03,Debit,El Paso,Branch,54.0,Engineer,165.0,1.0,6323.45,Dewasa,0
+617.66,Debit,Boston,ATM,42.0,Engineer,128.0,1.0,7155.95,Dewasa,0
+888.5700000000002,Debit,San Antonio,Online,62.0,Retired,102.0,1.0,7896.14,Lansia,1
+107.48000000000002,Debit,Omaha,Branch,21.999999999999996,Student,129.0,1.0,591.2300000000005,Muda,1
+36.56999999999999,Debit,Omaha,ATM,62.0,Retired,69.0,1.0,2583.07,Lansia,1
+575.62,Debit,Oklahoma City,Online,43.0,Doctor,129.0,1.0,234.40999999999985,Dewasa,1
+84.88999999999999,Debit,San Jose,ATM,37.0,Engineer,70.0,1.0,4735.61,Dewasa,1
+7.7599999999999625,Credit,Las Vegas,Online,52.0,Retired,84.0,1.0,7393.11,Dewasa,0
+109.30000000000001,Debit,Fort Worth,Branch,56.0,Doctor,27.0,1.0,13510.11,Lansia,0
+230.08,Debit,Austin,Online,79.0,Retired,124.0,1.0,4466.1,Lansia,0
+361.92,Debit,Detroit,ATM,54.0,Retired,111.0,1.0,7474.31,Dewasa,0
+122.44999999999999,Debit,New York,Branch,46.0,Doctor,98.0,1.0,7255.49,Dewasa,1
+642.53,Debit,Mesa,ATM,65.0,Doctor,128.0,1.0,11417.91,Lansia,1
+175.21,Credit,Mesa,ATM,69.0,Doctor,69.0,1.0,6039.04,Lansia,1
+168.0,Credit,Tucson,Branch,32.0,Engineer,11.0,1.0,3498.58,Muda,1
+11.460000000000008,Debit,Chicago,Online,67.0,Retired,73.0,1.0,6628.75,Lansia,0
+382.07,Credit,Omaha,Branch,62.0,Doctor,147.0,1.0,10156.09,Lansia,1
+65.32,Debit,Mesa,ATM,28.0,Student,54.0,1.0,9165.02,Muda,1
+730.1,Credit,Chicago,Branch,77.0,Retired,93.0,1.0,6384.05,Lansia,0
+85.31,Debit,Kansas City,ATM,62.0,Retired,27.0,1.0,6095.65,Lansia,0
+726.61,Debit,Phoenix,ATM,18.0,Student,277.0,1.0,1008.7600000000002,Muda,1
+130.4,Debit,Raleigh,Branch,45.0,Engineer,63.0,1.0,4381.24,Dewasa,1
+68.1,Debit,Milwaukee,ATM,20.0,Student,47.0,1.0,1382.8000000000002,Muda,1
+65.25999999999999,Debit,Sacramento,Branch,26.0,Student,72.0,1.0,7380.63,Muda,1
+191.62,Debit,Jacksonville,Branch,63.0,Doctor,51.0,1.0,1981.67,Lansia,0
+212.88,Debit,Fresno,Online,39.0,Doctor,122.0,1.0,7036.72,Dewasa,0
+88.38,Debit,Virginia Beach,ATM,30.0,Engineer,138.0,1.0,3707.82,Muda,1
+390.09,Debit,El Paso,Online,26.0,Engineer,49.0,1.0,2617.23,Muda,0
+48.28999999999999,Debit,San Diego,Online,37.0,Engineer,242.0,1.0,8883.4,Dewasa,1
+333.83,Debit,Fresno,ATM,63.0,Retired,135.0,1.0,1660.6599999999999,Lansia,0
+100.26999999999998,Debit,Miami,Online,79.0,Retired,51.0,1.0,4309.9,Lansia,1
+44.53999999999999,Debit,San Antonio,ATM,31.0,Engineer,164.0,1.0,362.39999999999964,Muda,1
+82.17000000000002,Debit,Fort Worth,Branch,28.0,Student,21.0,1.0,1913.06,Muda,0
+447.42,Debit,Charlotte,Online,32.0,Engineer,65.0,1.0,6133.22,Muda,0
+590.26,Credit,Austin,Branch,25.0,Student,48.0,1.0,1068.2799999999993,Muda,0
+192.73,Debit,Milwaukee,Branch,71.0,Retired,157.0,1.0,2037.75,Lansia,1
+11.569999999999993,Credit,New York,Branch,56.0,Retired,64.0,1.0,2061.61,Lansia,1
+7.819999999999993,Debit,Boston,ATM,36.0,Engineer,273.0,1.0,2240.49,Dewasa,0
+79.43,Debit,Dallas,ATM,74.0,Retired,72.0,1.0,6579.37,Lansia,0
+386.97,Debit,Raleigh,Branch,58.0,Retired,137.0,1.0,1876.35,Lansia,1
+51.22,Debit,Fresno,Branch,23.0,Student,82.0,1.0,1664.5900000000001,Muda,0
+256.05,Debit,Nashville,ATM,54.0,Retired,35.0,1.0,6910.18,Dewasa,1
+7.7900000000000205,Debit,Los Angeles,Branch,34.0,Doctor,298.0,1.0,1319.85,Dewasa,0
+233.71,Debit,Louisville,Branch,63.0,Doctor,11.0,1.0,6095.5,Lansia,0
+176.37,Debit,Boston,Branch,55.0,Retired,126.0,1.0,2420.86,Dewasa,0
+86.41,Debit,Fresno,ATM,75.0,Retired,125.0,1.0,3128.71,Lansia,0
+21.569999999999993,Debit,San Francisco,ATM,54.0,Retired,71.0,1.0,7587.48,Dewasa,1
+82.67000000000002,Debit,Milwaukee,Branch,26.0,Student,46.0,1.0,290.59000000000015,Muda,1
+543.47,Debit,Los Angeles,ATM,18.0,Student,122.0,1.0,6165.03,Muda,0
+346.76,Credit,San Jose,Branch,21.0,Student,116.0,1.0,1637.75,Muda,1
+47.47999999999999,Debit,El Paso,Branch,24.0,Student,66.0,1.0,585.5199999999995,Muda,0
+64.92000000000002,Debit,Atlanta,Branch,58.0,Engineer,236.0,1.0,5481.76,Lansia,0
+350.72,Credit,Fresno,ATM,28.0,Student,48.0,1.0,1982.9,Muda,0
+3.799999999999983,Debit,Charlotte,Online,65.0,Doctor,174.0,1.0,5766.96,Lansia,0
+22.539999999999964,Debit,El Paso,Online,26.0,Engineer,42.0,1.0,7139.11,Muda,0
+167.47,Debit,Sacramento,ATM,35.0,Engineer,103.0,1.0,2293.13,Dewasa,1
+43.650000000000006,Credit,Charlotte,Branch,30.0,Engineer,212.0,1.0,2870.67,Muda,0
+390.77,Debit,Portland,Online,44.0,Doctor,34.0,1.0,5500.56,Dewasa,1
+508.15999999999997,Debit,Mesa,ATM,39.0,Engineer,131.0,1.0,5609.44,Dewasa,1
+332.33,Debit,Kansas City,ATM,27.0,Student,101.0,1.0,192.6300000000001,Muda,0
+362.09,Debit,New York,Branch,32.0,Engineer,31.0,1.0,6590.28,Muda,1
+42.579999999999984,Debit,San Jose,Online,30.0,Doctor,80.0,1.0,13485.0,Muda,1
+248.66,Debit,Chicago,Online,28.0,Engineer,113.0,1.0,2571.39,Muda,0
+461.25,Credit,Sacramento,Online,54.0,Doctor,171.0,1.0,676.1000000000004,Dewasa,1
+61.77000000000001,Debit,Charlotte,Branch,56.0,Doctor,49.0,1.0,12352.2,Lansia,0
+268.92,Debit,Chicago,Branch,29.0,Engineer,148.0,1.0,8765.38,Muda,0
+219.02,Credit,San Diego,Online,54.0,Engineer,68.0,1.0,7375.73,Dewasa,1
+125.13999999999999,Debit,Baltimore,Branch,20.0,Student,31.0,1.0,1845.1800000000003,Muda,0
+47.599999999999994,Debit,Austin,Online,53.0,Engineer,115.0,1.0,1382.5100000000002,Dewasa,0
+592.82,Debit,Memphis,Online,74.0,Retired,248.0,1.0,7508.98,Lansia,1
+372.5,Debit,Nashville,ATM,21.999999999999996,Student,211.0,1.0,3901.82,Muda,1
+4.719999999999999,Debit,Fort Worth,Branch,32.0,Engineer,20.0,1.0,4792.01,Muda,0
+144.93,Debit,Fresno,Branch,42.0,Engineer,74.0,1.0,6887.52,Dewasa,0
+316.56,Debit,Denver,Online,28.0,Engineer,261.0,1.0,8643.51,Muda,0
+421.25,Debit,Fort Worth,Online,25.0,Student,66.0,1.0,7174.69,Muda,0
+185.71,Debit,Virginia Beach,Branch,48.0,Engineer,194.0,1.0,2679.91,Dewasa,1
+26.27000000000001,Credit,Portland,Online,45.0,Engineer,177.0,1.0,8853.93,Dewasa,1
+297.03,Debit,Austin,Online,61.0,Retired,151.0,1.0,1088.62,Lansia,0
+99.51999999999998,Debit,San Diego,ATM,52.0,Engineer,127.0,1.0,3798.09,Dewasa,1
+139.69,Debit,Indianapolis,Online,52.0,Engineer,180.0,1.0,9567.94,Dewasa,0
+112.72,Debit,Washington,Branch,31.0,Doctor,17.0,1.0,9630.0,Muda,1
+568.88,Debit,Nashville,Branch,19.0,Student,105.0,1.0,1307.8599999999997,Muda,1
+189.03,Debit,Oklahoma City,ATM,28.0,Student,50.0,1.0,1916.46,Muda,1
+189.08,Debit,Miami,Branch,68.0,Doctor,238.0,1.0,10790.8,Lansia,1
+283.15,Debit,Baltimore,Online,24.0,Student,180.0,1.0,603.79,Muda,0
+151.82,Debit,Chicago,ATM,51.0,Retired,105.0,1.0,2197.12,Dewasa,0
+438.59,Debit,San Jose,Online,37.0,Engineer,103.0,1.0,8994.39,Dewasa,1
+501.15,Debit,Phoenix,Branch,47.0,Engineer,208.0,1.0,8821.84,Dewasa,1
+8.949999999999989,Debit,Oklahoma City,Online,76.0,Retired,102.0,1.0,3299.84,Lansia,1
+173.6,Debit,Austin,Online,21.0,Student,160.0,1.0,421.4399999999996,Muda,0
+149.4,Debit,Chicago,ATM,53.0,Retired,123.0,1.0,1035.2200000000003,Dewasa,0
+388.21,Credit,Columbus,Branch,53.0,Doctor,237.0,1.0,9724.49,Dewasa,0
+126.04000000000002,Credit,Charlotte,Branch,65.0,Retired,167.0,1.0,6041.69,Lansia,0
+52.03999999999999,Credit,Colorado Springs,Branch,50.0,Doctor,31.0,1.0,8436.12,Dewasa,0
+389.7,Credit,Austin,Branch,62.0,Doctor,216.0,1.0,7125.15,Lansia,0
+309.77,Credit,San Antonio,Online,67.0,Retired,137.0,1.0,4378.14,Lansia,1
+724.18,Debit,Fort Worth,Branch,41.0,Doctor,134.0,1.0,10922.78,Dewasa,0
+124.98000000000002,Debit,Washington,ATM,24.0,Student,78.0,1.0,642.0,Muda,1
+487.31999999999994,Debit,Kansas City,Branch,52.0,Doctor,164.0,1.0,7707.96,Dewasa,0
+635.91,Credit,Jacksonville,Branch,46.0,Doctor,78.0,1.0,13267.09,Dewasa,0
+205.65,Debit,Houston,Branch,62.0,Retired,144.0,1.0,3582.16,Lansia,0
+39.41,Debit,Louisville,Branch,25.0,Student,132.0,1.0,921.9099999999999,Muda,0
+254.0,Debit,Nashville,Branch,35.0,Doctor,63.0,1.0,5788.53,Dewasa,1
+436.8,Debit,Houston,Branch,36.0,Engineer,213.0,1.0,4515.43,Dewasa,0
+224.73,Debit,Miami,Branch,76.0,Retired,63.0,1.0,7551.89,Lansia,1
+752.69,Credit,Dallas,ATM,65.0,Doctor,115.0,1.0,14489.689999999999,Lansia,0
+78.5,Credit,San Jose,Branch,31.0,Doctor,41.0,1.0,13991.5,Muda,1
+50.0,Credit,Jacksonville,ATM,53.0,Doctor,87.0,1.0,185.8699999999999,Dewasa,0
+132.42,Debit,Denver,ATM,18.0,Student,164.0,1.0,726.3900000000003,Muda,0
+83.16,Debit,Los Angeles,ATM,61.0,Retired,177.0,1.0,3065.87,Lansia,0
+149.02,Credit,Fort Worth,Branch,46.0,Engineer,176.0,1.0,9379.72,Dewasa,0
+74.26999999999998,Credit,Memphis,Online,59.0,Doctor,148.0,1.0,13696.61,Lansia,1
+876.5700000000002,Credit,Portland,ATM,62.0,Retired,118.0,1.0,3743.63,Lansia,1
+615.58,Debit,Jacksonville,ATM,42.0,Doctor,133.0,1.0,14343.0,Dewasa,0
+643.03,Credit,Jacksonville,Online,36.0,Engineer,52.0,1.0,2882.16,Dewasa,0
+7.94999999999996,Debit,Phoenix,ATM,79.0,Retired,65.0,1.0,5631.2,Lansia,1
+270.92,Credit,Louisville,Branch,77.0,Retired,143.0,1.0,4574.43,Lansia,0
+499.48,Debit,Charlotte,ATM,24.0,Student,133.0,1.0,1242.62,Muda,0
+841.5,Credit,Atlanta,Branch,25.0,Student,287.0,1.0,352.3100000000004,Muda,0
+138.82,Debit,Fort Worth,Online,77.0,Retired,53.0,1.0,3100.22,Lansia,0
+231.46,Credit,Miami,Branch,60.0,Engineer,83.0,1.0,4707.24,Lansia,1
+292.08,Debit,Columbus,ATM,72.0,Retired,32.0,1.0,7950.48,Lansia,0
+63.97999999999999,Debit,Baltimore,Online,54.0,Doctor,258.0,1.0,7954.12,Dewasa,0
+235.21,Debit,Boston,Branch,67.0,Doctor,74.0,1.0,5946.61,Lansia,0
+201.73,Debit,Baltimore,Online,57.0,Engineer,78.0,1.0,6650.71,Lansia,0
+161.31,Debit,Nashville,ATM,28.0,Student,13.0,1.0,1268.67,Muda,1
+18.409999999999997,Debit,Atlanta,Branch,53.0,Doctor,168.0,1.0,8287.54,Dewasa,0
+471.75,Credit,San Jose,Branch,34.0,Doctor,41.0,1.0,12948.5,Dewasa,1
+290.02,Debit,Milwaukee,Branch,55.0,Engineer,246.0,1.0,4746.71,Dewasa,1
+48.05000000000001,Debit,New York,Branch,27.0,Engineer,38.0,1.0,5334.97,Muda,1
+359.42,Debit,Baltimore,Branch,55.0,Doctor,30.0,1.0,1765.4499999999998,Dewasa,0
+32.91,Debit,Fort Worth,Online,19.0,Student,255.0,1.0,427.3000000000002,Muda,0
+31.810000000000002,Debit,Fort Worth,Online,51.0,Retired,149.0,1.0,1406.6,Dewasa,0
+220.2,Debit,Boston,Online,28.0,Student,102.0,1.0,1075.15,Muda,0
+476.03,Credit,Houston,Branch,77.0,Retired,99.0,1.0,5958.34,Lansia,0
+141.90999999999997,Debit,Miami,Branch,23.0,Student,49.0,1.0,791.9700000000003,Muda,1
+95.82999999999998,Debit,Washington,Online,27.0,Student,91.0,1.0,1726.4,Muda,1
+51.150000000000006,Credit,Los Angeles,Branch,46.0,Engineer,199.0,1.0,8992.25,Dewasa,0
+50.75,Debit,Boston,ATM,62.0,Doctor,185.0,1.0,8271.47,Lansia,0
+185.07,Debit,Colorado Springs,Branch,21.999999999999996,Student,159.0,1.0,636.4200000000001,Muda,0
+293.54,Debit,Sacramento,Online,40.0,Engineer,45.0,1.0,2290.1,Dewasa,1
+285.26,Debit,Atlanta,ATM,28.0,Student,93.0,1.0,167.72000000000025,Muda,0
+743.03,Debit,New York,ATM,50.0,Engineer,174.0,1.0,4111.38,Dewasa,1
+297.86,Credit,Milwaukee,ATM,28.0,Student,96.0,1.0,1680.1400000000003,Muda,1
+231.92,Debit,Indianapolis,ATM,66.0,Doctor,12.0,1.0,5715.08,Lansia,0
+295.82,Credit,Chicago,Branch,47.0,Engineer,46.0,1.0,5897.73,Dewasa,0
+81.07999999999998,Debit,Omaha,ATM,58.0,Engineer,56.0,1.0,7788.91,Lansia,1
+775.6000000000001,Credit,Mesa,Branch,79.0,Retired,158.0,1.0,3898.64,Lansia,1
+211.91,Debit,Indianapolis,Online,20.0,Student,181.0,1.0,927.4700000000003,Muda,0
+17.20999999999998,Debit,Omaha,Online,23.0,Student,219.0,1.0,914.1599999999999,Muda,1
+38.369999999999976,Debit,San Antonio,ATM,63.0,Doctor,135.0,1.0,8647.04,Lansia,1
+269.79,Debit,San Jose,ATM,52.0,Engineer,17.0,1.0,1292.1,Dewasa,1
+605.42,Debit,Mesa,ATM,21.0,Student,33.0,1.0,392.34000000000015,Muda,1
+29.189999999999998,Credit,Nashville,Branch,58.0,Doctor,41.0,1.0,12059.85,Lansia,1
+701.7,Credit,Seattle,Online,61.0,Retired,64.0,1.0,6643.24,Lansia,1
+862.3400000000001,Debit,Kansas City,Branch,57.0,Doctor,72.0,1.0,9903.48,Lansia,0
+36.96999999999997,Debit,Virginia Beach,Branch,41.0,Engineer,79.0,1.0,2850.92,Dewasa,1
+137.59000000000003,Debit,Nashville,ATM,30.0,Doctor,95.0,1.0,10679.67,Muda,1
+168.11,Credit,New York,Online,51.0,Doctor,12.0,1.0,10652.13,Dewasa,1
+430.98,Debit,Baltimore,Branch,24.0,Student,93.0,1.0,569.25,Muda,0
+13.869999999999976,Debit,Phoenix,Branch,24.0,Student,20.0,1.0,954.8299999999999,Muda,1
+302.82,Debit,Jacksonville,ATM,36.0,Engineer,175.0,1.0,9384.54,Dewasa,0
+406.81,Debit,New York,Online,66.0,Retired,84.0,1.0,1968.3599999999997,Lansia,1
+256.3,Debit,New York,Online,53.0,Retired,172.0,1.0,4203.05,Dewasa,1
+80.95999999999998,Credit,Jacksonville,Online,19.0,Student,97.0,1.0,959.9399999999996,Muda,0
+95.78,Debit,Atlanta,Online,21.999999999999996,Student,27.0,1.0,271.6400000000003,Muda,0
+379.54,Credit,Indianapolis,Branch,41.0,Doctor,118.0,1.0,12571.76,Dewasa,0
+903.19,Debit,El Paso,Online,21.999999999999996,Student,65.0,1.0,8627.08,Muda,0
+847.45,Debit,Jacksonville,Branch,28.0,Student,175.0,1.0,422.3199999999997,Muda,0
+295.18,Credit,Dallas,Branch,66.0,Doctor,31.0,1.0,12961.53,Lansia,0
+18.45999999999998,Debit,Charlotte,Branch,68.0,Retired,213.0,1.0,6381.6,Lansia,0
+603.23,Debit,Detroit,Branch,28.0,Student,48.0,1.0,117.97999999999956,Muda,0
+54.5,Credit,Philadelphia,Branch,57.0,Retired,147.0,1.0,1715.2200000000003,Lansia,1
+414.77,Debit,San Francisco,Online,29.0,Doctor,274.0,1.0,5599.81,Muda,1
+886.19,Debit,Colorado Springs,Branch,61.0,Retired,69.0,1.0,7904.24,Lansia,0
+440.03,Debit,San Jose,Online,49.0,Engineer,88.0,1.0,1490.44,Dewasa,1
+76.38999999999999,Debit,Denver,Branch,18.0,Student,219.0,1.0,5976.0,Muda,0
+595.91,Credit,San Antonio,ATM,19.0,Student,162.0,1.0,1673.7600000000002,Muda,1
+6.030000000000001,Debit,Chicago,Branch,76.0,Retired,70.0,1.0,3290.72,Lansia,0
+249.34,Debit,Charlotte,ATM,26.0,Engineer,197.0,1.0,3030.97,Muda,0
+421.52,Debit,San Jose,Branch,20.0,Student,67.0,1.0,369.8599999999997,Muda,1
+189.77,Debit,Raleigh,Branch,58.0,Engineer,24.0,1.0,6570.36,Lansia,1
+73.19,Debit,Atlanta,Branch,76.0,Retired,213.0,1.0,2264.98,Lansia,0
+188.13,Credit,Jacksonville,Online,75.0,Retired,198.0,1.0,5029.87,Lansia,0
+30.52000000000001,Debit,Jacksonville,Branch,62.0,Doctor,122.0,1.0,12327.74,Lansia,0
+170.24,Debit,San Francisco,Branch,62.0,Retired,133.0,1.0,5172.99,Lansia,1
+56.620000000000005,Debit,Austin,Branch,54.0,Doctor,121.0,1.0,8981.1,Dewasa,0
+53.139999999999986,Debit,Las Vegas,ATM,34.0,Doctor,70.0,1.0,7915.0,Dewasa,0
+587.23,Debit,Omaha,Online,27.0,Student,144.0,1.0,500.84000000000015,Muda,1
+21.269999999999982,Credit,Indianapolis,Online,62.0,Retired,114.0,1.0,7392.79,Lansia,0
+76.01999999999998,Credit,Albuquerque,Online,34.0,Doctor,189.0,1.0,14765.41,Dewasa,0
+135.15,Debit,Colorado Springs,Online,72.0,Retired,50.0,1.0,5878.14,Lansia,0
+39.47999999999999,Debit,Omaha,ATM,56.0,Retired,38.0,1.0,5889.51,Lansia,1
+451.68,Debit,Houston,Online,33.0,Engineer,15.0,1.0,4381.54,Dewasa,0
+355.0,Credit,Fort Worth,Online,26.0,Student,33.0,1.0,185.47000000000025,Muda,0
+427.69,Debit,Raleigh,ATM,43.0,Engineer,236.0,1.0,2443.54,Dewasa,1
+254.86,Debit,Boston,Branch,23.0,Student,102.0,1.0,699.8999999999996,Muda,0
+190.17,Debit,Baltimore,ATM,49.0,Doctor,265.0,1.0,12893.85,Dewasa,0
+206.63,Credit,Oklahoma City,Online,59.0,Retired,128.0,1.0,7626.53,Lansia,1
+93.22,Debit,Charlotte,Online,52.0,Retired,52.0,1.0,1014.6300000000006,Dewasa,0
+641.06,Debit,Colorado Springs,ATM,23.0,Student,25.0,1.0,1602.13,Muda,0
+836.45,Debit,Virginia Beach,Online,61.0,Retired,63.0,1.0,1731.8900000000003,Lansia,1
+189.45,Credit,Boston,Branch,53.0,Doctor,62.0,1.0,12578.75,Dewasa,0
+91.84,Credit,Mesa,Branch,67.0,Retired,80.0,1.0,1712.4099999999999,Lansia,1
+609.52,Debit,Washington,ATM,78.0,Retired,169.0,1.0,3485.03,Lansia,1
+859.3,Credit,Colorado Springs,Branch,78.0,Retired,68.0,1.0,1146.7800000000002,Lansia,0
+100.00999999999999,Debit,Philadelphia,ATM,50.0,Doctor,63.0,1.0,6393.12,Dewasa,1
+28.78,Credit,Tucson,Online,40.0,Doctor,51.0,1.0,680.5500000000002,Dewasa,1
+111.07999999999998,Debit,Chicago,Online,70.0,Doctor,83.0,1.0,7037.34,Lansia,0
+52.22999999999999,Credit,San Francisco,Branch,28.0,Student,96.0,1.0,105.01000000000022,Muda,1
+78.62,Debit,Oklahoma City,Branch,32.0,Doctor,52.0,1.0,1360.85,Muda,1
+333.97,Debit,Fresno,Branch,52.0,Doctor,45.0,1.0,5237.36,Dewasa,0
+30.870000000000005,Debit,Fresno,ATM,33.0,Doctor,295.0,1.0,14348.649999999998,Dewasa,0
+710.4300000000001,Debit,San Diego,Online,67.0,Retired,115.0,1.0,5625.55,Lansia,1
+220.23,Debit,Milwaukee,ATM,41.0,Engineer,48.0,1.0,3438.02,Dewasa,1
+27.279999999999973,Debit,Atlanta,ATM,29.0,Doctor,96.0,1.0,10668.24,Muda,0
+101.51999999999998,Debit,Tucson,ATM,49.0,Engineer,98.0,1.0,2018.9,Dewasa,1
+162.65,Debit,New York,ATM,59.0,Engineer,147.0,1.0,9500.95,Lansia,1
+10.519999999999982,Debit,Kansas City,ATM,55.0,Retired,30.0,1.0,2472.99,Dewasa,0
+270.72,Debit,Los Angeles,Branch,38.0,Doctor,37.0,1.0,6522.47,Dewasa,0
+247.58,Debit,San Antonio,ATM,39.0,Engineer,152.0,1.0,778.7399999999998,Dewasa,1
+359.65,Credit,Jacksonville,Online,25.0,Student,289.0,1.0,219.52999999999975,Muda,0
+109.91,Debit,Seattle,Branch,38.0,Doctor,90.0,1.0,12896.06,Dewasa,1
+215.72,Credit,Columbus,Branch,30.0,Engineer,137.0,1.0,8697.11,Muda,0
+224.28,Debit,Chicago,Online,64.0,Retired,68.0,1.0,5767.51,Lansia,0
+608.79,Debit,Fort Worth,Online,55.0,Engineer,157.0,1.0,2991.17,Dewasa,0
+840.1600000000001,Credit,Colorado Springs,Branch,20.0,Student,68.0,1.0,1236.7600000000002,Muda,0
+203.34,Debit,Phoenix,ATM,60.0,Doctor,66.0,1.0,13586.989999999998,Lansia,1
+90.88,Debit,Colorado Springs,ATM,26.0,Engineer,284.0,1.0,7117.35,Muda,0
+60.110000000000014,Credit,Albuquerque,Branch,61.0,Retired,122.0,1.0,7235.87,Lansia,0
+393.92,Debit,Memphis,Branch,72.0,Retired,47.0,1.0,7318.64,Lansia,1
+19.389999999999958,Debit,Colorado Springs,ATM,43.0,Doctor,45.0,1.0,9847.6,Dewasa,0
+557.41,Credit,Washington,Online,80.0,Retired,49.0,1.0,2968.75,Lansia,1
+57.06999999999999,Credit,Boston,Online,31.0,Doctor,99.0,1.0,9323.71,Muda,0
+395.27,Credit,Miami,Online,18.0,Student,167.0,1.0,1764.08,Muda,1
+289.05,Debit,New York,ATM,75.0,Retired,116.0,1.0,5683.49,Lansia,1
+46.110000000000014,Debit,San Francisco,Online,33.0,Doctor,233.0,1.0,5225.73,Dewasa,1
+335.5,Debit,Sacramento,ATM,63.0,Retired,47.0,1.0,6445.4,Lansia,1
+388.07,Debit,Seattle,Online,24.0,Student,68.0,1.0,289.71000000000004,Muda,1
+520.86,Credit,Sacramento,Online,51.0,Engineer,66.0,1.0,9200.74,Dewasa,1
+787.4100000000001,Debit,Memphis,Online,25.0,Student,39.0,1.0,300.8699999999999,Muda,1
+31.69999999999999,Credit,Raleigh,ATM,48.0,Doctor,121.0,1.0,743.8999999999996,Dewasa,1
+22.299999999999983,Debit,Philadelphia,ATM,21.0,Student,90.0,1.0,1200.35,Muda,1
+203.12,Debit,San Jose,ATM,56.0,Retired,181.0,1.0,1562.3900000000003,Lansia,1
+315.94,Credit,Raleigh,Branch,49.0,Doctor,172.0,1.0,7719.71,Dewasa,1
+0.2599999999999909,Debit,Oklahoma City,Online,20.0,Student,173.0,1.0,1833.67,Muda,1
+210.77,Debit,Mesa,ATM,71.0,Retired,161.0,1.0,5396.65,Lansia,1
+406.65,Debit,Mesa,ATM,57.0,Doctor,107.0,1.0,12995.7,Lansia,1
+422.9,Debit,Tucson,ATM,40.0,Engineer,111.0,1.0,7616.43,Dewasa,1
+20.620000000000033,Credit,Philadelphia,ATM,35.0,Doctor,225.0,1.0,12500.8,Dewasa,1
+174.39,Debit,San Francisco,ATM,19.0,Student,36.0,1.0,1127.08,Muda,1
+54.849999999999994,Credit,San Francisco,Branch,58.0,Retired,40.000000000000014,1.0,2727.45,Lansia,1
+16.55000000000004,Debit,Tucson,Branch,26.0,Engineer,159.0,1.0,6089.79,Muda,1
+91.32,Debit,Milwaukee,Branch,58.0,Engineer,77.0,1.0,2618.1,Lansia,1
+49.620000000000005,Debit,Portland,ATM,55.0,Engineer,111.0,1.0,3841.42,Dewasa,1
+487.16,Credit,Los Angeles,Branch,28.0,Student,84.0,1.0,321.21000000000004,Muda,0
+405.6,Debit,Tucson,Online,37.0,Engineer,44.0,1.0,9754.73,Dewasa,1
+512.95,Debit,Columbus,Branch,57.0,Engineer,143.0,1.0,9584.52,Lansia,0
+345.94,Debit,Portland,ATM,31.0,Doctor,163.0,1.0,7624.56,Muda,1
+356.56,Debit,New York,Online,47.0,Engineer,52.0,1.0,2485.73,Dewasa,1
+10.310000000000002,Debit,Louisville,Online,36.0,Engineer,280.0,1.0,2137.9,Dewasa,0
+211.69,Debit,Atlanta,Branch,30.0,Doctor,111.0,1.0,6412.85,Muda,0
+221.49,Credit,Oklahoma City,Branch,23.0,Student,196.0,1.0,707.25,Muda,1
+116.88,Debit,Memphis,ATM,45.0,Doctor,263.0,1.0,7717.34,Dewasa,1
+328.77,Credit,San Diego,Online,39.0,Doctor,247.0,1.0,6967.03,Dewasa,1
+77.53,Debit,Louisville,Branch,54.0,Retired,55.0,1.0,5158.6,Dewasa,0
+421.74,Debit,San Jose,Online,67.0,Doctor,103.0,1.0,12031.14,Lansia,1
+313.69,Debit,Oklahoma City,Branch,73.0,Retired,152.0,1.0,7093.68,Lansia,1
+411.72,Debit,Washington,Branch,29.0,Doctor,153.0,1.0,8539.86,Muda,1
+508.73,Debit,Chicago,Branch,59.0,Retired,89.0,1.0,7640.57,Lansia,0
+153.08,Debit,Omaha,ATM,24.0,Student,201.0,1.0,1292.21,Muda,1
+23.00999999999999,Debit,Las Vegas,Branch,63.0,Retired,166.0,1.0,5958.75,Lansia,0
+69.28,Debit,Los Angeles,Online,25.0,Student,129.0,1.0,708.7399999999998,Muda,0
+51.25,Credit,Austin,Branch,28.0,Student,66.0,1.0,1744.4,Muda,0
+407.65,Debit,Denver,ATM,25.0,Student,263.0,1.0,273.77999999999975,Muda,0
+459.25,Debit,Tucson,Branch,25.0,Student,59.0,1.0,130.76000000000022,Muda,1
+301.56,Debit,Seattle,Branch,49.0,Doctor,118.0,1.0,10389.6,Dewasa,1
+17.670000000000016,Debit,San Diego,Online,63.0,Doctor,91.0,1.0,1048.1800000000007,Lansia,1
+5.289999999999964,Credit,San Francisco,Online,32.0,Doctor,132.0,1.0,12896.68,Muda,1
+401.37,Debit,Los Angeles,Branch,43.0,Engineer,251.0,1.0,8208.54,Dewasa,0
+145.39999999999998,Debit,Tucson,Online,38.0,Engineer,24.0,1.0,5244.49,Dewasa,1
+34.309999999999974,Debit,Philadelphia,ATM,24.0,Student,251.0,1.0,1484.7600000000002,Muda,1
+780.5900000000001,Credit,Tucson,Online,23.0,Student,145.0,1.0,6513.34,Muda,1
+282.65,Debit,Fort Worth,ATM,35.0,Doctor,161.0,1.0,13801.149999999998,Dewasa,0
+305.27,Debit,Las Vegas,Online,68.0,Doctor,147.0,1.0,12958.65,Lansia,0
+185.81,Debit,Austin,Online,32.0,Doctor,116.0,1.0,9588.71,Muda,0
+447.95,Debit,Tucson,Branch,29.0,Engineer,75.0,1.0,7544.4,Muda,1
+279.3,Debit,Oklahoma City,ATM,19.0,Student,48.0,1.0,1193.6099999999992,Muda,1
+611.15,Debit,Detroit,ATM,27.0,Student,121.0,1.0,892.8299999999999,Muda,0
+275.2,Debit,New York,Online,54.0,Engineer,81.0,1.0,1230.12,Dewasa,1
+427.79,Debit,San Jose,Branch,18.0,Student,189.0,1.0,1479.67,Muda,1
+102.81,Debit,Seattle,Branch,76.0,Retired,47.0,1.0,3228.87,Lansia,1
+22.610000000000014,Debit,Seattle,Online,19.0,Student,145.0,1.0,1111.67,Muda,1
+68.28,Debit,Boston,Online,56.0,Engineer,293.0,1.0,3213.16,Lansia,0
+33.650000000000034,Credit,New York,Online,63.0,Doctor,146.0,1.0,12719.93,Lansia,1
+362.68,Credit,Miami,ATM,63.0,Retired,137.0,1.0,2040.77,Lansia,1
+73.23000000000002,Debit,San Francisco,Branch,20.0,Student,172.0,1.0,1309.85,Muda,1
+654.49,Credit,Austin,Online,25.0,Student,104.0,1.0,164.60999999999967,Muda,0
+18.560000000000002,Credit,Memphis,Branch,49.0,Engineer,161.0,1.0,4230.37,Dewasa,1
+389.05,Debit,Dallas,ATM,27.0,Student,41.0,1.0,761.0,Muda,0
+66.91,Debit,Seattle,ATM,39.0,Doctor,85.0,1.0,871.1000000000004,Dewasa,1
+335.48,Debit,Oklahoma City,Branch,45.0,Engineer,155.0,1.0,3023.16,Dewasa,1
+38.139999999999986,Debit,Albuquerque,Online,19.0,Student,174.0,1.0,1119.21,Muda,0
+360.02,Debit,Dallas,Online,68.0,Retired,68.0,1.0,6400.59,Lansia,0
+567.71,Debit,Memphis,Online,63.0,Doctor,80.0,1.0,13884.239999999998,Lansia,1
+218.19,Debit,Austin,ATM,19.0,Student,185.0,1.0,620.8299999999999,Muda,0
+209.99,Debit,Denver,ATM,19.0,Student,40.000000000000014,1.0,1938.0100000000002,Muda,0
+11.02000000000001,Debit,Tucson,Branch,19.0,Student,280.0,1.0,964.79,Muda,1
+83.43,Debit,New York,Online,56.0,Retired,109.0,1.0,1870.1599999999999,Lansia,1
+344.97,Debit,Austin,Online,34.0,Doctor,106.0,1.0,5577.94,Dewasa,0
+172.29,Debit,El Paso,ATM,36.0,Engineer,283.0,1.0,8700.8,Dewasa,0
+195.54,Debit,Omaha,Online,60.0,Retired,255.0,1.0,2794.66,Lansia,1
+180.46,Debit,Fresno,ATM,25.0,Student,34.0,1.0,831.75,Muda,0
+692.55,Debit,Charlotte,Branch,53.0,Retired,109.0,1.0,2451.56,Dewasa,0
+147.31,Credit,Mesa,Online,34.0,Doctor,92.0,1.0,13625.52,Dewasa,1
+107.48000000000002,Debit,Los Angeles,Branch,20.0,Student,103.0,1.0,1379.3900000000003,Muda,0
+81.50999999999999,Debit,Washington,Branch,25.0,Student,97.0,1.0,865.4899999999998,Muda,1
+365.48,Credit,Seattle,Online,76.0,Retired,216.0,1.0,7147.4,Lansia,1
+491.1,Credit,Houston,Online,35.0,Engineer,125.0,1.0,7833.85,Dewasa,0
+452.8,Debit,Los Angeles,Branch,80.0,Retired,151.0,1.0,4840.67,Lansia,0
+88.42000000000002,Debit,El Paso,ATM,62.0,Doctor,91.0,1.0,12381.45,Lansia,0
+155.53,Debit,Baltimore,ATM,29.0,Engineer,66.0,1.0,4008.05,Muda,0
+39.24000000000001,Debit,Dallas,ATM,77.0,Retired,106.0,1.0,6462.41,Lansia,0
+78.76999999999998,Credit,Las Vegas,ATM,48.0,Engineer,50.0,1.0,6470.57,Dewasa,0
+26.5,Debit,Indianapolis,Online,48.0,Engineer,179.0,1.0,4854.83,Dewasa,0
+83.62,Debit,Raleigh,ATM,48.0,Doctor,146.0,1.0,12652.22,Dewasa,1
+142.77999999999997,Debit,San Diego,Branch,68.0,Doctor,150.0,1.0,11705.88,Lansia,1
+55.99000000000001,Debit,El Paso,ATM,35.0,Doctor,95.0,1.0,932.6099999999997,Dewasa,0
+774.48,Debit,Louisville,Branch,61.0,Doctor,31.0,1.0,11613.58,Lansia,0
+105.37,Debit,Sacramento,ATM,25.0,Student,160.0,1.0,1068.5500000000002,Muda,1
+118.82999999999998,Debit,Virginia Beach,Online,28.0,Student,295.0,1.0,1616.3000000000002,Muda,1
+46.22,Debit,San Jose,Branch,23.0,Student,217.0,1.0,471.27999999999975,Muda,1
+659.71,Credit,San Jose,Branch,21.0,Student,148.0,1.0,106.85999999999967,Muda,1
+377.97,Debit,Miami,Online,72.0,Retired,160.0,1.0,2457.1,Lansia,1
+114.1,Debit,Boston,Branch,69.0,Retired,148.0,1.0,5882.12,Lansia,0
+11.300000000000011,Credit,Louisville,Online,55.0,Retired,41.0,1.0,1938.9899999999998,Dewasa,0
+95.5,Debit,Omaha,Online,57.0,Retired,17.0,1.0,4079.09,Lansia,1
+130.93,Credit,Houston,Branch,28.0,Engineer,149.0,1.0,860.1199999999999,Muda,0
+272.97,Debit,Boston,Online,68.0,Retired,174.0,1.0,7811.31,Lansia,0
+73.35,Debit,San Francisco,Branch,24.0,Student,47.0,1.0,1181.8400000000001,Muda,1
+29.93999999999997,Debit,San Francisco,ATM,58.0,Doctor,243.0,1.0,10915.54,Lansia,1
+820.46,Credit,Fort Worth,Online,53.0,Engineer,243.0,1.0,5621.86,Dewasa,0
+153.07,Debit,Detroit,ATM,56.0,Engineer,116.0,1.0,8873.43,Lansia,0
+52.94,Debit,Tucson,Branch,41.0,Doctor,146.0,1.0,6990.92,Dewasa,1
+384.41,Debit,Jacksonville,ATM,60.0,Engineer,65.0,1.0,7831.56,Lansia,0
+235.42,Debit,Phoenix,Branch,51.0,Retired,175.0,1.0,6173.23,Dewasa,1
+114.23000000000002,Debit,Dallas,ATM,56.0,Doctor,64.0,1.0,9523.72,Lansia,0
+12.620000000000005,Debit,El Paso,Branch,33.0,Doctor,61.0,1.0,6420.47,Dewasa,0
+373.52,Debit,Colorado Springs,ATM,35.0,Engineer,235.0,1.0,6430.41,Dewasa,0
+336.05,Debit,San Antonio,Branch,28.0,Student,164.0,1.0,1635.0500000000002,Muda,1
+112.26999999999998,Debit,Seattle,Branch,58.0,Doctor,102.0,1.0,7369.89,Lansia,1
+494.9599999999999,Debit,Sacramento,ATM,40.0,Engineer,132.0,1.0,6903.68,Dewasa,1
+561.58,Debit,Sacramento,Online,65.0,Doctor,23.0,1.0,11748.86,Lansia,1
+440.94,Debit,San Antonio,Online,42.0,Doctor,148.0,1.0,7303.23,Dewasa,1
+71.9,Debit,Los Angeles,Branch,29.0,Doctor,51.0,1.0,10619.35,Muda,0
+256.66,Credit,Raleigh,Online,54.0,Retired,137.0,1.0,1794.5,Dewasa,1
+166.55,Credit,Houston,Branch,59.0,Doctor,99.0,1.0,12970.21,Lansia,0
+276.26,Debit,Louisville,Branch,56.0,Doctor,143.0,1.0,120.89000000000033,Lansia,0
+35.46000000000001,Debit,Indianapolis,ATM,67.0,Doctor,164.0,1.0,5692.31,Lansia,0
+38.139999999999986,Debit,Portland,Branch,50.0,Engineer,165.0,1.0,9879.87,Dewasa,1
+506.26,Credit,Baltimore,ATM,64.0,Retired,86.0,1.0,6266.65,Lansia,0
+736.3200000000002,Debit,Indianapolis,Online,31.0,Doctor,28.0,1.0,14268.95,Muda,0
+389.43,Credit,Austin,ATM,52.0,Engineer,151.0,1.0,6449.83,Dewasa,0
+25.579999999999956,Debit,Omaha,ATM,60.0,Engineer,166.0,1.0,6741.41,Lansia,1
+446.1,Debit,Seattle,ATM,25.0,Student,243.0,1.0,1008.4400000000005,Muda,1
+147.74,Debit,Raleigh,Branch,23.0,Student,15.0,1.0,1711.7799999999997,Muda,1
+46.22999999999999,Debit,Fresno,Online,77.0,Retired,282.0,1.0,5107.75,Lansia,0
+265.37,Debit,Washington,Branch,33.0,Engineer,77.0,1.0,5229.95,Dewasa,1
+342.57,Debit,Boston,Online,20.0,Student,91.0,1.0,339.15999999999985,Muda,0
+417.26,Credit,New York,Online,32.0,Doctor,45.0,1.0,10442.48,Muda,1
+33.62999999999997,Debit,Columbus,Online,63.0,Retired,76.0,1.0,4324.4,Lansia,0
+64.57999999999998,Debit,El Paso,Branch,55.0,Retired,173.0,1.0,6292.29,Dewasa,0
+23.22999999999999,Credit,Miami,Branch,21.0,Student,122.0,1.0,269.0100000000002,Muda,1
+285.49,Credit,Charlotte,Branch,53.0,Doctor,109.0,1.0,6366.84,Dewasa,0
+71.87,Debit,Nashville,ATM,21.999999999999996,Student,258.0,1.0,1839.1,Muda,1
+308.8,Debit,Baltimore,ATM,53.0,Retired,41.0,1.0,3966.54,Dewasa,0
+288.43,Debit,Phoenix,Branch,66.0,Retired,72.0,1.0,4577.09,Lansia,1
+147.46,Credit,Albuquerque,Online,65.0,Doctor,205.0,1.0,7458.03,Lansia,0
+170.36,Debit,Indianapolis,ATM,30.0,Doctor,118.0,1.0,6034.73,Muda,0
+736.53,Debit,Philadelphia,ATM,55.0,Engineer,120.0,1.0,9826.26,Dewasa,1
+213.42,Debit,Columbus,ATM,45.0,Engineer,17.0,1.0,3736.38,Dewasa,0
+94.09,Debit,Miami,Branch,27.0,Student,203.0,1.0,646.8500000000004,Muda,1
+263.92,Credit,San Diego,Branch,57.0,Retired,233.0,1.0,4161.71,Lansia,1
+77.5,Credit,Fort Worth,Online,51.0,Doctor,201.0,1.0,11079.77,Dewasa,0
+3.6499999999999773,Debit,Miami,Online,69.0,Doctor,146.0,1.0,10017.11,Lansia,1
+224.79,Debit,Boston,Online,18.0,Student,129.0,1.0,528.3800000000001,Muda,0
+64.30000000000001,Debit,Louisville,ATM,55.0,Retired,67.0,1.0,7530.3,Dewasa,0
+111.79000000000002,Debit,Jacksonville,Online,62.0,Doctor,49.0,1.0,10887.59,Lansia,0
+613.7,Credit,Fort Worth,Branch,61.0,Retired,37.0,1.0,7307.11,Lansia,0
+170.45,Debit,San Francisco,Branch,60.0,Engineer,199.0,1.0,2284.41,Lansia,1
+344.27,Debit,San Antonio,Branch,21.999999999999996,Student,123.0,1.0,1918.3599999999997,Muda,1
+872.72,Debit,Washington,Online,21.999999999999996,Student,288.0,1.0,503.0100000000002,Muda,1
+292.95,Debit,Memphis,Branch,37.0,Engineer,56.0,1.0,1216.9099999999999,Dewasa,1
+28.439999999999998,Debit,Fresno,ATM,18.0,Student,243.0,1.0,1071.04,Muda,0
+209.02,Debit,El Paso,ATM,21.0,Student,74.0,1.0,187.89999999999964,Muda,0
+20.05000000000004,Debit,Chicago,ATM,72.0,Retired,171.0,1.0,7145.67,Lansia,0
+175.02,Debit,Phoenix,Online,28.0,Student,71.0,1.0,1493.88,Muda,1
+89.5,Credit,Louisville,Branch,41.0,Engineer,134.0,1.0,8658.95,Dewasa,0
+69.95999999999998,Debit,Baltimore,Branch,28.0,Student,31.0,1.0,164.1199999999999,Muda,0
+376.78,Credit,Nashville,Online,21.0,Student,88.0,1.0,841.6499999999996,Muda,1
+148.54,Credit,Columbus,Branch,71.0,Retired,107.0,1.0,5677.05,Lansia,0
+388.77,Credit,Jacksonville,Online,26.0,Student,30.0,1.0,1658.4899999999998,Muda,0
+100.38,Debit,Seattle,Branch,63.0,Doctor,49.0,1.0,10171.68,Lansia,1
+137.23,Debit,Fresno,Branch,64.0,Doctor,63.0,1.0,13847.989999999998,Lansia,0
+870.3,Debit,San Jose,ATM,51.0,Retired,229.0,1.0,3688.98,Dewasa,1
+458.94,Debit,Detroit,Branch,52.0,Engineer,180.0,1.0,5619.95,Dewasa,0
+327.35,Credit,Memphis,Branch,20.0,Student,175.0,1.0,342.0799999999999,Muda,1
+757.1500000000001,Debit,Raleigh,Online,53.0,Engineer,38.0,1.0,4702.86,Dewasa,1
+47.22999999999999,Credit,Memphis,Online,73.0,Retired,160.0,1.0,6659.81,Lansia,1
+170.97,Debit,Nashville,Branch,26.0,Student,292.0,1.0,1265.27,Muda,1
+659.15,Debit,Boston,ATM,21.999999999999996,Student,204.0,1.0,1241.5900000000001,Muda,0
+31.53000000000003,Debit,Kansas City,Online,25.0,Student,283.0,1.0,874.9300000000003,Muda,0
+250.01,Debit,Kansas City,ATM,62.0,Retired,88.0,1.0,1541.48,Lansia,0
+554.15,Debit,Raleigh,ATM,49.0,Doctor,108.0,1.0,14817.219999999998,Dewasa,1
+28.380000000000024,Debit,Sacramento,Branch,55.0,Doctor,98.0,1.0,173.69999999999982,Dewasa,1
+16.80000000000001,Debit,San Diego,ATM,49.0,Doctor,94.0,1.0,11847.07,Dewasa,1
+896.79,Debit,Dallas,Online,33.0,Doctor,168.0,1.0,11146.74,Dewasa,0
+159.0,Debit,Las Vegas,ATM,49.0,Engineer,38.0,1.0,369.78999999999996,Dewasa,0
+56.31,Credit,Houston,Online,75.0,Retired,195.0,1.0,6396.08,Lansia,0
+203.99,Debit,Philadelphia,Online,52.0,Retired,215.0,1.0,4840.31,Dewasa,1
+50.99000000000001,Debit,Detroit,Branch,29.0,Doctor,76.0,1.0,1334.6,Muda,0
+101.28,Credit,Chicago,Online,32.0,Engineer,75.0,1.0,2774.35,Muda,0
+299.92,Debit,Denver,ATM,27.0,Student,122.0,1.0,1368.0,Muda,0
+18.350000000000023,Debit,Nashville,Branch,21.0,Student,78.0,1.0,1293.3900000000003,Muda,1
+732.53,Credit,San Jose,ATM,26.0,Student,116.0,1.0,441.53999999999996,Muda,1
+65.11000000000001,Debit,Nashville,ATM,34.0,Engineer,150.0,1.0,8485.14,Dewasa,1
+67.07,Credit,Los Angeles,ATM,24.0,Student,56.0,1.0,999.6199999999999,Muda,0
+137.48,Debit,Seattle,Branch,55.0,Doctor,47.0,1.0,14273.419999999998,Dewasa,1
+398.36,Debit,Columbus,ATM,21.999999999999996,Student,56.0,1.0,1863.6999999999998,Muda,0
+469.46,Debit,New York,ATM,20.0,Student,149.0,1.0,8640.56,Muda,1
+37.58000000000001,Debit,Indianapolis,ATM,57.0,Doctor,182.0,1.0,259.4399999999996,Lansia,0
+160.24,Debit,Washington,ATM,31.0,Engineer,15.0,1.0,5526.97,Muda,1
+315.39,Credit,New York,Branch,23.0,Student,93.0,1.0,929.6000000000004,Muda,1
+165.91,Debit,Jacksonville,ATM,26.0,Student,84.0,1.0,587.1199999999999,Muda,0
+211.36,Debit,San Francisco,Branch,47.0,Engineer,194.0,1.0,4760.34,Dewasa,1
+241.45,Debit,Portland,Online,26.0,Student,158.0,1.0,1594.04,Muda,1
+23.240000000000038,Debit,Indianapolis,Branch,68.0,Doctor,129.0,1.0,13777.79,Lansia,0
+70.88,Credit,Omaha,Branch,74.0,Retired,176.0,1.0,1794.65,Lansia,1
+314.52,Debit,Memphis,ATM,80.0,Retired,229.0,1.0,7071.32,Lansia,1
+181.81,Credit,Austin,Online,78.0,Retired,122.0,1.0,7525.73,Lansia,0
+854.6400000000001,Debit,Fort Worth,Branch,56.0,Retired,118.0,1.0,2989.25,Lansia,0
+261.19,Debit,Oklahoma City,ATM,64.0,Retired,52.0,1.0,7620.6,Lansia,1
+220.68,Credit,Raleigh,Online,71.0,Retired,217.0,1.0,5549.2,Lansia,1
+11.860000000000014,Debit,Sacramento,Branch,31.0,Engineer,129.0,1.0,6782.61,Muda,1
+122.65,Debit,Columbus,Online,28.0,Student,41.0,1.0,1968.5100000000002,Muda,0
+395.16,Debit,Milwaukee,Online,56.0,Retired,17.0,1.0,5340.73,Lansia,1
+704.69,Debit,Las Vegas,Online,51.0,Retired,150.0,1.0,3267.84,Dewasa,0
+369.89,Debit,San Antonio,ATM,69.0,Retired,69.0,1.0,6941.47,Lansia,1
+10.919999999999987,Debit,Jacksonville,ATM,67.0,Retired,268.0,1.0,7567.2,Lansia,0
+199.14,Debit,Seattle,Branch,31.0,Engineer,36.0,1.0,7001.25,Muda,1
+620.54,Credit,Omaha,Branch,28.0,Student,98.0,1.0,213.35999999999967,Muda,1
+757.79,Debit,Charlotte,Online,21.999999999999996,Student,117.0,1.0,1443.02,Muda,0
+122.81,Debit,San Jose,Branch,52.0,Doctor,12.0,1.0,8450.84,Dewasa,1
+96.25,Debit,Houston,Online,61.0,Retired,171.0,1.0,7996.7,Lansia,0
+142.55,Debit,Kansas City,Online,67.0,Doctor,97.0,1.0,1262.6800000000003,Lansia,0
+35.940000000000026,Credit,Fresno,Branch,23.0,Student,141.0,1.0,1697.2799999999997,Muda,0
+24.860000000000014,Debit,Jacksonville,Branch,58.0,Engineer,292.0,1.0,2591.65,Lansia,0
+103.07999999999998,Debit,San Francisco,Online,60.0,Doctor,109.0,1.0,12002.16,Lansia,1
+116.26999999999998,Debit,Portland,Online,57.0,Engineer,94.0,1.0,8726.92,Lansia,1
+50.900000000000006,Credit,Jacksonville,Online,28.0,Student,150.0,1.0,1277.6999999999998,Muda,0
+206.84,Debit,Philadelphia,Branch,20.0,Student,154.0,1.0,454.65999999999985,Muda,1
+199.37,Debit,Chicago,Online,24.0,Student,79.0,1.0,1331.3000000000002,Muda,0
+18.22999999999999,Debit,Nashville,ATM,56.0,Engineer,28.0,1.0,8422.2,Lansia,1
+398.7,Debit,Albuquerque,ATM,47.0,Doctor,276.0,1.0,7987.74,Dewasa,0
+378.2,Debit,Mesa,Branch,40.0,Engineer,167.0,1.0,7372.81,Dewasa,1
+124.74000000000001,Debit,Los Angeles,ATM,49.0,Engineer,33.0,1.0,2987.97,Dewasa,0
+17.099999999999966,Debit,Albuquerque,ATM,53.0,Retired,101.0,1.0,1619.54,Dewasa,0
+287.05,Debit,Milwaukee,ATM,21.999999999999996,Student,212.0,1.0,1204.65,Muda,1
+874.72,Debit,San Francisco,Online,28.0,Engineer,173.0,1.0,4630.58,Muda,1
+40.120000000000005,Credit,Dallas,ATM,36.0,Doctor,269.0,1.0,14304.379999999997,Dewasa,0
+125.0,Credit,Indianapolis,Online,49.0,Engineer,177.0,1.0,3215.76,Dewasa,0
+348.44,Debit,Baltimore,Online,24.0,Student,147.0,1.0,1022.94,Muda,0
+128.4,Debit,Tucson,ATM,69.0,Retired,31.0,1.0,2610.64,Lansia,1
+320.93,Debit,Atlanta,Online,55.0,Engineer,178.0,1.0,9451.66,Dewasa,0
+1.4099999999999682,Debit,Sacramento,ATM,53.0,Retired,278.0,1.0,1244.17,Dewasa,1
+50.52000000000001,Debit,Los Angeles,Branch,54.0,Doctor,293.0,1.0,12815.24,Dewasa,0
+383.95,Credit,San Diego,Online,31.0,Engineer,143.0,1.0,9933.56,Muda,1
+12.939999999999998,Debit,Fresno,Branch,23.0,Student,158.0,1.0,921.2300000000005,Muda,0
+329.75,Debit,Sacramento,Online,56.0,Retired,211.0,1.0,6009.43,Lansia,1
+99.25,Credit,Phoenix,Online,63.0,Retired,93.0,1.0,2570.34,Lansia,1
+150.6,Debit,Miami,ATM,69.0,Retired,59.0,1.0,3240.14,Lansia,1
+29.5,Debit,San Antonio,Online,73.0,Retired,129.0,1.0,1229.3199999999997,Lansia,1
+54.34,Debit,Albuquerque,ATM,65.0,Doctor,46.0,1.0,8019.89,Lansia,0
+18.25,Debit,Kansas City,ATM,53.0,Doctor,17.999999999999986,1.0,14328.29,Dewasa,0
+633.87,Debit,Kansas City,Online,27.0,Student,175.0,1.0,330.15999999999985,Muda,0
+81.15,Debit,Miami,ATM,19.0,Student,114.0,1.0,1595.2600000000002,Muda,1
+83.94999999999999,Debit,New York,Online,75.0,Retired,170.0,1.0,7413.18,Lansia,1
+410.4,Credit,Virginia Beach,ATM,61.0,Retired,78.0,1.0,2563.91,Lansia,1
+172.68,Debit,Baltimore,ATM,33.0,Doctor,17.0,1.0,10724.95,Dewasa,0
+139.88,Debit,Colorado Springs,ATM,34.0,Engineer,162.0,1.0,2969.71,Dewasa,0
+165.55,Debit,Dallas,Branch,28.0,Student,115.0,1.0,761.7799999999997,Muda,0
+285.69,Debit,Miami,ATM,63.0,Retired,35.0,1.0,2552.54,Lansia,1
+532.4,Debit,Jacksonville,ATM,21.999999999999996,Student,149.0,1.0,1033.73,Muda,0
+293.85,Debit,Charlotte,Online,25.0,Student,144.0,1.0,1919.9700000000003,Muda,0
+27.939999999999998,Debit,Atlanta,Branch,79.0,Retired,120.0,1.0,1893.44,Lansia,0
+270.36,Debit,Oklahoma City,ATM,25.0,Student,37.0,1.0,1783.04,Muda,1
+506.03,Debit,Detroit,Branch,21.0,Student,21.0,1.0,1123.8900000000003,Muda,0
+206.95,Debit,Seattle,Branch,21.999999999999996,Student,31.0,1.0,1817.65,Muda,1
+350.96,Debit,Tucson,ATM,63.0,Retired,167.0,1.0,5463.94,Lansia,1
+261.63,Debit,Chicago,Branch,20.0,Student,150.0,1.0,477.02999999999975,Muda,0
+46.120000000000005,Debit,Fresno,Branch,59.0,Doctor,30.0,1.0,8874.01,Lansia,0
+27.25,Credit,Kansas City,Branch,63.0,Retired,92.0,1.0,5365.2,Lansia,0
+331.66,Debit,Las Vegas,ATM,76.0,Retired,145.0,1.0,7216.3,Lansia,0
+667.95,Credit,Oklahoma City,ATM,62.0,Doctor,253.0,1.0,13558.559999999998,Lansia,1
+556.04,Debit,Denver,ATM,72.0,Retired,27.0,1.0,5200.04,Lansia,0
+88.06,Credit,Raleigh,Online,18.0,Student,288.0,1.0,1779.85,Muda,1
+67.25,Debit,Miami,Online,19.0,Student,157.0,1.0,467.39999999999964,Muda,1
+93.63,Debit,New York,ATM,29.0,Engineer,141.0,1.0,9873.62,Muda,1
+41.129999999999995,Credit,Philadelphia,Branch,77.0,Retired,58.00000000000001,1.0,6067.54,Lansia,1
+192.02,Credit,Indianapolis,Online,79.0,Retired,154.0,1.0,5169.07,Lansia,0
+291.27,Debit,Detroit,Branch,77.0,Retired,121.0,1.0,6878.86,Lansia,0
+341.84,Credit,El Paso,Branch,27.0,Student,89.0,1.0,1400.04,Muda,0
+98.41,Debit,Sacramento,Online,27.0,Student,48.0,1.0,912.71,Muda,1
+27.51000000000002,Credit,Columbus,Online,40.0,Doctor,103.0,1.0,13645.629999999997,Dewasa,0
+25.77000000000001,Credit,San Diego,Online,45.0,Doctor,277.0,1.0,11749.77,Dewasa,1
+127.57,Debit,Nashville,ATM,52.0,Retired,75.0,1.0,6118.2,Dewasa,1
+392.05,Debit,Denver,ATM,60.0,Engineer,172.0,1.0,4383.69,Lansia,0
+521.01,Credit,Seattle,Branch,41.0,Engineer,73.0,1.0,4004.55,Dewasa,1
+849.76,Debit,Seattle,ATM,25.0,Student,269.0,1.0,373.8800000000001,Muda,1
+172.5,Debit,Columbus,Online,68.0,Doctor,31.0,1.0,6851.16,Lansia,0
+152.34,Debit,Omaha,Branch,55.0,Doctor,115.0,1.0,6853.51,Dewasa,1
+21.129999999999967,Debit,Dallas,Branch,28.0,Student,153.0,1.0,948.6999999999998,Muda,0
+111.55000000000001,Debit,Denver,ATM,46.0,Doctor,101.0,1.0,12221.17,Dewasa,0
+321.82,Credit,Raleigh,Branch,32.0,Engineer,43.0,1.0,6500.5,Muda,1
+148.77,Debit,San Jose,Branch,67.0,Retired,175.0,1.0,2138.42,Lansia,1
+566.33,Credit,Charlotte,ATM,24.0,Student,66.0,1.0,379.8199999999997,Muda,0
+180.94,Debit,Raleigh,Branch,75.0,Retired,57.0,1.0,7659.99,Lansia,1
+77.9,Debit,Washington,Branch,21.0,Student,128.0,1.0,664.7200000000003,Muda,1
+318.92,Credit,Washington,Branch,21.0,Student,60.0,1.0,1167.2499999999995,Muda,1
+100.68,Debit,Memphis,Online,63.0,Retired,139.0,1.0,1123.7499999999995,Lansia,1
+589.64,Debit,Charlotte,Online,62.0,Retired,210.0,1.0,2039.4,Lansia,0
+225.93,Credit,Omaha,Branch,25.0,Student,199.0,1.0,1864.27,Muda,1
+651.55,Debit,Phoenix,Online,72.0,Retired,82.0,1.0,2325.78,Lansia,1
+80.97,Debit,Seattle,Online,38.0,Doctor,157.0,1.0,5926.31,Dewasa,1
+191.89,Debit,San Antonio,Branch,25.0,Student,14.0,1.0,399.5699999999997,Muda,1
+304.75,Credit,Austin,Branch,78.0,Retired,125.0,1.0,1916.3400000000001,Lansia,0
+201.53,Debit,Tucson,Online,68.0,Retired,287.0,1.0,2732.86,Lansia,1
+8.449999999999989,Debit,Philadelphia,ATM,21.999999999999996,Student,141.0,1.0,1115.3000000000002,Muda,1
+743.24,Credit,Indianapolis,Online,19.0,Student,109.0,1.0,1024.19,Muda,0
+16.27000000000001,Debit,Atlanta,ATM,57.0,Doctor,44.0,1.0,10971.32,Lansia,0
+290.86,Debit,Louisville,Online,45.0,Doctor,36.0,1.0,14631.879999999997,Dewasa,0
+555.71,Credit,Boston,Branch,21.999999999999996,Student,73.0,1.0,830.3699999999999,Muda,0
+73.00999999999999,Credit,Milwaukee,Online,25.0,Student,62.0,1.0,1997.33,Muda,1
+346.12,Debit,San Francisco,Branch,44.0,Doctor,12.0,1.0,13084.27,Dewasa,1
+7.559999999999974,Debit,Milwaukee,ATM,40.0,Doctor,145.0,1.0,8528.72,Dewasa,1
+540.4,Debit,Houston,Branch,45.0,Doctor,272.0,1.0,425.7699999999995,Dewasa,0
+264.14,Debit,Baltimore,ATM,64.0,Doctor,125.0,1.0,8459.26,Lansia,0
+248.15,Debit,Milwaukee,ATM,75.0,Retired,202.0,1.0,2649.23,Lansia,1
+24.340000000000003,Debit,Raleigh,Branch,54.0,Engineer,110.0,1.0,6659.12,Dewasa,1
+428.61,Debit,Fort Worth,ATM,66.0,Doctor,62.0,1.0,11937.04,Lansia,0
+117.66,Credit,Memphis,Branch,39.0,Doctor,126.0,1.0,6794.17,Dewasa,1
+165.8,Debit,Nashville,Online,60.0,Engineer,287.0,1.0,2064.76,Lansia,1
+289.18,Debit,Baltimore,ATM,65.0,Retired,64.0,1.0,3139.75,Lansia,0
+125.38999999999999,Debit,Los Angeles,ATM,21.0,Student,140.0,1.0,202.6899999999996,Muda,0
+506.9,Credit,Houston,Branch,64.0,Doctor,56.0,1.0,11471.87,Lansia,0
+504.12,Credit,Baltimore,Branch,25.0,Student,101.0,1.0,1107.2799999999997,Muda,0
+42.09,Debit,Denver,Branch,29.0,Engineer,118.0,1.0,5526.28,Muda,0
+607.28,Debit,Baltimore,ATM,32.0,Doctor,84.0,1.0,9679.68,Muda,0
+91.9,Debit,Chicago,Online,77.0,Retired,125.0,1.0,1033.9399999999996,Lansia,0
+303.43,Debit,Virginia Beach,Branch,21.999999999999996,Student,30.0,1.0,1833.2399999999998,Muda,1
+668.78,Debit,Mesa,ATM,20.0,Student,141.0,1.0,983.6800000000003,Muda,1
+270.54,Credit,Sacramento,ATM,20.0,Student,139.0,1.0,269.77999999999975,Muda,1
+247.93,Debit,Indianapolis,Branch,37.0,Engineer,79.0,1.0,9801.48,Dewasa,0
+34.670000000000044,Debit,Chicago,Online,19.0,Student,71.0,1.0,888.6000000000004,Muda,0
+326.03,Credit,New York,Online,18.0,Student,137.0,1.0,290.2399999999998,Muda,1
+373.99,Debit,Sacramento,ATM,60.0,Doctor,140.0,1.0,8590.5,Lansia,1
+819.48,Debit,Virginia Beach,ATM,25.0,Student,26.0,1.0,1804.5,Muda,1
+14.0,Debit,San Antonio,ATM,49.0,Engineer,173.0,1.0,7975.18,Dewasa,1
+57.16,Debit,Columbus,ATM,40.0,Engineer,74.0,1.0,222.22000000000025,Dewasa,0
+282.26,Debit,Memphis,Online,37.0,Engineer,278.0,1.0,6857.2,Dewasa,1
+473.2,Debit,Houston,Online,34.0,Doctor,173.0,1.0,248.52000000000044,Dewasa,0
+192.97,Debit,Sacramento,ATM,59.0,Retired,140.0,1.0,3019.04,Lansia,1
+168.99,Debit,Baltimore,ATM,18.0,Student,203.0,1.0,1523.5699999999997,Muda,0
+1.8200000000000216,Debit,San Francisco,Online,80.0,Retired,60.0,1.0,5571.39,Lansia,1
+40.900000000000006,Debit,Charlotte,ATM,55.0,Doctor,37.0,1.0,1514.3400000000001,Dewasa,0
+78.91,Debit,Sacramento,Online,61.0,Doctor,157.0,1.0,1817.4300000000003,Lansia,1
+169.97,Credit,San Diego,ATM,21.999999999999996,Student,12.0,1.0,6269.12,Muda,1
+486.61,Credit,Sacramento,ATM,48.0,Engineer,130.0,1.0,2006.69,Dewasa,1
+148.13,Debit,Phoenix,Branch,58.0,Retired,56.0,1.0,2189.38,Lansia,1
+164.52,Debit,Dallas,ATM,61.0,Doctor,162.0,1.0,11036.74,Lansia,0
+268.7,Debit,Milwaukee,ATM,53.0,Retired,63.0,1.0,2104.74,Dewasa,1
+637.34,Debit,Indianapolis,ATM,51.0,Retired,278.0,1.0,5183.5,Dewasa,0
+216.76,Credit,Omaha,Online,47.0,Engineer,138.0,1.0,643.6400000000003,Dewasa,1
+418.02,Debit,Los Angeles,ATM,46.0,Doctor,110.0,1.0,11011.86,Dewasa,0
+292.03,Credit,Memphis,ATM,46.0,Engineer,154.0,1.0,951.3299999999999,Dewasa,1
+251.4,Debit,Tucson,ATM,57.0,Retired,178.0,1.0,2561.67,Lansia,1
+184.56,Debit,Virginia Beach,Online,21.0,Student,93.0,1.0,1549.27,Muda,1
+33.75999999999999,Debit,Seattle,Online,26.0,Engineer,227.0,1.0,3253.51,Muda,1
+138.68,Credit,Colorado Springs,Branch,21.999999999999996,Student,44.0,1.0,206.19999999999982,Muda,0
+42.56,Debit,Fresno,Online,18.0,Student,146.0,1.0,4361.44,Muda,0
+53.829999999999984,Debit,Baltimore,Branch,70.0,Retired,131.0,1.0,4580.59,Lansia,0
+11.090000000000032,Debit,Charlotte,Branch,51.0,Engineer,95.0,1.0,2990.05,Dewasa,0
+449.18,Debit,Denver,Online,67.0,Retired,50.0,1.0,1025.9899999999998,Lansia,0
+297.6,Debit,Milwaukee,Online,39.0,Doctor,162.0,1.0,1461.17,Dewasa,1
+683.75,Debit,Las Vegas,Branch,32.0,Doctor,106.0,1.0,6333.72,Muda,0
+315.94,Debit,Omaha,ATM,78.0,Retired,93.0,1.0,4273.99,Lansia,1
+223.76,Credit,Boston,Branch,74.0,Retired,110.0,1.0,4102.23,Lansia,0
+216.03,Debit,Boston,ATM,42.0,Doctor,300.0,1.0,10462.77,Dewasa,0
+17.420000000000016,Debit,Dallas,ATM,74.0,Retired,150.0,1.0,6851.31,Lansia,0
+491.91,Debit,Milwaukee,Online,78.0,Retired,155.0,1.0,2421.94,Lansia,1
+218.07,Debit,Austin,Branch,23.0,Student,243.0,1.0,443.6199999999999,Muda,0
+422.14,Credit,Albuquerque,Branch,26.0,Student,109.0,1.0,1436.3199999999997,Muda,0
+613.21,Debit,Tucson,ATM,61.0,Retired,157.0,1.0,3279.12,Lansia,1
+73.82999999999998,Debit,Las Vegas,Online,69.0,Doctor,69.0,1.0,6020.29,Lansia,0
+67.32999999999998,Debit,Detroit,Online,59.0,Engineer,36.0,1.0,5925.98,Lansia,0
+26.920000000000044,Debit,Indianapolis,ATM,62.0,Retired,43.0,1.0,1674.94,Lansia,0
+18.30000000000004,Debit,Mesa,Online,48.0,Engineer,155.0,1.0,3733.52,Dewasa,1
+317.94,Debit,Los Angeles,ATM,54.0,Engineer,124.0,1.0,2996.51,Dewasa,0
+179.38,Debit,Mesa,Online,40.0,Doctor,173.0,1.0,11666.18,Dewasa,1
+13.919999999999987,Debit,Los Angeles,ATM,37.0,Engineer,209.0,1.0,2735.84,Dewasa,0
+365.43,Debit,Portland,ATM,25.0,Student,176.0,1.0,1073.5100000000002,Muda,1
+263.59,Debit,Dallas,Branch,71.0,Retired,16.0,1.0,6996.35,Lansia,0
+54.80000000000001,Debit,Albuquerque,Branch,34.0,Engineer,140.0,1.0,4943.49,Dewasa,0
+31.389999999999958,Debit,Tucson,ATM,20.0,Student,15.0,1.0,998.4899999999998,Muda,1
+5.710000000000008,Debit,Tucson,Branch,21.0,Student,106.0,1.0,1285.42,Muda,1
+178.39,Debit,Tucson,Online,34.0,Engineer,98.0,1.0,8469.43,Dewasa,1
+36.089999999999975,Debit,Columbus,Branch,53.0,Doctor,167.0,1.0,12319.26,Dewasa,0
+91.76999999999998,Debit,Omaha,Branch,51.0,Doctor,174.0,1.0,9240.73,Dewasa,1
+137.81,Debit,Detroit,Branch,58.0,Engineer,44.0,1.0,2631.47,Lansia,0
+256.34,Debit,Kansas City,Branch,69.0,Retired,99.0,1.0,7471.63,Lansia,0
+56.110000000000014,Debit,Boston,Branch,36.0,Doctor,109.0,1.0,11123.65,Dewasa,0
+118.1,Debit,Fort Worth,ATM,50.0,Engineer,50.0,1.0,7976.6,Dewasa,0
+137.86,Credit,Sacramento,Online,66.0,Doctor,120.0,1.0,8046.94,Lansia,1
+813.78,Credit,Atlanta,ATM,54.0,Doctor,55.0,1.0,14935.5,Dewasa,0
+237.97,Debit,Columbus,ATM,69.0,Doctor,69.0,1.0,13486.149999999998,Lansia,0
+684.96,Debit,Mesa,ATM,21.0,Student,31.0,1.0,526.6700000000001,Muda,1
+878.6300000000001,Debit,Columbus,ATM,60.0,Engineer,139.0,1.0,4954.37,Lansia,0
+276.56,Debit,Austin,Branch,68.0,Doctor,15.0,1.0,8942.58,Lansia,0
+8.75,Debit,Louisville,ATM,79.0,Retired,199.0,1.0,4044.62,Lansia,0
+637.48,Debit,Colorado Springs,Online,65.0,Retired,207.0,1.0,4148.85,Lansia,0
+103.15,Debit,San Diego,Branch,51.0,Doctor,179.0,1.0,11388.15,Dewasa,1
+505.6,Debit,Denver,Branch,52.0,Retired,183.0,1.0,5347.57,Dewasa,0
+371.86,Debit,Miami,ATM,46.0,Doctor,91.0,1.0,1329.4499999999998,Dewasa,1
+14.259999999999991,Debit,Virginia Beach,Branch,50.0,Engineer,37.0,1.0,2475.65,Dewasa,1
+13.159999999999997,Debit,Mesa,Branch,43.0,Engineer,98.0,1.0,1019.46,Dewasa,1
+73.00999999999999,Debit,Houston,ATM,56.0,Retired,101.0,1.0,2833.12,Lansia,0
+201.5,Credit,Dallas,Online,61.0,Doctor,196.0,1.0,12148.32,Lansia,0
+150.3,Debit,Las Vegas,Online,41.0,Doctor,204.0,1.0,14371.079999999998,Dewasa,0
+23.69999999999999,Debit,San Francisco,ATM,46.0,Doctor,32.0,1.0,7947.44,Dewasa,1
+49.59,Debit,Boston,Branch,48.0,Engineer,147.0,1.0,6037.03,Dewasa,0
+720.1300000000001,Credit,Omaha,ATM,21.999999999999996,Student,96.0,1.0,387.0199999999995,Muda,1
+134.92000000000002,Debit,Los Angeles,Online,19.0,Student,101.0,1.0,1081.9699999999998,Muda,0
+116.97,Debit,Oklahoma City,ATM,18.0,Student,299.0,1.0,729.6999999999998,Muda,1
+88.29000000000002,Credit,Houston,Online,50.0,Engineer,287.0,1.0,5245.93,Dewasa,0
+5.810000000000031,Debit,Houston,ATM,25.0,Student,222.0,1.0,1290.9499999999998,Muda,0
+103.48000000000002,Debit,Baltimore,ATM,32.0,Engineer,33.0,1.0,6494.25,Muda,0
+156.74,Debit,Oklahoma City,ATM,70.0,Retired,136.0,1.0,4004.35,Lansia,1
+505.14,Debit,Portland,ATM,68.0,Retired,179.0,1.0,2525.47,Lansia,1
+31.060000000000002,Debit,Kansas City,ATM,46.0,Doctor,61.0,1.0,11014.25,Dewasa,0
+7.610000000000014,Debit,Atlanta,ATM,50.0,Doctor,163.0,1.0,6275.0,Dewasa,0
+276.16,Credit,Portland,ATM,53.0,Retired,71.0,1.0,1733.3400000000001,Dewasa,1
+145.77,Debit,Memphis,ATM,68.0,Retired,237.0,1.0,5294.98,Lansia,1
+369.44,Debit,Detroit,Online,34.0,Engineer,19.0,1.0,5018.67,Dewasa,0
+558.86,Debit,Austin,ATM,60.0,Doctor,95.0,1.0,9844.32,Lansia,0
+429.15,Debit,Las Vegas,Branch,26.0,Student,218.0,1.0,712.1300000000001,Muda,0
+36.73999999999998,Debit,Tucson,Branch,33.0,Doctor,133.0,1.0,6217.58,Dewasa,1
+79.13999999999999,Credit,Portland,Online,57.0,Retired,22.0,1.0,2229.56,Lansia,1
+132.48,Debit,Charlotte,Branch,36.0,Engineer,101.0,1.0,9313.05,Dewasa,0
+203.76,Debit,Colorado Springs,Branch,55.0,Retired,37.0,1.0,6747.16,Dewasa,0
+750.95,Debit,Chicago,Branch,78.0,Retired,27.0,1.0,5134.37,Lansia,0
+0.839999999999975,Debit,Austin,ATM,52.0,Engineer,31.0,1.0,2207.54,Dewasa,0
+257.18,Debit,Los Angeles,Online,67.0,Doctor,28.0,1.0,13336.149999999998,Lansia,0
+767.66,Debit,San Jose,ATM,63.0,Doctor,155.0,1.0,1801.69,Lansia,1
+182.29,Debit,San Diego,Online,54.0,Doctor,123.0,1.0,522.3900000000003,Dewasa,1
+184.51,Credit,Portland,Online,54.0,Doctor,118.0,1.0,9381.64,Dewasa,1
+144.1,Debit,Chicago,Branch,57.0,Doctor,30.0,1.0,11523.64,Lansia,0
+72.5,Debit,Fort Worth,ATM,40.0,Doctor,30.0,1.0,12723.62,Dewasa,0
+22.149999999999977,Debit,Denver,Branch,44.0,Doctor,73.0,1.0,7451.83,Dewasa,0
+777.9200000000001,Debit,Austin,Branch,62.0,Doctor,97.0,1.0,7061.58,Lansia,0
+790.0700000000002,Debit,Miami,Online,28.0,Student,197.0,1.0,985.7699999999995,Muda,1
+767.4100000000001,Debit,Fort Worth,ATM,56.0,Doctor,27.0,1.0,12799.34,Lansia,0
+4.5800000000000125,Credit,Atlanta,Online,21.0,Student,135.0,1.0,811.2399999999998,Muda,0
+49.670000000000016,Debit,Atlanta,Online,21.0,Student,146.0,1.0,842.9399999999996,Muda,0
+77.82999999999998,Credit,Kansas City,Branch,49.0,Engineer,146.0,1.0,2471.53,Dewasa,0
+702.87,Debit,Washington,ATM,19.0,Student,184.0,1.0,1237.5,Muda,1
+868.05,Credit,San Diego,Online,49.0,Engineer,119.0,1.0,3931.03,Dewasa,1
+52.870000000000005,Debit,Indianapolis,Branch,24.0,Student,70.0,1.0,960.96,Muda,0
+179.0,Debit,Houston,ATM,78.0,Retired,121.0,1.0,7310.88,Lansia,0
+384.11,Debit,Fort Worth,ATM,58.0,Retired,12.0,1.0,7902.52,Lansia,0
+227.61,Debit,Houston,Online,71.0,Retired,61.0,1.0,4405.28,Lansia,0
+40.829999999999984,Debit,Indianapolis,ATM,48.0,Engineer,24.0,1.0,3944.12,Dewasa,0
+484.24,Debit,Raleigh,Branch,67.0,Doctor,77.0,1.0,8042.3,Lansia,1
+301.47,Debit,Colorado Springs,Branch,21.0,Student,291.0,1.0,560.7300000000005,Muda,0
+199.09,Debit,Detroit,Online,70.0,Doctor,89.0,1.0,1658.52,Lansia,0
+515.94,Debit,San Francisco,ATM,29.0,Engineer,37.0,1.0,1389.8900000000003,Muda,1
+41.93000000000001,Debit,Fresno,ATM,48.0,Engineer,136.0,1.0,5081.26,Dewasa,0
+95.35,Debit,Chicago,Online,21.0,Student,131.0,1.0,1639.9,Muda,0
+93.13999999999999,Debit,Memphis,Online,67.0,Retired,151.0,1.0,5473.82,Lansia,1
+79.32999999999998,Credit,Las Vegas,Online,51.0,Doctor,109.0,1.0,14798.099999999999,Dewasa,0
+233.71,Debit,Jacksonville,Online,19.0,Student,297.0,1.0,1231.98,Muda,0
+14.919999999999987,Debit,Las Vegas,Branch,26.0,Engineer,120.0,1.0,6611.26,Muda,0
+242.17,Debit,Jacksonville,ATM,60.0,Doctor,147.0,1.0,883.7200000000003,Lansia,0
+122.98000000000002,Debit,Jacksonville,Online,79.0,Retired,228.0,1.0,5055.99,Lansia,0
+129.35000000000002,Debit,Las Vegas,ATM,52.0,Engineer,130.0,1.0,7166.88,Dewasa,0
+138.32999999999998,Debit,Dallas,Online,21.0,Student,69.0,1.0,232.5600000000004,Muda,0
+39.31,Debit,Portland,Online,25.0,Student,178.0,1.0,1236.38,Muda,1
+91.85,Debit,Seattle,Online,21.0,Student,148.0,1.0,802.0900000000001,Muda,1
+277.7,Debit,Nashville,Branch,58.0,Engineer,107.0,1.0,1423.1999999999998,Lansia,1
+114.03,Debit,Portland,ATM,51.0,Doctor,172.0,1.0,13388.559999999998,Dewasa,1
+302.63,Credit,San Jose,Branch,27.0,Engineer,10.0,1.0,2801.28,Muda,1
+31.190000000000026,Debit,Charlotte,ATM,52.0,Engineer,74.0,1.0,5545.96,Dewasa,0
+112.91,Credit,Tucson,Online,27.0,Engineer,135.0,1.0,4764.48,Muda,1
+742.26,Debit,San Diego,Online,27.0,Engineer,36.0,1.0,7868.19,Muda,1
+256.8,Debit,Charlotte,ATM,26.0,Student,80.0,1.0,1128.38,Muda,0
+378.68,Debit,Fort Worth,ATM,60.0,Doctor,239.0,1.0,7627.04,Lansia,0
+571.93,Debit,Washington,Online,52.0,Retired,119.0,1.0,4026.03,Dewasa,1
+26.310000000000002,Credit,Austin,Online,77.0,Retired,163.0,1.0,7095.76,Lansia,0
+533.61,Debit,Mesa,Online,48.0,Engineer,115.0,1.0,3656.93,Dewasa,1
+428.62,Debit,Raleigh,Branch,55.0,Retired,72.0,1.0,3473.24,Dewasa,1
+361.22,Debit,Raleigh,ATM,64.0,Retired,167.0,1.0,7061.73,Lansia,1
+837.29,Debit,Phoenix,Branch,25.0,Student,216.0,1.0,6012.67,Muda,1
+135.27000000000004,Debit,Atlanta,ATM,48.0,Doctor,131.0,1.0,9410.51,Dewasa,0
+185.1,Debit,Albuquerque,Branch,53.0,Retired,23.0,1.0,6115.63,Dewasa,0
+354.96,Debit,Fort Worth,Online,69.0,Doctor,96.0,1.0,6712.94,Lansia,0
+224.22,Debit,Fresno,Branch,53.0,Doctor,37.0,1.0,8400.87,Dewasa,0
+737.1000000000001,Debit,Washington,ATM,60.0,Retired,92.0,1.0,4644.19,Lansia,1
+223.22,Debit,Fort Worth,ATM,27.0,Student,96.0,1.0,1734.2200000000003,Muda,0
+557.26,Debit,San Jose,ATM,69.0,Doctor,53.0,1.0,5237.12,Lansia,1
+27.439999999999998,Debit,Boston,ATM,62.0,Retired,164.0,1.0,5950.48,Lansia,0
+310.09,Debit,Detroit,Branch,36.0,Doctor,166.0,1.0,9962.5,Dewasa,0
+80.38,Debit,Kansas City,Online,52.0,Doctor,116.0,1.0,9662.88,Dewasa,0
+26.100000000000023,Credit,Detroit,Branch,66.0,Doctor,115.0,1.0,5243.0,Lansia,0
+845.1400000000001,Credit,Oklahoma City,Branch,73.0,Retired,183.0,1.0,1702.65,Lansia,1
+59.72999999999999,Debit,Fresno,ATM,27.0,Student,56.0,1.0,800.9300000000003,Muda,0
+758.77,Debit,San Antonio,ATM,60.0,Engineer,114.0,1.0,7231.47,Lansia,1
+301.51,Debit,Charlotte,ATM,21.999999999999996,Student,284.0,1.0,1052.3099999999995,Muda,0
+118.06,Credit,Las Vegas,Branch,32.0,Doctor,31.0,1.0,13560.629999999997,Muda,0
+483.9200000000001,Debit,New York,ATM,70.0,Retired,115.0,1.0,3138.0,Lansia,1
+78.93,Debit,Mesa,ATM,38.0,Doctor,145.0,1.0,9916.24,Dewasa,1
+36.62999999999997,Debit,Miami,ATM,75.0,Retired,261.0,1.0,7941.73,Lansia,1
+87.85,Debit,Colorado Springs,Branch,49.0,Engineer,63.0,1.0,3753.24,Dewasa,0
+705.3400000000001,Debit,Washington,Online,59.0,Doctor,124.0,1.0,5003.22,Lansia,1
+116.88999999999999,Debit,Columbus,Online,71.0,Retired,226.0,1.0,4880.31,Lansia,0
+106.41,Debit,Los Angeles,Branch,57.0,Retired,87.0,1.0,1310.38,Lansia,0
+584.41,Debit,Las Vegas,ATM,23.0,Student,41.0,1.0,4475.22,Muda,0
+584.98,Credit,Chicago,Branch,55.0,Retired,121.0,1.0,6521.05,Dewasa,0
+79.20999999999998,Debit,Colorado Springs,Branch,56.0,Retired,140.0,1.0,1615.04,Lansia,0
+173.13,Credit,Atlanta,Online,20.0,Student,288.0,1.0,1490.3400000000001,Muda,0
+422.81,Debit,Los Angeles,Branch,28.0,Student,193.0,1.0,1929.2799999999997,Muda,0
+135.43,Debit,San Jose,ATM,57.0,Retired,92.0,1.0,5315.83,Lansia,1
+308.94,Debit,Los Angeles,Online,25.0,Student,167.0,1.0,1931.6599999999999,Muda,0
+295.93,Debit,Boston,Branch,36.0,Doctor,117.0,1.0,1050.63,Dewasa,0
+77.44,Debit,Washington,Branch,58.0,Retired,268.0,1.0,1950.63,Lansia,1
+92.5,Credit,Seattle,Online,40.0,Engineer,70.0,1.0,6295.45,Dewasa,1
+97.74000000000001,Credit,Los Angeles,Online,41.0,Engineer,137.0,1.0,4113.63,Dewasa,0
+291.68,Debit,Columbus,ATM,21.0,Student,90.0,1.0,1451.02,Muda,0
+56.96000000000001,Debit,Albuquerque,ATM,21.999999999999996,Student,135.0,1.0,1597.85,Muda,0
+436.8,Debit,Seattle,Online,27.0,Student,92.0,1.0,1256.33,Muda,1
+259.49,Debit,Austin,Online,72.0,Retired,292.0,1.0,7320.61,Lansia,0
+726.26,Debit,Omaha,Online,57.0,Retired,147.0,1.0,2150.38,Lansia,1
+568.68,Debit,Houston,ATM,72.0,Retired,101.0,1.0,2940.04,Lansia,0
+14.159999999999997,Credit,Oklahoma City,Branch,74.0,Retired,290.0,1.0,5399.76,Lansia,1
+61.329999999999984,Debit,Raleigh,ATM,27.0,Engineer,129.0,1.0,7537.4,Muda,1
+27.639999999999986,Debit,New York,Online,54.0,Engineer,23.0,1.0,7498.51,Dewasa,1
+3.8499999999999943,Debit,San Jose,ATM,29.0,Doctor,32.0,1.0,10506.41,Muda,1
+431.22,Credit,Austin,Branch,73.0,Retired,129.0,1.0,6505.98,Lansia,0
+178.55,Debit,Houston,Branch,55.0,Engineer,67.0,1.0,7568.4,Dewasa,0
+248.76,Debit,Denver,ATM,18.0,Student,56.0,1.0,546.46,Muda,0
+76.16,Debit,San Francisco,ATM,23.0,Student,99.0,1.0,1072.2499999999995,Muda,1
+347.25,Debit,Indianapolis,ATM,69.0,Doctor,250.0,1.0,7273.55,Lansia,0
+325.98,Debit,Washington,ATM,19.0,Student,277.0,1.0,782.3500000000004,Muda,1
+249.56,Debit,New York,Branch,76.0,Retired,246.0,1.0,4444.95,Lansia,1
+17.430000000000035,Debit,Albuquerque,ATM,56.0,Doctor,33.0,1.0,10658.88,Lansia,0
+198.01,Credit,Austin,Branch,26.0,Student,40.000000000000014,1.0,250.9300000000003,Muda,0
+585.58,Debit,Raleigh,Branch,23.0,Student,55.0,1.0,1729.02,Muda,1
+434.67,Credit,Virginia Beach,Online,27.0,Student,124.0,1.0,1298.13,Muda,1
+510.7,Credit,Nashville,Online,27.0,Student,294.0,1.0,5828.48,Muda,1
+331.98,Debit,Denver,ATM,74.0,Retired,12.0,1.0,7600.99,Lansia,0
+199.54,Debit,Portland,Online,56.0,Engineer,268.0,1.0,9603.73,Lansia,1
+212.97,Debit,Atlanta,Online,59.0,Engineer,178.0,1.0,4180.4,Lansia,0
+270.56,Debit,Philadelphia,Online,23.0,Student,139.0,1.0,1268.44,Muda,1
+306.37,Debit,Colorado Springs,ATM,26.0,Engineer,120.0,1.0,9609.67,Muda,0
+643.02,Credit,Detroit,ATM,38.0,Doctor,85.0,1.0,11989.39,Dewasa,0
+98.48000000000002,Debit,Miami,Branch,47.0,Engineer,12.0,1.0,9538.92,Dewasa,1
+889.01,Debit,Virginia Beach,Online,36.0,Engineer,169.0,1.0,4826.88,Dewasa,1
+537.86,Debit,Kansas City,Online,27.0,Student,134.0,1.0,293.0600000000004,Muda,0
+241.18,Debit,Mesa,ATM,25.0,Student,162.0,1.0,1445.5299999999997,Muda,1
+130.54,Debit,Atlanta,ATM,64.0,Doctor,94.0,1.0,11204.62,Lansia,0
+800.29,Credit,San Diego,Branch,20.0,Student,84.0,1.0,693.3999999999996,Muda,1
+8.81000000000003,Debit,Dallas,Online,57.0,Doctor,165.0,1.0,13523.649999999998,Lansia,0
+28.52000000000004,Debit,Detroit,ATM,20.0,Student,163.0,1.0,662.5100000000002,Muda,0
+431.31,Credit,Atlanta,Online,23.0,Student,99.0,1.0,342.7300000000005,Muda,0
+885.3300000000002,Credit,Raleigh,ATM,47.0,Engineer,59.0,1.0,7764.16,Dewasa,1
+199.23,Debit,Tucson,ATM,29.0,Engineer,54.0,1.0,9834.0,Muda,1
+42.25999999999999,Debit,Raleigh,ATM,44.0,Doctor,171.0,1.0,268.7699999999995,Dewasa,1
+166.06,Debit,Indianapolis,ATM,30.0,Engineer,172.0,1.0,5397.68,Muda,0
+588.37,Debit,Dallas,Online,28.0,Student,284.0,1.0,1926.08,Muda,0
+72.82,Debit,Houston,Online,68.0,Doctor,127.0,1.0,6911.62,Lansia,0
+162.36,Debit,Tucson,Online,36.0,Engineer,147.0,1.0,7527.04,Dewasa,1
+584.82,Credit,Nashville,Online,43.0,Doctor,109.0,1.0,12071.1,Dewasa,1
+38.150000000000006,Credit,Oklahoma City,Online,72.0,Retired,129.0,1.0,1425.4700000000003,Lansia,1
+639.57,Debit,Philadelphia,Branch,60.0,Doctor,43.0,1.0,11726.47,Lansia,1
+58.22999999999999,Debit,Phoenix,Online,28.0,Student,34.0,1.0,9189.76,Muda,1
+776.21,Credit,Raleigh,Online,78.0,Retired,99.0,1.0,4895.87,Lansia,1
+188.61,Debit,Boston,Online,67.0,Retired,26.0,1.0,7167.57,Lansia,0
+675.37,Credit,Jacksonville,Online,56.0,Retired,31.0,1.0,4704.91,Lansia,0
+94.82,Credit,Columbus,Branch,67.0,Retired,56.0,1.0,1267.7200000000003,Lansia,0
+425.18,Credit,Fresno,Online,59.0,Engineer,135.0,1.0,5790.55,Lansia,0
+50.28,Debit,Oklahoma City,Branch,60.0,Engineer,65.0,1.0,5729.1,Lansia,1
+70.68,Debit,El Paso,Online,25.0,Student,105.0,1.0,1478.4099999999999,Muda,0
+261.77,Debit,Chicago,Online,28.0,Student,46.0,1.0,824.71,Muda,0
+183.22,Debit,Milwaukee,ATM,27.0,Student,63.0,1.0,1024.4199999999996,Muda,1
+156.86,Debit,Charlotte,ATM,51.0,Doctor,102.0,1.0,14453.349999999999,Dewasa,0
+120.67000000000002,Debit,Colorado Springs,ATM,42.0,Doctor,233.0,1.0,5374.54,Dewasa,0
+308.62,Credit,Sacramento,Branch,59.0,Engineer,101.0,1.0,9148.08,Lansia,1
+506.81,Debit,Milwaukee,ATM,59.0,Engineer,41.0,1.0,2757.23,Lansia,1
+328.39,Debit,New York,ATM,41.0,Engineer,108.0,1.0,2523.83,Dewasa,1
+796.3,Debit,Austin,Branch,67.0,Retired,64.0,1.0,1498.79,Lansia,0
+72.47,Debit,Boston,Online,29.0,Doctor,72.0,1.0,1305.56,Muda,0
+279.6,Debit,Fort Worth,ATM,25.0,Student,131.0,1.0,1910.9,Muda,0
+304.2,Debit,Indianapolis,Online,25.0,Student,102.0,1.0,423.6400000000003,Muda,0
+351.38,Debit,New York,Branch,64.0,Retired,21.0,1.0,7606.63,Lansia,1
+86.07,Debit,Dallas,Branch,31.0,Doctor,23.0,1.0,842.5600000000004,Muda,0
+604.5,Debit,Portland,ATM,28.0,Student,80.0,1.0,709.4200000000001,Muda,1
+258.7,Debit,Charlotte,ATM,27.0,Student,123.0,1.0,1358.37,Muda,0
+11.460000000000008,Credit,Austin,Branch,75.0,Retired,64.0,1.0,7258.33,Lansia,0
+63.75999999999999,Debit,San Antonio,ATM,69.0,Retired,100.0,1.0,4980.26,Lansia,1
+446.83,Credit,Miami,Branch,55.0,Retired,143.0,1.0,1623.5,Dewasa,1
+63.53999999999999,Debit,Dallas,ATM,26.0,Engineer,136.0,1.0,4401.78,Muda,0
+81.11000000000001,Debit,Charlotte,Online,48.0,Engineer,110.0,1.0,2051.37,Dewasa,0
+170.96,Debit,Washington,Branch,64.0,Doctor,69.0,1.0,13374.89,Lansia,1
+48.50999999999999,Debit,Austin,Branch,21.999999999999996,Student,69.0,1.0,3363.23,Muda,0
+325.03,Debit,Jacksonville,Branch,60.0,Doctor,106.0,1.0,13521.759999999998,Lansia,0
+738.94,Debit,Philadelphia,Branch,41.0,Doctor,173.0,1.0,13856.18,Dewasa,1
+180.36,Credit,Oklahoma City,Online,33.0,Engineer,55.0,1.0,9905.23,Dewasa,1
+720.46,Debit,Tucson,Branch,54.0,Retired,44.0,1.0,3101.54,Dewasa,1
+291.46,Debit,Miami,ATM,57.0,Retired,135.0,1.0,7142.53,Lansia,1
+98.24000000000001,Debit,Mesa,Online,28.0,Student,148.0,1.0,580.6599999999999,Muda,1
+100.48000000000002,Credit,Milwaukee,Branch,18.0,Student,104.0,1.0,6149.81,Muda,1
+45.900000000000006,Debit,Columbus,Branch,56.0,Engineer,264.0,1.0,5698.25,Lansia,0
+258.21,Debit,San Antonio,Online,39.0,Doctor,225.0,1.0,9562.41,Dewasa,1
+287.51,Debit,El Paso,Online,21.999999999999996,Student,255.0,1.0,187.64999999999964,Muda,0
+501.3,Credit,San Antonio,Online,26.0,Engineer,146.0,1.0,8520.08,Muda,1
+26.100000000000023,Debit,Mesa,ATM,27.0,Student,32.0,1.0,1435.7200000000003,Muda,1
+436.77,Debit,Jacksonville,ATM,20.0,Student,176.0,1.0,825.6899999999996,Muda,0
+123.35,Credit,Baltimore,Online,31.0,Doctor,10.0,1.0,6852.16,Muda,0
+139.52,Debit,Portland,Branch,23.0,Student,31.0,1.0,1570.2200000000003,Muda,1
+2.5100000000000193,Debit,Baltimore,Online,63.0,Retired,32.0,1.0,4891.56,Lansia,0
+22.620000000000005,Debit,Virginia Beach,ATM,64.0,Doctor,102.0,1.0,7682.0,Lansia,1
+126.82999999999998,Debit,Austin,Branch,57.0,Retired,39.0,1.0,6100.98,Lansia,0
+46.599999999999994,Debit,Detroit,Online,55.0,Doctor,68.0,1.0,1562.9,Dewasa,0
+243.8,Debit,San Francisco,Branch,57.0,Doctor,48.0,1.0,13732.809999999998,Lansia,1
+231.51,Credit,Oklahoma City,Branch,60.0,Retired,96.0,1.0,5790.7,Lansia,1
+762.74,Debit,Los Angeles,ATM,64.0,Doctor,244.0,1.0,207.10000000000036,Lansia,0
+34.03,Debit,Los Angeles,Branch,57.0,Engineer,38.0,1.0,3077.2,Lansia,0
+101.50999999999999,Credit,Tucson,Online,46.0,Engineer,199.0,1.0,3052.47,Dewasa,1
+309.42,Debit,Fresno,Branch,27.0,Engineer,42.0,1.0,8564.46,Muda,0
+257.6,Credit,Fort Worth,Online,59.0,Retired,293.0,1.0,7950.74,Lansia,0
+82.00999999999999,Credit,Sacramento,Branch,23.0,Student,156.0,1.0,287.46000000000004,Muda,1
+476.99,Debit,San Diego,Online,23.0,Student,187.0,1.0,1154.4799999999996,Muda,1
+333.39,Debit,Philadelphia,ATM,68.0,Doctor,35.0,1.0,10628.59,Lansia,1
+10.300000000000011,Debit,Fresno,ATM,47.0,Engineer,197.0,1.0,7801.32,Dewasa,0
+98.94999999999999,Debit,Mesa,Branch,75.0,Retired,73.0,1.0,5670.82,Lansia,1
+215.13,Debit,Charlotte,Online,46.0,Engineer,114.0,1.0,3956.69,Dewasa,0
+218.57,Credit,Memphis,Branch,62.0,Doctor,102.0,1.0,13869.86,Lansia,1
+341.88,Debit,Austin,ATM,43.0,Engineer,89.0,1.0,4159.52,Dewasa,0
+50.43000000000001,Debit,San Jose,Branch,32.0,Doctor,51.0,1.0,9794.26,Muda,1
+440.43,Debit,Colorado Springs,Branch,78.0,Retired,23.0,1.0,5123.24,Lansia,0
+1.9800000000000182,Debit,Seattle,ATM,66.0,Doctor,170.0,1.0,11619.1,Lansia,1
+173.45,Debit,Philadelphia,ATM,31.0,Engineer,161.0,1.0,9077.62,Muda,1
+438.76,Debit,San Antonio,Branch,21.999999999999996,Student,73.0,1.0,1824.19,Muda,1
+519.62,Credit,Washington,Online,71.0,Retired,40.000000000000014,1.0,4159.33,Lansia,1
+738.6799999999998,Debit,Chicago,Online,50.0,Doctor,124.0,1.0,14352.329999999998,Dewasa,0
+151.14,Debit,Memphis,Online,64.0,Retired,38.0,1.0,2156.54,Lansia,1
+444.52,Debit,Louisville,Online,27.0,Engineer,17.0,1.0,5424.6,Muda,0
+5.289999999999964,Debit,Indianapolis,Online,52.0,Doctor,276.0,1.0,11263.89,Dewasa,0
+97.63,Credit,Milwaukee,Online,48.0,Doctor,127.0,1.0,12467.31,Dewasa,1
+256.95,Debit,San Diego,Branch,26.0,Engineer,71.0,1.0,2531.24,Muda,1
+734.86,Credit,Boston,Branch,48.0,Engineer,290.0,1.0,6242.03,Dewasa,0
+84.28,Debit,Memphis,Branch,39.0,Doctor,142.0,1.0,13586.059999999998,Dewasa,1
+202.49,Credit,Virginia Beach,ATM,48.0,Engineer,69.0,1.0,7447.1,Dewasa,1
+154.99,Debit,Mesa,Branch,25.0,Student,53.0,1.0,1419.31,Muda,1
+481.53,Debit,Atlanta,Branch,58.0,Retired,277.0,1.0,6142.54,Lansia,0
+172.92,Debit,Miami,Online,20.0,Student,212.0,1.0,416.3699999999999,Muda,1
+275.59,Credit,Philadelphia,Branch,53.0,Retired,238.0,1.0,6313.22,Dewasa,1
+207.2,Debit,Columbus,Online,60.0,Engineer,133.0,1.0,8092.94,Lansia,0
+136.82,Debit,Chicago,Branch,31.0,Engineer,14.0,1.0,6229.13,Muda,0
+26.30000000000001,Debit,Virginia Beach,ATM,32.0,Doctor,33.0,1.0,7473.73,Muda,1
+319.5,Credit,Virginia Beach,Branch,29.0,Engineer,69.0,1.0,2366.3,Muda,1
+182.42,Debit,Kansas City,Branch,51.0,Retired,137.0,1.0,3051.29,Dewasa,0
+716.62,Debit,Atlanta,ATM,44.0,Doctor,241.0,1.0,6987.4,Dewasa,0
+222.96,Credit,Fresno,ATM,65.0,Doctor,150.0,1.0,7370.41,Lansia,0
+79.76999999999998,Debit,San Francisco,ATM,68.0,Retired,167.0,1.0,5010.31,Lansia,1
+592.24,Debit,Tucson,ATM,52.0,Doctor,140.0,1.0,9817.05,Dewasa,1
+200.19,Credit,San Antonio,Branch,52.0,Retired,108.0,1.0,4389.96,Dewasa,1
+343.88,Debit,Nashville,Online,63.0,Retired,97.0,1.0,6486.18,Lansia,1
+162.1,Debit,Milwaukee,Branch,41.0,Engineer,151.0,1.0,8576.65,Dewasa,1
+36.12000000000003,Debit,Houston,Online,21.999999999999996,Student,234.0,1.0,1593.0299999999997,Muda,0
+354.91,Debit,Boston,ATM,74.0,Retired,191.0,1.0,3872.55,Lansia,0
+38.410000000000025,Debit,Denver,ATM,40.0,Doctor,117.0,1.0,9129.68,Dewasa,0
+13.300000000000011,Debit,San Antonio,ATM,23.0,Student,63.0,1.0,213.0,Muda,1
+189.65,Debit,Charlotte,ATM,21.0,Student,60.0,1.0,8457.09,Muda,0
+255.32,Debit,Baltimore,ATM,80.0,Retired,27.0,1.0,6290.62,Lansia,0
+230.51,Credit,Memphis,Branch,51.0,Engineer,56.0,1.0,9522.37,Dewasa,1
+237.74,Debit,Tucson,ATM,61.0,Doctor,152.0,1.0,11795.12,Lansia,1
+85.00999999999999,Credit,Portland,ATM,25.0,Student,157.0,1.0,1299.4,Muda,1
+444.47,Debit,San Jose,Online,57.0,Retired,61.0,1.0,6062.94,Lansia,1
+55.97999999999999,Credit,Kansas City,Branch,24.0,Student,87.0,1.0,7047.04,Muda,0
+54.91,Credit,Columbus,ATM,41.0,Engineer,275.0,1.0,7927.27,Dewasa,0
+393.74,Debit,Charlotte,Online,26.0,Student,90.0,1.0,1769.06,Muda,0
+515.57,Debit,Columbus,ATM,27.0,Engineer,56.0,1.0,9269.67,Muda,0
+332.15,Debit,Dallas,ATM,59.0,Doctor,105.0,1.0,9749.46,Lansia,0
+177.94,Debit,Milwaukee,Online,19.0,Student,173.0,1.0,123.23999999999978,Muda,1
+240.03,Debit,Atlanta,Online,33.0,Engineer,31.0,1.0,7807.73,Dewasa,0
+474.77,Debit,Boston,Online,46.0,Engineer,284.0,1.0,8494.53,Dewasa,0
+451.7,Debit,Chicago,Online,29.0,Engineer,103.0,1.0,8994.67,Muda,0
+243.85,Debit,Omaha,Branch,39.0,Engineer,43.0,1.0,4576.78,Dewasa,1
+435.08,Debit,San Francisco,Online,55.0,Engineer,78.0,1.0,2103.41,Dewasa,1
+127.78,Debit,Miami,ATM,20.0,Student,170.0,1.0,1046.6599999999999,Muda,1
+23.140000000000015,Credit,Mesa,Online,47.0,Doctor,93.0,1.0,10536.54,Dewasa,1
+545.87,Debit,Miami,Branch,27.0,Engineer,41.0,1.0,4860.01,Muda,1
+21.210000000000008,Debit,Nashville,Online,55.0,Engineer,37.0,1.0,9575.42,Dewasa,1
+423.53,Credit,Kansas City,Branch,50.0,Doctor,81.0,1.0,5453.4,Dewasa,0
+114.15,Debit,Atlanta,ATM,19.0,Student,52.0,1.0,1612.4,Muda,0
+275.98,Credit,Washington,Online,72.0,Retired,67.0,1.0,6151.05,Lansia,1
+590.68,Debit,Washington,Branch,27.0,Student,23.0,1.0,852.1999999999998,Muda,1
+152.42,Debit,San Jose,ATM,42.0,Doctor,176.0,1.0,9141.79,Dewasa,1
+395.77,Credit,El Paso,Branch,43.0,Doctor,118.0,1.0,6425.99,Dewasa,0
+615.16,Debit,Boston,Online,26.0,Student,140.0,1.0,214.60999999999967,Muda,0
+207.82,Credit,Las Vegas,Online,19.0,Student,30.0,1.0,229.02000000000044,Muda,0
+220.52,Debit,Seattle,ATM,57.0,Retired,152.0,1.0,1793.0900000000001,Lansia,1
+281.47,Debit,Philadelphia,ATM,34.0,Engineer,142.0,1.0,4437.48,Dewasa,1
+57.91,Credit,Sacramento,Branch,58.0,Engineer,97.0,1.0,3641.06,Lansia,1
+30.47999999999996,Credit,Seattle,Branch,32.0,Doctor,78.0,1.0,11481.85,Muda,1
+424.47,Debit,Oklahoma City,Online,21.999999999999996,Student,116.0,1.0,5491.55,Muda,1
+228.4,Debit,Omaha,ATM,67.0,Doctor,116.0,1.0,9598.43,Lansia,1
+67.17000000000002,Debit,Seattle,Online,63.0,Doctor,48.0,1.0,14410.439999999999,Lansia,1
+118.69,Debit,Omaha,Online,33.0,Doctor,296.0,1.0,749.3400000000001,Dewasa,1
+221.33,Debit,Louisville,ATM,27.0,Student,276.0,1.0,1185.4300000000007,Muda,0
+252.31,Credit,Seattle,ATM,26.0,Student,172.0,1.0,1584.6,Muda,1
+433.53,Debit,Philadelphia,Branch,38.0,Doctor,231.0,1.0,6368.32,Dewasa,1
+178.26,Debit,Oklahoma City,ATM,59.0,Retired,59.0,1.0,1137.1300000000006,Lansia,1
+237.0,Debit,Tucson,Online,49.0,Doctor,115.0,1.0,14021.399999999998,Dewasa,1
+347.63,Credit,Chicago,Online,25.0,Student,272.0,1.0,1400.04,Muda,0
+517.68,Debit,Omaha,ATM,31.0,Doctor,24.0,1.0,11305.81,Muda,1
+36.24999999999997,Debit,Tucson,Branch,52.0,Doctor,76.0,1.0,193.0600000000004,Dewasa,1
+46.53,Debit,San Francisco,ATM,42.0,Engineer,34.0,1.0,4468.12,Dewasa,1
+207.47,Debit,Miami,ATM,53.0,Doctor,12.0,1.0,1688.9,Dewasa,1
+199.7,Debit,Indianapolis,ATM,43.0,Engineer,285.0,1.0,7574.45,Dewasa,0
+307.89,Credit,Nashville,Online,62.0,Retired,90.0,1.0,2637.55,Lansia,1
+20.059999999999974,Debit,Memphis,ATM,27.0,Student,144.0,1.0,445.21000000000004,Muda,1
+236.57,Debit,Sacramento,ATM,79.0,Retired,112.0,1.0,3488.77,Lansia,1
+0.3199999999999932,Debit,Boston,ATM,39.0,Engineer,136.0,1.0,7158.58,Dewasa,0
+14.28000000000003,Debit,Phoenix,ATM,23.0,Student,81.0,1.0,1597.5100000000002,Muda,1
+232.35,Credit,Atlanta,Branch,33.0,Engineer,153.0,1.0,4186.25,Dewasa,0
+317.53,Debit,Miami,Online,44.0,Engineer,104.0,1.0,6237.68,Dewasa,1
+74.67000000000002,Debit,Indianapolis,ATM,43.0,Engineer,283.0,1.0,3449.35,Dewasa,0
+65.00999999999999,Credit,Austin,Online,29.0,Doctor,67.0,1.0,10235.19,Muda,0
+0.44999999999998863,Debit,Kansas City,Branch,34.0,Engineer,172.0,1.0,8670.23,Dewasa,0
+364.13,Debit,Fort Worth,ATM,63.0,Doctor,61.0,1.0,8198.0,Lansia,0
+222.66,Debit,Detroit,Online,39.0,Doctor,88.0,1.0,14466.379999999997,Dewasa,0
+638.24,Debit,Phoenix,Branch,48.0,Engineer,64.0,1.0,5695.78,Dewasa,1
+241.21,Debit,Omaha,ATM,31.0,Engineer,108.0,1.0,1220.8599999999997,Muda,1
+171.16,Debit,New York,Online,51.0,Retired,42.0,1.0,6126.5,Dewasa,1
+37.64999999999998,Credit,San Jose,Online,27.0,Student,109.0,1.0,411.77999999999975,Muda,1
+25.77000000000001,Debit,Memphis,Online,68.0,Retired,17.999999999999986,1.0,4331.54,Lansia,1
+789.8,Debit,Jacksonville,ATM,40.0,Doctor,94.0,1.0,13948.09,Dewasa,0
+806.97,Debit,Seattle,Online,25.0,Student,11.0,1.0,102.19999999999982,Muda,1
+490.82,Debit,Kansas City,ATM,26.0,Engineer,114.0,1.0,8704.27,Muda,0
+311.28,Debit,Atlanta,Branch,49.0,Doctor,198.0,1.0,135.96000000000004,Dewasa,0
+85.03,Debit,San Diego,ATM,51.0,Retired,48.0,1.0,4597.57,Dewasa,1
+307.75,Debit,Detroit,Branch,64.0,Doctor,63.0,1.0,1061.5799999999995,Lansia,0
+333.67,Debit,Fort Worth,Online,36.0,Engineer,68.0,1.0,9238.08,Dewasa,0
+372.08,Debit,Houston,Branch,66.0,Doctor,63.0,1.0,13330.739999999998,Lansia,0
+502.9,Credit,Fresno,Online,26.0,Student,141.0,1.0,341.2399999999998,Muda,0
+103.81,Debit,Oklahoma City,ATM,36.0,Doctor,34.0,1.0,7044.63,Dewasa,1
+69.43,Debit,Las Vegas,ATM,30.0,Engineer,162.0,1.0,9281.85,Muda,0
+110.4,Credit,San Diego,ATM,56.0,Doctor,62.0,1.0,8639.36,Lansia,1
+251.8,Debit,Mesa,ATM,62.0,Doctor,102.0,1.0,11796.66,Lansia,1
+334.07,Debit,New York,Branch,59.0,Engineer,200.0,1.0,7306.79,Lansia,1
+52.44,Debit,Raleigh,Online,27.0,Student,87.0,1.0,3157.75,Muda,1
+141.37,Debit,Denver,Online,46.0,Engineer,77.0,1.0,1019.7699999999995,Dewasa,0
+211.7,Credit,Chicago,Online,50.0,Doctor,205.0,1.0,12272.78,Dewasa,0
+308.23,Debit,Las Vegas,ATM,60.0,Retired,23.0,1.0,4150.63,Lansia,0
+111.41,Debit,Chicago,Branch,21.0,Student,181.0,1.0,1204.1099999999997,Muda,0
+675.49,Debit,Charlotte,ATM,61.0,Retired,159.0,1.0,1893.0,Lansia,0
+294.61,Debit,Omaha,Branch,60.0,Retired,74.0,1.0,7375.59,Lansia,1
+106.43,Credit,Phoenix,ATM,52.0,Engineer,164.0,1.0,9403.12,Dewasa,1
+381.52,Debit,Seattle,Online,36.0,Doctor,79.0,1.0,5798.92,Dewasa,1
+5.660000000000025,Debit,Fresno,Branch,40.0,Engineer,33.0,1.0,5434.64,Dewasa,0
+209.09,Debit,Virginia Beach,ATM,48.0,Doctor,203.0,1.0,9100.81,Dewasa,1
+521.81,Debit,Virginia Beach,ATM,47.0,Engineer,34.0,1.0,4750.96,Dewasa,1
+588.36,Debit,Charlotte,Online,33.0,Engineer,134.0,1.0,8434.99,Dewasa,0
+146.67,Debit,Albuquerque,Online,20.0,Student,273.0,1.0,1569.75,Muda,0
+57.34,Debit,Atlanta,Online,27.0,Student,81.0,1.0,1100.6399999999999,Muda,0
+294.77,Debit,Philadelphia,Online,77.0,Retired,101.0,1.0,2272.17,Lansia,1
+162.59,Debit,Indianapolis,Branch,64.0,Retired,19.0,1.0,7104.83,Lansia,0
+56.150000000000006,Debit,Nashville,Branch,31.0,Doctor,77.0,1.0,13265.92,Muda,1
+524.55,Debit,El Paso,ATM,39.0,Doctor,175.0,1.0,8292.75,Dewasa,0
+535.4,Debit,San Diego,Branch,23.0,Student,110.0,1.0,651.8400000000001,Muda,1
+56.84,Debit,Raleigh,ATM,45.0,Engineer,185.0,1.0,7977.78,Dewasa,1
+124.05000000000001,Credit,Albuquerque,Branch,61.0,Doctor,220.0,1.0,7009.54,Lansia,0
+802.8900000000001,Debit,Chicago,ATM,19.0,Student,175.0,1.0,1973.63,Muda,0
+193.16,Debit,Charlotte,ATM,64.0,Retired,109.0,1.0,2304.56,Lansia,0
+541.52,Credit,Indianapolis,Branch,48.0,Engineer,161.0,1.0,6087.24,Dewasa,0
+20.169999999999987,Debit,San Antonio,ATM,77.0,Retired,86.0,1.0,3869.37,Lansia,1
+35.98000000000002,Credit,Nashville,Branch,40.0,Doctor,133.0,1.0,11147.34,Dewasa,1
+273.24,Debit,Fresno,Branch,51.0,Retired,173.0,1.0,2202.21,Dewasa,0
+663.45,Debit,Albuquerque,ATM,67.0,Retired,147.0,1.0,5897.29,Lansia,0
+343.86,Debit,Charlotte,Branch,57.0,Engineer,70.0,1.0,3278.65,Lansia,0
+75.43,Debit,Fresno,ATM,77.0,Retired,266.0,1.0,1441.8599999999997,Lansia,0
+86.79000000000002,Debit,Fort Worth,Branch,33.0,Doctor,166.0,1.0,8795.37,Dewasa,0
+14.099999999999966,Debit,Louisville,Branch,45.0,Engineer,73.0,1.0,6949.21,Dewasa,0
+63.329999999999984,Credit,Louisville,Branch,23.0,Student,124.0,1.0,792.3299999999999,Muda,0
+606.27,Debit,Louisville,Branch,29.0,Doctor,42.0,1.0,9668.78,Muda,0
+4.469999999999999,Debit,Baltimore,Branch,27.0,Student,132.0,1.0,1381.75,Muda,0
+338.69,Debit,Virginia Beach,Branch,18.0,Student,169.0,1.0,1137.8900000000003,Muda,1
+97.73000000000002,Debit,Sacramento,Branch,69.0,Doctor,156.0,1.0,7885.21,Lansia,1
+27.610000000000042,Credit,Fort Worth,ATM,54.0,Retired,26.0,1.0,3679.64,Dewasa,0
+284.17,Debit,Memphis,ATM,51.0,Retired,189.0,1.0,3479.56,Dewasa,1
+76.20999999999998,Debit,Los Angeles,Branch,21.999999999999996,Student,69.0,1.0,664.9300000000003,Muda,0
+584.51,Debit,Denver,ATM,74.0,Retired,76.0,1.0,3254.56,Lansia,0
+432.18,Debit,Las Vegas,Branch,18.0,Student,162.0,1.0,678.8299999999999,Muda,0
+134.55,Debit,San Jose,Online,59.0,Doctor,165.0,1.0,14852.419999999998,Lansia,1
+61.66,Debit,Sacramento,ATM,26.0,Student,86.0,1.0,5705.4,Muda,1
+12.350000000000023,Debit,Fresno,Branch,25.0,Student,22.0,1.0,1846.85,Muda,0
+213.25,Debit,San Francisco,Branch,25.0,Student,63.0,1.0,677.79,Muda,1
+34.93000000000001,Debit,Columbus,Branch,31.0,Engineer,72.0,1.0,2810.37,Muda,0
+335.68,Debit,Tucson,Online,24.0,Student,142.0,1.0,1188.9499999999998,Muda,1
+423.96,Debit,San Diego,ATM,43.0,Doctor,75.0,1.0,8374.38,Dewasa,1
+220.82,Debit,Louisville,Branch,42.0,Engineer,31.0,1.0,4298.13,Dewasa,0
+406.12,Debit,Houston,ATM,42.0,Doctor,106.0,1.0,10501.53,Dewasa,0
+427.83,Debit,Phoenix,ATM,47.0,Engineer,29.000000000000014,1.0,3293.06,Dewasa,1
+21.900000000000006,Debit,Phoenix,ATM,28.0,Student,30.0,1.0,1052.27,Muda,1
+393.68,Debit,San Diego,ATM,55.0,Doctor,141.0,1.0,10135.88,Dewasa,1
+281.91,Debit,Denver,Branch,25.0,Student,269.0,1.0,225.52999999999975,Muda,0
+239.85,Debit,Tucson,ATM,70.0,Retired,50.0,1.0,1477.63,Lansia,1
+237.84,Debit,Nashville,Branch,26.0,Student,16.0,1.0,8932.39,Muda,1
+459.29,Credit,Kansas City,Online,64.0,Retired,109.0,1.0,1006.1199999999994,Lansia,0
+196.49,Debit,Oklahoma City,Branch,41.0,Engineer,65.0,1.0,7516.56,Dewasa,1
+344.87,Debit,Houston,Branch,58.0,Retired,25.0,1.0,7447.44,Lansia,0
+129.62,Credit,San Jose,ATM,23.0,Student,124.0,1.0,620.2799999999997,Muda,1
+16.529999999999973,Debit,Houston,ATM,21.0,Student,220.0,1.0,707.9499999999998,Muda,0
+277.02,Credit,Denver,ATM,46.0,Doctor,227.0,1.0,8586.38,Dewasa,0
+13.020000000000039,Debit,Charlotte,Branch,51.0,Doctor,42.0,1.0,6076.45,Dewasa,0
+199.02,Debit,Memphis,ATM,21.999999999999996,Student,185.0,1.0,793.6300000000001,Muda,1
+684.5,Debit,Fort Worth,Branch,29.0,Doctor,76.0,1.0,6258.63,Muda,0
+45.920000000000016,Debit,Nashville,ATM,26.0,Student,23.0,1.0,544.5600000000004,Muda,1
+761.73,Debit,Columbus,ATM,19.0,Student,27.0,1.0,151.27999999999975,Muda,0
+331.38,Debit,Miami,ATM,42.0,Engineer,122.0,1.0,844.5500000000002,Dewasa,1
+602.8,Debit,Baltimore,Branch,60.0,Retired,173.0,1.0,7417.69,Lansia,0
+64.12,Credit,Indianapolis,Branch,57.0,Doctor,222.0,1.0,1029.0900000000006,Lansia,0
+94.63999999999999,Credit,New York,ATM,28.0,Student,144.0,1.0,586.7600000000002,Muda,1
+155.56,Credit,Austin,Branch,19.0,Student,64.0,1.0,129.78999999999996,Muda,0
+301.39,Credit,Denver,Online,47.0,Doctor,104.0,1.0,10548.58,Dewasa,0
+136.31,Debit,Nashville,Online,74.0,Retired,65.0,1.0,4384.95,Lansia,1
+4.389999999999986,Debit,Philadelphia,ATM,26.0,Student,63.0,1.0,1429.6099999999997,Muda,1
+429.25,Debit,Seattle,Online,29.0,Engineer,107.0,1.0,5019.68,Muda,1
+138.54,Credit,Austin,Branch,60.0,Engineer,93.0,1.0,8274.77,Lansia,0
+33.03,Debit,Washington,Branch,21.0,Student,28.0,1.0,935.8800000000001,Muda,1
+76.38999999999999,Debit,Sacramento,Online,30.0,Doctor,80.0,1.0,11584.32,Muda,1
+25.319999999999993,Debit,Oklahoma City,ATM,19.0,Student,25.0,1.0,1642.3400000000001,Muda,1
+330.91,Debit,Kansas City,ATM,36.0,Engineer,28.0,1.0,6481.35,Dewasa,0
+153.55,Debit,Denver,Online,37.0,Doctor,16.0,1.0,5619.91,Dewasa,0
+217.61,Debit,Omaha,Online,27.0,Student,120.0,1.0,1661.1,Muda,1
+131.69,Credit,Denver,Branch,53.0,Engineer,59.0,1.0,2958.43,Dewasa,0
+68.49000000000001,Debit,Nashville,Online,67.0,Retired,49.0,1.0,6683.31,Lansia,1
+470.62,Debit,Tucson,Branch,57.0,Doctor,127.0,1.0,12470.62,Lansia,1
+385.35,Debit,Miami,Branch,38.0,Doctor,269.0,1.0,5184.13,Dewasa,1
+275.87,Debit,Seattle,ATM,25.0,Student,112.0,1.0,1697.58,Muda,1
+90.94,Credit,Colorado Springs,ATM,63.0,Retired,56.0,1.0,3896.08,Lansia,0
+206.25,Debit,Baltimore,ATM,74.0,Retired,56.0,1.0,3651.07,Lansia,0
+116.75999999999999,Debit,Philadelphia,ATM,51.0,Engineer,212.0,1.0,4480.43,Dewasa,1
+91.5,Debit,Omaha,ATM,47.0,Doctor,77.0,1.0,667.6599999999999,Dewasa,1
+489.31,Debit,Louisville,Branch,43.0,Engineer,36.0,1.0,5595.22,Dewasa,0
+414.49,Credit,Phoenix,Online,58.0,Doctor,108.0,1.0,12709.58,Lansia,1
+28.380000000000024,Debit,Tucson,Branch,45.0,Doctor,260.0,1.0,8892.62,Dewasa,1
+456.05,Debit,Detroit,Branch,68.0,Doctor,20.0,1.0,11729.51,Lansia,0
+54.84,Debit,Kansas City,Online,52.0,Retired,124.0,1.0,3495.51,Dewasa,0
+29.920000000000016,Credit,Denver,Online,68.0,Doctor,63.0,1.0,7855.01,Lansia,0
+133.06,Debit,Las Vegas,Online,35.0,Engineer,143.0,1.0,8843.44,Dewasa,0
+468.32,Debit,Fresno,Online,69.0,Retired,152.0,1.0,4710.04,Lansia,0
+245.62,Debit,San Antonio,Branch,23.0,Student,127.0,1.0,1879.8199999999997,Muda,1
+83.6,Debit,San Jose,ATM,47.0,Doctor,192.0,1.0,13899.239999999998,Dewasa,1
+331.22,Credit,Oklahoma City,Branch,61.0,Doctor,161.0,1.0,12613.25,Lansia,1
+57.49000000000001,Credit,Detroit,Online,24.0,Student,177.0,1.0,765.1499999999996,Muda,0
+157.56,Debit,Indianapolis,Branch,43.0,Doctor,159.0,1.0,7541.16,Dewasa,0
+230.3,Debit,Colorado Springs,Online,46.0,Engineer,24.0,1.0,8356.88,Dewasa,0
+305.92,Debit,El Paso,ATM,72.0,Retired,88.0,1.0,1445.4700000000003,Lansia,0
+116.32999999999998,Debit,Fresno,Branch,27.0,Student,144.0,1.0,1696.15,Muda,0
+537.71,Credit,Mesa,Online,19.0,Student,175.0,1.0,1806.08,Muda,1
+538.17,Credit,Washington,Branch,27.0,Engineer,252.0,1.0,5908.04,Muda,1
+219.44,Debit,Washington,Online,42.0,Engineer,23.0,1.0,4207.27,Dewasa,1
+58.77000000000001,Debit,Memphis,Online,27.0,Engineer,191.0,1.0,7261.7,Muda,1
+719.76,Debit,San Francisco,Branch,19.0,Student,190.0,1.0,690.5199999999995,Muda,1
+163.22,Debit,Miami,Online,26.0,Student,217.0,1.0,1788.27,Muda,1
+291.22,Credit,Baltimore,Online,41.0,Engineer,100.0,1.0,3677.63,Dewasa,0
+56.52000000000001,Debit,Omaha,ATM,42.0,Engineer,152.0,1.0,6911.2,Dewasa,1
+195.8,Debit,Raleigh,Online,39.0,Doctor,186.0,1.0,12027.68,Dewasa,1
+66.75999999999999,Credit,Austin,Branch,36.0,Doctor,44.0,1.0,184.72000000000025,Dewasa,0
+106.99000000000001,Debit,Omaha,Branch,38.0,Engineer,152.0,1.0,5771.4,Dewasa,1
+107.1,Credit,Philadelphia,Online,25.0,Student,175.0,1.0,193.80000000000018,Muda,1
+235.34,Debit,Washington,Branch,26.0,Student,68.0,1.0,566.8299999999999,Muda,1
+86.35,Credit,Indianapolis,Branch,52.0,Retired,24.0,1.0,1550.48,Dewasa,0
+337.99,Debit,Colorado Springs,ATM,70.0,Doctor,115.0,1.0,9038.63,Lansia,0
+577.13,Credit,San Jose,Branch,40.0,Engineer,66.0,1.0,6640.51,Dewasa,1
+213.33,Debit,Omaha,ATM,52.0,Retired,161.0,1.0,5400.44,Dewasa,1
+883.9200000000001,Credit,Tucson,Online,53.0,Retired,129.0,1.0,2342.64,Dewasa,1
+69.80000000000001,Credit,New York,Branch,27.0,Student,138.0,1.0,136.77000000000044,Muda,1
+768.94,Debit,Indianapolis,Branch,64.0,Retired,53.0,1.0,6860.18,Lansia,0
+179.62,Debit,Tucson,Online,24.0,Student,119.0,1.0,409.2600000000002,Muda,1
+425.91,Debit,Jacksonville,ATM,23.0,Student,47.0,1.0,383.5799999999999,Muda,0
+263.34,Debit,Denver,ATM,64.0,Retired,55.0,1.0,2411.02,Lansia,0
+113.03,Credit,Tucson,Online,36.0,Doctor,12.0,1.0,6756.13,Dewasa,1
+11.02000000000001,Debit,Austin,Online,42.0,Doctor,42.0,1.0,7879.66,Dewasa,0
+865.1700000000001,Debit,Houston,Branch,24.0,Student,161.0,1.0,9297.5,Muda,0
+152.0,Debit,Albuquerque,ATM,51.0,Engineer,63.0,1.0,7531.43,Dewasa,0
+270.39,Debit,Jacksonville,ATM,25.0,Student,104.0,1.0,899.1499999999996,Muda,0
+261.45,Credit,Oklahoma City,Online,50.0,Engineer,96.0,1.0,6735.74,Dewasa,1
+99.98000000000002,Credit,Washington,Online,73.0,Retired,152.0,1.0,3037.97,Lansia,1
+400.69,Debit,Las Vegas,Online,32.0,Engineer,26.0,1.0,9040.33,Muda,0
+411.47,Debit,Fort Worth,ATM,26.0,Student,120.0,1.0,796.6300000000001,Muda,0
+204.63,Debit,Las Vegas,Online,52.0,Engineer,92.0,1.0,9199.52,Dewasa,0
+421.56,Debit,San Jose,Online,53.0,Engineer,144.0,1.0,8037.87,Dewasa,1
+193.38,Debit,Memphis,ATM,18.0,Student,285.0,1.0,1081.7899999999995,Muda,1
+377.04,Debit,Chicago,ATM,34.0,Engineer,64.0,1.0,3812.87,Dewasa,0
+54.099999999999994,Credit,Boston,Branch,28.0,Engineer,17.0,1.0,940.9099999999999,Muda,0
+18.099999999999994,Debit,Louisville,ATM,57.0,Retired,66.0,1.0,6474.34,Lansia,0
+408.62,Credit,Fort Worth,Online,48.0,Engineer,159.0,1.0,2498.48,Dewasa,0
+162.1,Debit,Baltimore,Branch,64.0,Doctor,221.0,1.0,9578.74,Lansia,0
+165.31,Debit,Boston,ATM,49.0,Doctor,28.0,1.0,7346.66,Dewasa,0
+856.9000000000001,Debit,New York,Branch,36.0,Engineer,150.0,1.0,8579.69,Dewasa,1
+271.22,Credit,Louisville,ATM,45.0,Doctor,87.0,1.0,6863.02,Dewasa,0
+307.68,Credit,Detroit,Online,75.0,Retired,162.0,1.0,2052.84,Lansia,0
+348.17,Debit,El Paso,ATM,21.0,Student,181.0,1.0,1887.8400000000001,Muda,0
+557.78,Credit,Phoenix,Branch,26.0,Student,102.0,1.0,1289.48,Muda,1
+325.6,Debit,Dallas,ATM,69.0,Doctor,88.0,1.0,13777.099999999999,Lansia,0
+235.83,Credit,Memphis,Online,53.0,Engineer,169.0,1.0,4120.75,Dewasa,1
+603.54,Debit,Albuquerque,Online,44.0,Doctor,26.0,1.0,10517.47,Dewasa,0
+270.25,Debit,Tucson,ATM,31.0,Engineer,42.0,1.0,5414.97,Muda,1
+123.38,Debit,Sacramento,Online,59.0,Doctor,40.000000000000014,1.0,13542.41,Lansia,1
+577.12,Debit,Virginia Beach,ATM,39.0,Engineer,69.0,1.0,5265.88,Dewasa,1
+92.24000000000001,Debit,Philadelphia,Branch,60.0,Engineer,93.0,1.0,6937.48,Lansia,1
+856.21,Credit,Colorado Springs,Branch,33.0,Doctor,109.0,1.0,12690.79,Dewasa,0
+251.54,Debit,Tucson,Branch,48.0,Doctor,177.0,1.0,254.75,Dewasa,1
+28.629999999999995,Debit,San Diego,Branch,56.0,Retired,146.0,1.0,3382.91,Lansia,1
+185.97,Debit,Denver,Online,23.0,Student,19.0,1.0,1776.9099999999999,Muda,0
+243.08,Credit,Jacksonville,Online,24.0,Student,93.0,1.0,131.25,Muda,0
+12.180000000000007,Debit,New York,Branch,76.0,Retired,77.0,1.0,4909.24,Lansia,1
+232.12,Debit,Omaha,ATM,37.0,Engineer,51.0,1.0,6689.87,Dewasa,1
+198.62,Credit,Tucson,Branch,27.0,Student,84.0,1.0,1196.0699999999997,Muda,1
